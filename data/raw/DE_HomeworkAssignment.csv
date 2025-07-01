@@ -1,0 +1,1401 @@
+id,locality,postalCode,state,streetAddress,geoCoordinates,operatorId,operatorName
+-4ZBQG-7Q6NqIB0E-IKSTEPG9lYhs0HdwxuBQCJ5rGM,Hamburg,22041,Hamburg,Walddörferstraße 110,"[10.07688,53.57944]",DEHHM,Hamburger Energiewerke
+-7GAlj5KMjg81KmaOcdIlmUrDZLpYp_kp_pXqeePYdc,Hamburg,20095,Hamburg,Große Bäckerstraße 8,"[9.993134,53.548933]",DEHHM,Hamburger Energiewerke
+-AolBOqEu0y-HEbZ74WdzDFCQc4N6zoS9z1bDtUBSPo,Hamburg,22767,Hamburg,Kattrepel 20,"[9.99916,53.5496]",DEHHM,Hamburger Energiewerke
+-DTxSOKBxOlXgxzPImpaJZfBUD-YeW9Il9rIYuMiYKw,Hamburg,22337,Hamburg,Kornweg 30,"[10.052869,53.633256]",DEHHM,Hamburger Energiewerke
+-EvegtEp4082TQGRRTNiIOGmWiDlvGvmHoumxSa6RPI,Hamburg,22159,Hamburg,Berner Heerweg 64,"[10.116497,53.596514]",DEHHM,Hamburger Energiewerke
+-JWIpOTmN38fAVKYcFRKvxoJQlFNU9fwb8RVIvnqV0w,Hamburg,21077,Hamburg,Winsener Straße 84A,"[9.99052,53.44517]",DEEZE,eze.network GmbH
+-NV78CvztFZVJDtzcz_tNy4yKP4yG2sXNQnG45xd3Fg,Hamburg,20537,Hamburg,Süderstraße 133-141,"[10.035876,53.547365]",DEDES,Total Energies
+-SF2-ruqoFK2Z1TLCh3hAf9K6zMMUgCH2GEvVo79_DU,Hamburg,22395,Hamburg,Saselbergring 25,"[10.09713,53.66222]",DEWLN,Wirelane
+-Sxy49HgfCWCPVNsIDj_GwDslTwFRcbOdKYCS_Waqcg,Hamburg,21077,Hamburg,Maldfeldstraße 2,"[9.935783,53.430464]",DEEBW,EnBW
+-Uv9kCsE8bTzZiN32-U0b0sdm9IPFvaGcNnw8MMa16A,Hamburg,20537,Hamburg,Wendenstrasse 349,"[10.044744,53.551064]",DELMS,LastMileSolutions
+-VC7sxGweFAwKhekWvgTZrA3F4nickJelfKF1dmW70E,Hamburg,22305,Hamburg,Maurienstraße 13,"[10.045834,53.585399]",DEHHM,Hamburger Energiewerke
+-XmcF52kBZVjD_IfGnLrBmWnzt1VssBye4Lqaq9mrqM,Hamburg,22457,Hamburg,Albertine-Assor-Straße 4,"[9.899808,53.632377]",DEHHM,Hamburger Energiewerke
+-Zy2L2_8w4X2fxpIkq6PqXcfhCE74ZOh8_75v1VDWD0,Hamburg,22359,Hamburg,Uppenhof 1,"[10.162372,53.648946]",DEHHM,Hamburger Energiewerke
+-c4F47iTSofyjUPoyChViTDYcXMbs--KtFusUyrSm-I,Hamburg,22335,Hamburg,431 Alsterkrugchaussee,"[10.00969,53.62142]",DETNM,Shell Recharge
+-dGbUHIqoCknuCtOFdorkxoX3JCmxScaOMCA1DwqcSk,Hamburg,22047,Hamburg,Walddörferstraße ggü. 133,"[10.083262,53.58009]",DEHHM,Hamburger Energiewerke
+-eQ4DQCEBZ3R1Jz9PHwIYXAuCuavTL9aSW-yXdVn7bo,Hamburg,21031,Hamburg,Lohbrügger Landstraße 6,"[10.205528,53.495595]",DEHHM,Hamburger Energiewerke
+-g495vCQfnV9sEamUGpG0FYJO99RX7OYR4uJZhnKUig,Hamburg,21035,Hamburg,Glasbläserhöfe 14,"[10.20285,53.482996]",DEHHM,Hamburger Energiewerke
+-impo-e0dsY-SljqlEhrndngl4ouvuDfjl9TktoYHUQ,Hamburg,22143,Hamburg,Merkurring 120,"[10.189383,53.608323]",DELA1,LAN1 Hotspots GmbH
+-lJZN302aUrT_jjBMrouoYQCeE4i5dMUH_CGK7CaA8A,Hamburg,22399,Hamburg,Auf der Koppel 7,"[10.079211,53.661838]",DEHHM,Hamburger Energiewerke
+-lQHkq3LABXiGbsglTzOuPFcYJn5S-Ap3Tf60Fo150s,Hamburg,22159,Hamburg,Berner Heerweg 372,"[10.140354,53.628011]",DEHHM,Hamburger Energiewerke
+-rKz7VIrwdINdr9GNBhanHC2F6h1G1Cqe_nxh_A84HY,Hamburg,20255,Hamburg,Hellkamp 2A,"[9.946057,53.576695]",DEHHM,Hamburger Energiewerke
+-uAqxF3O7iA8YHvt-WZOF7jmeTTDWVy0v2MW2b8hl8o,Hamburg,22359,Hamburg,Claus-Ferck-Straße 11,"[10.162687,53.649316]",DEHHM,Hamburger Energiewerke
+-uayxgnsGosR2Uh4JB__ofQGQoIN2aSYueC6732L2MY,Hamburg,22087,Hamburg,Ifflandstraße 78,"[10.023166,53.562888]",DEWLN,Wirelane
+-vguYcZumF6bUhOZxC20xzKlE5C5KjhVE7aUg4iREiI,Hamburg,20357,Hamburg,Feldstraße 53-58,"[9.973904,53.556953]",DEVAT,Vattenfall
+-wY8BvuPM-6Mqt3iO_ukCeUsZMdqfy6REY0OTEDKbX0,Hamburg,22043,Hamburg,Jenfelder Allee 80,"[10.12586,53.58416]",DEHHM,Hamburger Energiewerke
+-zI0SwspsDxaxB1RT1qwWYPz34JS7MGhg-YFwschEz4,Hamburg,22529,Hamburg,Troplowitzstraße 19,"[9.957627,53.582599]",ATHTB,Chargepoint
+0-VaAdgbcEyIH1iJejcuE358oMYZBticrUXw99v7j5E,Hamburg,22459,Hamburg,Harzburger Weg 2,"[9.945335,53.629153]",DEHHM,Hamburger Energiewerke
+019CkHGYtvGITT-S7mRXGTV4ixJDyc1dkTtpX00VCCc,Hamburg,22457,Hamburg,Oldesloer Straße 251,"[9.938724,53.656671]",ATHTB,Chargepoint
+036XLQKDc91OKpvJbzlSrJf1_BwdjUOL7Z3H_USX6nw,Hamburg,22087,Hamburg,Landwehr 2,"[10.03538,53.56311]",DEHHM,Hamburger Energiewerke
+04NqEYiPARvg5p2fXTPirPJYDhnBrIqwID6bG1gf7n8,Hamburg,20149,Hamburg,Jungfrauenthal 8,"[9.986647,53.581366]",DEHHM,Hamburger Energiewerke
+0EbIAzJGo37fi-LxzR94-fuzDCwdmlvNduOqDcoo8OY,Hamburg,20097,Hamburg,Repsoldstraße 54,"[10.0137,53.54834]",DEHHM,Hamburger Energiewerke
+0FtdJuyLNT3KEkQyYwhUxgIWsAsUjsLFqerDPKYmWWA,Hamburg,22455,Hamburg,Vielohweg ggü 89_1,"[9.943142,53.63905]",DEUBI,ubitricity
+0HYbIzZRcbsb_JiLZNFGHc2MDj1dAWTXBTXKGNbQglw,Hamburg,22335,Hamburg,Heschredder ggü 104,"[10.015019,53.631588]",DEHHM,Hamburger Energiewerke
+0J07K1euhFmUSxT_PDIfGxFUqzFPq1fGAIk8b6n-iOk,Hamburg,20253,Hamburg,Eppendorfer Weg 181,"[9.96775,53.58017]",DEEZE,eze.network GmbH
+0KBDzhLg68Kz1xQM3Harcs9K0GJa1X3cWBR3QH6kENY,Hamburg,22767,Hamburg,Paul-Roosen-Straße 47,"[9.95536,53.55357]",DEHHM,Hamburger Energiewerke
+0LPC9pbt_AmR9nLM29P4NvokAfGrAicilsZpfuhcEa0,Hamburg,22415,Hamburg,Lademannbogen 135,"[10.030759,53.646434]",DEHHM,Hamburger Energiewerke
+0LnhS7DY4KWLONLsFQcrvvNCX5YzJcTziRh8IvjJYL4,Hamburg,20357,Hamburg,Lagerstraße 2,"[9.97317,53.56128]",DEEZE,eze.network GmbH
+0Pw8IHb0cwvwGclbZ8hDaEoPZ2MS2Ew-yTd1AD1cYKw,Hamburg,22559,Hamburg,Suurheid 20,"[9.77215,53.58225]",DEQRM,Qwello
+0RMz5fC7Z7C2CKRIRP1S5k2gCA-lvKBzBOhSO07oLHM,Hamburg,22767,Hamburg,Warnholtzstraße 7,"[9.945229,53.555237]",DEHHM,Hamburger Energiewerke
+0SuwkPNEZB9cBlP56TF0P-SPJ8k5YjNewc660fHqETQ,Hamburg,22761,Hamburg,Bornkampsweg 4,"[9.919512,53.56569]",DEPOW,MOON POWER GmbH
+0WQUnXT-Z1kZlIab7fpRm-Q1cST-R4Cn2qBFRJck1uA,Hamburg,22335,Hamburg,LH Basis G450,"[9.981733,53.618157]",DEVAT,Vattenfall
+0eOin5GETYZ2UTBWC58BPwTjDcLRL6eFlny3eYGq-VY,Hamburg,21107,Hamburg,Reinstorfweg 16,"[9.9928,53.501257]",DELDL,Lidl
+0iVKXxat9iihy-KceFLouEyRQ7FlUWquD53HrwR90YU,Hamburg,20146,Hamburg,Grindelhof 58,"[9.98459,53.56981]",DEHHM,Hamburger Energiewerke
+0lGCgQYf3DTHnozdvfvNqtZjpPjgqzW6ktBrcHxNEJc,Hamburg,22159,Hamburg,Berner Heerweg 141,"[10.119277,53.602666]",DEWLN,Wirelane
+0nFKEEOWD3YckJyV06oudI67JEvDN6PKaGAHQCaggYs,Hamburg,22457,Hamburg,Pinneberger Straße 16,"[9.907441,53.633404]",DELDL,Lidl
+0oVHXJ3ZoMlDzCd1b5YV6YdJs952KfeqW8n2_H87WlU,Hamburg,22457,Hamburg,Frohmestraße 16,"[9.91908,53.634615]",DEHHM,Hamburger Energiewerke
+0rViZHbGAReV6OZyN59ch81S6mVSR1-MR9lo0SdKsTI,Hamburg,22047,Hamburg,Bullenkoppel 16,"[10.094439,53.594818]",DEHHM,Hamburger Energiewerke
+0tDn9L06SlJtrsre0fkfafWzJbEGKeOCmoxnAEg0udI,Hamburg,20148,Hamburg,Bei St. Johannis 1,"[9.994413,53.570501]",DEHHM,Hamburger Energiewerke
+0x_fNAAlOdTzXv7Ku22SdCnT93dRksEVMS5Rdeej04E,Hamburg,22589,Hamburg,Schenefelder Landstraße 96,"[9.825345,53.569217]",DEHHM,Hamburger Energiewerke
+1-CnnYbQYBtk0RqSzErVjv2HKRKeRorm14VEh3K0X0o,Hamburg,22393,Hamburg,Stormarnplatz 1,"[10.094778,53.651647]",DEHHM,Hamburger Energiewerke
+10vjs2KMEw8zgKn661KCL6noofdm67hs7XPl81ZWAZU,Hamburg,22083,Hamburg,Flotowstraße 2,"[10.027497,53.577912]",DEHHM,Hamburger Energiewerke
+1735n7uRyMn8YLIOHWtdb15HX28i_IZq7dfPpW6lfxk,Hamburg,22087,Hamburg,Mühlendamm 29,"[10.025014,53.561616]",DEHHM,Hamburger Energiewerke
+1DIXZc6al9Ig1p3QU0TFIYcb4UP_Iw12tYzMSCytWuE,Hamburg,20537,Hamburg,Anckelmannstraße 33,"[10.032731,53.553907]",DEHHM,Hamburger Energiewerke
+1G76NgK3z3k53HbShiSrxJJjj1QfTvIjXjo1Qlz0zcY,Hamburg,22415,Hamburg,Langenhorner Chaussee 287,"[10.006404,53.653664]",DE2GO,EWEGo
+1IPCcScvNBll2iKR_gqyWureI2_i0PVaTnjo_7gbhog,Hamburg,22393,Hamburg,Stormarnplatz 4,"[10.094309,53.651296]",DEHHM,Hamburger Energiewerke
+1LlZrFzmiHim1VUbsUDG50L-160FRIt8GO0hsu_JF8E,Hamburg,20259,Hamburg,Eppendorfer Weg 86,"[9.961736,53.574169]",DEHHM,Hamburger Energiewerke
+1PfyvjAtydvvSerIYNhRDAKNoTITPc1rS6Gc2Qv-8jQ,Hamburg,21073,Hamburg,Hastedtstraße 1,"[9.97854,53.45718]",DEHHM,Hamburger Energiewerke
+1QKEq0ac6FA9B-Wvi6p-X10woPSgxyZs6skJpKLAeU4,Hamburg,22419,Hamburg,Käkenkamp 3,"[10.00042,53.67227]",DEEZE,eze.network GmbH
+1Ug3rH8-tftbpQ-mefxt_AJh3k6kzEOERbx_r3VHyiA,Hamburg,21107,Hamburg,Georg-Wilhelm-Straße 69,"[9.992346,53.508686]",DEHHM,Hamburger Energiewerke
+1XK9GVbImPa8-W3JcGk8owCBMbjGRfv2I3iHm3vAZVc,Hamburg,22525,Hamburg,12 Schnackenburgallee,"[9.91915,53.57353]",DETNM,Shell Recharge
+1ZrS7ocizQKoRhk6WXCEw02wh26wFLCKJRNA2C0X4O0,Hamburg,21073,Hamburg,Lüneburger Straße 39,"[9.981879,53.4603]",DEAPC,E.ON Drive
+1_mfx4BHlybSdQh8M6epNAkyN69-ikYgkJXchvnPQsU,Hamburg,21031,Hamburg,Häußlerstraße 40,"[10.214361,53.511472]",DEWLN,Wirelane
+1bLN17X3vaTWEdCAL4K1nGyy0_Y_U-XHtTvKXG0FfnI,Hamburg,22111,Hamburg,Bauerberg 2,"[10.078739,53.550426]",DEHHM,Hamburger Energiewerke
+1eNTHzMJI3Me_m0kQherBy2f9W_8uhXevPoinIyufA4,Hamburg,22335,Hamburg,Alsterkrugchaussee 445,"[10.02127,53.77926]",DEWLN,Wirelane
+1edQ9SUP1yKN4Z_c5Td8-l1YJ15becTXcrCOpvcYeCI,Hamburg,22419,Hamburg,Langenhorner Chaussee 666,"[10.001324,53.678984]",DEPOW,MOON POWER GmbH
+1lVWl_LfpE_3r1EOL07bZIJv1XO8Rau_GxjQdk5IVkY,Hamburg,22765,Hamburg,Holländische Reihe 27,"[9.92881,53.54769]",DEHHM,Hamburger Energiewerke
+1mZs6hx-wAJrIgniAeOE4fACnYpZCxy3eLiw9M-9TqA,Hamburg,22335,Hamburg,LH Basis G465,"[9.98275,53.61905]",DEVAT,Vattenfall
+1ngJf9bS2xFWGB-TutuIuUoxKW1adb2JLHIQOl9yrrQ,Hamburg,20355,Hamburg,Congressplatz 2,"[9.98714,53.56231]",DEEDR,E.ON Drive
+1pMRzuFIdyui6u5xoBozqn6J62yHBxb14rne1I55jOA,Hamburg,22297,Hamburg,10 Kapstadtring,"[10.028658,53.603837]",DECPI,ChargePoint Germany GmbH
+1sMNbbuSttwntjaRuRnBvB1qI55RnJdx6VGTQjDxEf8,Hamburg,22335,Hamburg,LH Basis G224-1,"[9.991189,53.620169]",DEVAT,Vattenfall
+1tYK9Ed3j0-63fiWmWu56n0IOwVhjZVbL2DaNAzvwgk,Hamburg,20149,Hamburg,Harvestehuder Weg 48,"[9.99818,53.5781]",DEEZE,eze.network GmbH
+1y5e7_uNBPD5Ye2o43U3ySNlLsdkCxtRAJD1X9OaR6Q,Hamburg,22117,Hamburg,Kaltenbergen 1,"[10.14222,53.54299]",DEHHM,Hamburger Energiewerke
+1zKZf3EXhb19iTi16TQb47HyucRG4otxAHwQggrFS1o,Hamburg,20249,Hamburg,Isekai 11a,"[9.99173,53.5855]",DEUBI,ubitricity
+22RbknT_XZ04pLbIn0j1uVupbalq-2FxvfGTRlvuiLw,Hamburg,20535,Hamburg,Carl-Petersen-Straße 102,"[10.05065,53.55754]",DEHHM,Hamburger Energiewerke
+23bHYFvDYbukcM45hr8qqJ2pCMOqoFhuliqfhp1oVUg,Hamburg-Duvenstedt,22397,Hamburg,Poppenbütteler Chaussee 35,"[10.103218,53.704703]",DELDL,Lidl
+2DV5JZhfPF8zG9KOE6hJJJ1Pfm7bIsfq6CAHrl_1lRM,Hamburg,22767,Hamburg,Otzenstraße 38,"[9.957415,53.555935]",DEHHM,Hamburger Energiewerke
+2Ex_B4gxXjX--yLYn8Ab1jiyBTQlHeWwv2m0ReXXNvE,Hamburg,22089,Hamburg,Roßberg 2,"[10.04944,53.56783]",DEHHM,Hamburger Energiewerke
+2INZs7rksQprZs6VVXl_R4JFeJbtBhX46Y-nKIlFdeU,Hamburg,22303,Hamburg,Semperstraße 57,"[10.018516,53.587054]",DEHHM,Hamburger Energiewerke
+2J2GIx4G8R9BO5eWBnceHoqhCKO-dRmXILP_DYALpmM,Hamburg,21035,Hamburg,Nettelnburger Landweg 2,"[10.184006,53.486731]",DEBPE,Aral Pulse
+2JrS-XfLcKSBDGCGL58hfKNGH_cInsKaH47FZaXqsH8,Hamburg,20257,Hamburg,Armbruststraße 18,"[9.94138,53.57478]",DEHHM,Hamburger Energiewerke
+2KkmaXcFIJT5iIn-wBNfMAfabub0meLwTwRXbhzRMLo,Hamburg,22605,Hamburg,Klein Flottbeker Weg 93,"[9.877209,53.553594]",DEHHM,Hamburger Energiewerke
+2PDkiiWcv-YnMg8GYe1G7ftnShLGJxU4BmI-ltjKPHA,Hamburg,20097,Hamburg,Nagelsweg 37,"[10.01993,53.54712]",DEWBE,Westbridge Energy GmbH
+2TrQbpKvz34bvGhJraRUdec0JKW82Uvl4A__oom_xP0,Hamburg,20095,Hamburg,Alstertor 13,"[9.997618,53.552188]",DEHHM,Hamburger Energiewerke
+2fDNGpPNQetB3oTJiPPBnNqHJnEebT16YIqaNJ_eG1Y,Hamburg,20148,Hamburg,Johnsallee 26,"[9.992988,53.566659]",DEHHM,Hamburger Energiewerke
+2hLRdo2hAz3DOC_r2m2JW5nA7CHQVZGBA4dDPGgyoFA,Hamburg,22089,Hamburg,Eilbeker Weg  169,"[10.05301,53.572381]",DEHHM,Hamburger Energiewerke
+2qNwoVVhghFw-j4B44Ghz-m95a6Be2BaKJmt3gXmWrw,Hamburg,22049,Hamburg,Straßburger Straße 65,"[10.06883,53.5828]",DEHHM,Hamburger Energiewerke
+2rJ-rXIH5UXyrYeKyrUcjXZGqfLCOJjxgUeQB4ui_3o,Hamburg,22083,Hamburg,Heitmannstraße 35,"[10.03056,53.57692]",DEHHM,Hamburger Energiewerke
+2ukwBcNjYllfYImNqO83nrtXlbTZEzChvH-UQqBnk90,Hamburg,22763,Hamburg,Behringstraße 43,"[9.920037,53.553878]",DEHHM,Hamburger Energiewerke
+2xpE82ad-pwyGOuqOeM1cT6XHo3TE0N5ZS1fCJvxXO0,Hamburg,22301,Hamburg,Moorfuhrtweg 13,"[10.008827,53.585299]",DEHHM,Hamburger Energiewerke
+2zSXA66gqz392hZW4RF6bmDUwVpLCaO3JThHwFeWO8I,Hamburg,22043,Hamburg,Schiffbeker Weg 299,"[10.122855,53.569199]",DEJEG,Jolt Energy
+38Vn0GR9okWeIAWwZHEHbHCtkThcSJyX-Bd91qB7-y0,Hamburg,21029,Hamburg,Vierlandenstraße 10,"[10.210845,53.488122]",DEHHM,Hamburger Energiewerke
+39pEFW5gusftEgtpFQi_-fVK2_o0FtUrzzrEGtQ-y24,Hamburg,22525,Hamburg,Winsbergring  15,"[9.911136,53.574895]",DETNK,TankE
+3AvnsSBQiaE85wvqKzvgBwMXJe8EDMQwlUxFQuoZMQY,Hamburg,22559,Hamburg,Hexentwiete 41,"[9.7685,53.58843]",CHECU,eCarUp AG
+3GJxh4n3wtsbCJHoy-SGXtVJzYg2xyRU6AM6O6Qg57M,Hamburg,20537,Hamburg,Wendenstraße 473,"[10.05669,53.54966]",DEHHM,Hamburger Energiewerke
+3IYJnKyq4H4pFYLJZ-oTKtpdxDKJUHJjPnTRLUXe2dw,Hamburg,22391,Hamburg,Saseler Chaussee 22,"[10.09189,53.63554]",DEHHM,Hamburger Energiewerke
+3JY1UYGZ6C2VcMFUfFnp5sw49A0TEkTSJFmuZpbmnfA,Hamburg,21079,Hamburg,Am Radeland 25,"[9.947672,53.471985]",DEEDR,E.ON Drive
+3N2djiDmDf_xP2uxZXJOvBDhcmNDJFtdqjoOxPrhaCU,Hamburg,22149,Hamburg,Am Sooren 85A,"[10.18293,53.593952]",DEHHM,Hamburger Energiewerke
+3OSZrPyKfAo3yKQ-oX6_EeiXKFmlLX8PP5nZN-KMlnM,Hamburg,20535,Hamburg,Klaus-Groth-Straße 42,"[10.031,53.555259]",DEHHM,Hamburger Energiewerke
+3YmEThbaagqF9sQCExqJ7HDB9TyTfCHVfrJf29Fna2Q,Hamburg,22307,Hamburg,Fuhlsbüttler Straße 399,"[10.040611,53.602611]",DEHHM,Hamburger Energiewerke
+3anZTE-MsoEiIS0AOy9ogZXqonjeR82H_OfXLIDXqeA,Hamburg,20537,Hamburg,Steinbeker Straße 29,"[10.05538,53.54611]",DEEZE,eze.network GmbH
+3bsTtuk9IYhotU71prAknbt5C-NZ8nlNaXrbLOww08w,Hamburg,22303,Hamburg,Fersenfeldtsweg 6,"[10.013538,53.583253]",DEHHM,Hamburger Energiewerke
+3e5SVxhkyz28R0Odpdt48op8Dj-Mv__zg_oqiiA2IFs,Hamburg,22605,Hamburg,Bernadottestraße 212,"[9.88841,53.54851]",DEHHM,Hamburger Energiewerke
+3k_fGYoCFde3RD3SXLX3PlPRuwQ2CSRiz0QdgrfqzPU,Hamburg,20099,Hamburg,Holzdamm 1,"[10.004926,53.556592]",DEWLN,Wirelane
+3puobLTSVcWmQFLBma0c6RkWCAAEqT8oxXZpc4aw-Wk,Hamburg,22083,Hamburg,Barmbeker Markt 8,"[10.041896,53.580855]",DEHHM,Hamburger Energiewerke
+3qIFZaBrp4Dxhlv5PALhCKFfjaXRvN_bR7vONYKDZtM,Hamburg,22761,Hamburg,Von-Sauer-Straße 11,"[9.908842,53.56558]",DEHHM,Hamburger Energiewerke
+3sFNp0lpuFmzn4LuyGFUjJCVUyufXUzKbYMx2xUkk8Y,Hamburg,20535,Hamburg,Schwarze Straße 3,"[10.043462,53.55689]",DEHHM,Hamburger Energiewerke
+3t-J1Dh0U4xZKZvtmL5UXQy8Dm6a3p13dWBb29Dt26c,Hamburg,22335,Hamburg,Langenhorner Chaussee 53,"[10.013431,53.638817]",DEBPE,Aral Pulse
+3ud-IE1MBT5XqvGOPxeiLmM0TgCQb7S7gIROjxAdlTU,Hamburg,21073,Hamburg,Schwarzenbergstraße 95,"[9.9702,53.463805]",DESNH,Stromnetz Hamburg GmbH
+4-euP6Xntt9Tp5vrua0MsbX7_sTyhTBnD5VNEnWH7wU,Hamburg,22529,Hamburg,Hamburg Heinrich-Kock-Weg Nr. 24,"[9.97178,53.595347]",DEGUE,Liikennevirta Oy (CPO)
+40QcmtT_8Qk43e3kJA_s9w8eo6aOBsmf7Z_h5rmKSZM,Hamburg,22177,Hamburg,Moosrosenweg 18,"[10.069108,53.603208]",DESNH,Stromnetz Hamburg GmbH
+43QAK-TlwmltgHFZ42gKKeHpJonT-cqSJNEuETe9Dq4,Hamburg,20148,Hamburg,Badestraße 19,"[9.99739,53.56607]",DEEZE,eze.network GmbH
+45cQaly7y193vusCdl21mRi-gplVK92uD4zOnoV87B8,Hamburg,22081,Hamburg,Dehnhaide 111,"[10.051779,53.579127]",DEHHM,Hamburger Energiewerke
+4Da7pTbYAhQYXKQDSbA1DBVShTMfHrQa-YZ16QUhsOQ,Hamburg,21075,Hamburg,Milchgrund 1,"[9.95604,53.46414]",DEHHM,Hamburger Energiewerke
+4Doq0gcxkheapdVhNYIzU77PVbE13gvNCxuWl6sPGjQ,Hamburg,22083,Hamburg,Grovestraße 9,"[10.02232,53.58151]",DEEZE,eze.network GmbH
+4EcnHp-65piViqhrSfOBk_WcTZ5Dssa0JiQyIedI-3U,Hamburg,22763,Hamburg,Große Brunnenstraße 7,"[9.92553,53.54727]",DEHHM,Hamburger Energiewerke
+4F5hdl7XezGz0iFT7K6W96u5c1fbzcJvzKi9QZCzF7Q,Hamburg,22459,Hamburg,Friedrich-Ebert-Straße 73,"[9.937457,53.625693]",DEHHM,Hamburger Energiewerke
+4F84qSkWr3vQB3b61z7_o58dLXrRnSalfKD7aXHMKZs,Hamburg,22335,Hamburg,LH Basis G224-2,"[9.991221,53.620193]",DEVAT,Vattenfall
+4FMJCUkYc-gvqPmu88Bn0cr1hmnKG-C2ZSqyUYobUbM,Hamburg,21129,Hamburg,Kurt-Eckelmann-Straße (Gebäude 13,"[9.90741,53.52731]",DEMDS,Mennekes
+4IG4I73i8SqkU_JDCY7LXylY7CWZoJESjRpZKSoSEEA,Hamburg,20539,Hamburg,Hovestraße 41,"[10.034724,53.521416]",DEHHM,Hamburger Energiewerke
+4ON8iPpeSO27M44JKWz4U8m4_4B1e1VmrPFEf000qmQ,Hamburg,22335,Hamburg,Röntgenstraße 47,"[10.01648,53.6237]",DEHHM,Hamburger Energiewerke
+4P6Bx16aV8JtC8PoBFgv7cAiSKL-envRAw5k1Y9usB8,Hamburg,22339,Hamburg,Reembroden 24-26,"[10.050231,53.639474]",DEHHM,Hamburger Energiewerke
+4U_Yy8hlYbpPO6qQ7cz6JHNBNeBJkPYVRrOt8LIpQUc,Hamburg,22547,Hamburg,Kleiberweg 107,"[9.87367,53.60271]",DEQRM,Qwello
+4UzX9wL1gOVcmpQUJPKImfgP7RrgGv_4JE18adFGzng,Hamburg,22149,Hamburg,Liliencronstraße 130,"[10.162331,53.589174]",DEINN,innocept mobility UG (haftungsbeschränkt)
+4W9oqZhodgWG5pvnK361AcHlYaIi5b1ogZbms94R_Vc,Hamburg,22525,Hamburg,44-46 Volksparkstraße,"[9.92149,53.5919]",DETNM,Shell Recharge
+4Y0W3AOllCWTzmjy6CreSITaPka73cMTllfmCm-Jnbk,Hamburg,22335,Hamburg,LH Basis G112-V1/2,"[9.993755,53.6208]",DEVAT,Vattenfall
+4dZ5cbkiKM8fcIe5wOkLiAhNGiEQfKHahWvjJSIg1bs,Hamburg,22763,Hamburg,Daimlerstr. 73,"[-47.11,47.11]",DECM1,chargecloud GmbH
+4drkulMCbZUCnZocM8MLHjDiKEr0Hmji9I3xN-fLvqc,Hamburg,20355,Hamburg,Bei Den Kirchhöfen,"[9.98011,53.55962]",DE455,Hamburg Messe und Congress GmbH
+4f244CvD3DfICuad8vG9fz5vvnjwaptZ6b-daxA2fdo,Hamburg,22767,Hamburg,Jessenstraße 11,"[9.94493,53.55073]",DEMUF,Möller & Förster GmbH & Co. KG
+4iSleBegVSTUdPJ9FVuWkwkcxvGZOkkmi1lpOVOj4SA,Hamburg,20259,Hamburg,Eichenstraße 7,"[9.963331,53.574803]",DEHHM,Hamburger Energiewerke
+4mlLKD_peOfD7cqXTKvo79zO0nTIkqRDtOV_pSzMnG4,Hamburg,20357,Hamburg,Kleiner Schäferkamp 38,"[9.967547,53.566331]",DEHHM,Hamburger Energiewerke
+4pR6U4PWhROvkEyeMEmzffPq5ayulwF7iOH3RA_sAeI,Hamburg,22111,Hamburg,Billstedter Hauptstraße 54,"[10.10313,53.539705]",DEHHM,Hamburger Energiewerke
+4pcirQ12s_gaQH4LTWB_lBnPFDoloxSdQsHt9QdLwcU,Hamburg,22393,Hamburg,Volksdorfer Weg 47,"[10.102908,53.641784]",DEHHM,Hamburger Energiewerke
+4ryWxCOman1VJFDM0S8xrzKUzGOxDwdNs-e6B220DOk,Hamburg,21077,Hamburg,An der A7,"[9.965265,53.424122]",DEUFC,E.ON Drive Infrastructures
+4sBAKt1Jb2O7s4jWXpjxL4IVsuHi4zvXFKN5NnCvY68,Hamburg,22087,Hamburg,Birkenau 24,"[10.028597,53.568428]",DEHHM,Hamburger Energiewerke
+4wuOVfsWXjAULOXNG0zxqExdoxwQjsDr42rw6hDQn1g,Hamburg,22111,Hamburg,Bauerbergweg 23,"[10.07717,53.5465]",DECCH,Comfortcharge
+52ZEXdpbqgBegT4i4tskQKI8e9oMHc5iSiXDaZIpBYI,Hamburg,22419,Hamburg,Tarpen 19,"[9.99518,53.66491]",DEEBW,EnBW
+55oOea5fRFTh0j2pOntZ5qD0syYR4gt0VDVcgDW-vFg,Hamburg,20357,Hamburg,Bartelsstraße 43,"[9.964176,53.562376]",DEHHM,Hamburger Energiewerke
+57WmdiIUJdFcSqZWMfABqCk2QZr9CbzZJcy5PJyHWXk,Hamburg,22043,Hamburg,Kurvenstraße 5,"[10.07388,53.56783]",DEWLN,Wirelane
+57cj-Lfu2RmfMh3Wt2LcjMrjoctOKfLMzeBMk3GVurc,Hamburg,20253,Hamburg,Gärtnerstraße 88,"[9.964036,53.580161]",DEHHM,Hamburger Energiewerke
+5G91h4PeVh6YoDAJUVS0MfZ2E3FkqrHB1rHyPGUVhm0,Hamburg,22047,Hamburg,Walddörferstraße  432,"[10.107871,53.589826]",DEHHM,Hamburger Energiewerke
+5JSXj-3YK56Y2DmwKYAolg6x2_wxD5_iwxpZyCmg_N8,Hamburg,22335,Hamburg,LH Basis G112-allgemein,"[9.9935,53.62089]",DEVAT,Vattenfall
+5KaN_fCOXUlt-dcPbRAg_gUaORxfo-bTrrgtOk200VU,Hamburg,21029,Hamburg,Am Schleusengraben 14,"[10.202367,53.476991]",DEFHG,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein
+5Pg0Tq8vCKTcEuc6nAysjXjHqnuJ3xo20kZvO8dpFyM,Hamburg,22335,Hamburg,150 Weg beim Jäger,"[9.995103,53.618198]",DECPI,ChargePoint Germany GmbH
+5RcEO48NV2EguuOMOef-lCcbdGxyHPdmwDWBE7AXSUI,Hamburg,21149,Hamburg,Heidrand 13,"[9.86296,53.46501]",DEQRM,Qwello
+5UgZru28motv6Jc9p8B9ubgmLZhu0hwfk0P--JvydCo,Hamburg,21109,Hamburg,Leipeltstraße 33,"[10.006991,53.489104]",DEHHM,Hamburger Energiewerke
+5WXfvUCHPioIedym_X-TRkzShqdYAu65Df4BYzkH3Us,Hamburg,20457,Hamburg,Osakaallee 5,"[9.997992,53.543508]",DEHHM,Hamburger Energiewerke
+5XHzxzzjRWNmOpzAVx37DKkmGbuQU3XMufLV9ZJYqVU,Hamburg,20095,Hamburg,Mönckebergstr. 1,"[10.005717,53.550522]",DEUFC,E.ON Drive Infrastructures
+5bGNLWQ38q43ftYEv9rnbv-JMAy-tqLNf-WoiqxqTuU,Hamburg,20259,Hamburg,Hohe Weide 10,"[9.964846,53.570307]",DEHHM,Hamburger Energiewerke
+5ddRApfAQMR3M-wsctDJHhdD_zM7XUtIHsIIUnPKhhw,Hamburg,22297,Hamburg,New-York-Ring 1,"[10.018203,53.602168]",DEHHM,Hamburger Energiewerke
+5eW17jQSFvOzF9eimJR7xBri_D9DLysGoKcHKhd06Zw,Hamburg,22117,Hamburg,Möllner Landstraße 148,"[10.127824,53.538891]",DEHHM,Hamburger Energiewerke
+5j9OGRKnP9xCLiJi7e40YB9CcPoyRhXoEPZ8G7IR0i4,Hamburg,20251,Hamburg,Martinistraße 72,"[9.973455,53.5882]",DEAPC,E.ON Drive
+5kIchLywXH8zfTjFJCDdB9pfXpcprNJTi3wEn4_hqco,Hamburg,22301,Hamburg,Sierichstraße 78,"[10.004736,53.584708]",DEHHM,Hamburger Energiewerke
+5lKY3h14N0so_-F9vWnqNo8bKKfzYSPKRUoO6sqJn0E,Hamburg,20535,Hamburg,Horner Weg 48,"[10.061749,53.555829]",DEHHM,Hamburger Energiewerke
+5mOkMZu5IFgciYBLutgWGflzIaiDPlCkPDggWLxpZtg,Hamburg,22459,Hamburg,Friedrich-Ebert-Straße 71,"[9.93761,53.62521]",DEEZE,eze.network GmbH
+5o8mZY-XA9AIk2FPss8Rcz6t3BH2EuKP7msbTH5d1NM,Hamburg,22359,Hamburg,Eulenkrugstraße 59-61,"[10.169669,53.647776]",DEGCE,Volkswagen
+5r1Y_NLyeMnAuAkvlHeZk-DjhSPNiPACyDFV9fBoSNo,Hamburg,21079,Hamburg,Großmoorring 11,"[10.00606,53.45709]",DEHHM,Hamburger Energiewerke
+5vUFyAnWDraOIrwWHX0b97blEnQy0a6HCYNhfTccQFg,Hamburg,20146,Hamburg,Moorweidenstraße 22,"[9.989072,53.56392]",DEHHM,Hamburger Energiewerke
+5wsVZGGhumAkcKBq9gTtnJXd4RwFg2vH0wYQ6Ov2u0A,Hamburg,20249,Hamburg,Kellinghusenstraße 10,"[9.992296,53.590674]",DEHHM,Hamburger Energiewerke
+6--JZfQWEBJdhGFA3XTiEiMfh2SqBzDmF47fzW8VCMA,Hamburg,22765,Hamburg,Eva-Rühmkorf-Straße 8,"[9.938417,53.561644]",DEHHM,Hamburger Energiewerke
+63rEiA5tRhbODdTOd2xNzgxW9j34d51jRNuE4Uq8feI,Hamburg,22769,Hamburg,Eimsbütteler Straße 14,"[9.957368,53.564957]",DEHHM,Hamburger Energiewerke
+66FJGV_I4eEQcz12TX8zx-onlBDyMnFq8QwJfdhimQE,Hamburg,20249,Hamburg,Eppendorfer Baum 43,"[9.98172,53.58472]",DEHHM,Hamburger Energiewerke
+67Ru8Nq1jU7Vlhx1tCywZZZ53e_BgJmJtZnTbJhphoA,Hamburg,20539,Hamburg,Katenweide 1,"[10.01893,53.52306]",DEHHM,Hamburger Energiewerke
+6ISn6KM5KXFxJq93DpSTVFs0eu7__Tcii5pEESB1Lhc,Hamburg,20357,Hamburg,Lagerstraße 2,"[9.97345,53.56082]",DE455,Hamburg Messe und Congress GmbH
+6JgJIbV57wtgp88WKmMLIEGI2D160WjFYxjllHpF-4k,Hamburg,21129,Hamburg,Kurt-Eckelmann- Straße (TS_PARKPLATZ_HWS-Wand) 1,"[9.922174,53.52259]",DEMDS,Mennekes
+6KJQ0XwICC-4Sa2u9gaeMmkVZRJ8tI4Pjnfl9Bdw2wg,Hamburg,20259,Hamburg,Hohe Weide 30,"[9.96741,53.57204]",DEEZE,eze.network GmbH
+6OTqvDkIxgTHvo9R0EWgVF8PWB5FfFUjcr8ZmrLVtio,Hamburg,20097,Hamburg,Norderstraße 101,"[10.0137,53.550368]",DEWLN,Wirelane
+6S0PqhR45kF78UUH9-hgI2z0XcYj65Vs3RvGFcXiYVM,Hamburg Öjendorf,22117,Hamburg,Glinder Straße 1,"[10.148312,53.544572]",DEAMP,amperio GmbH
+6WJqx7Xc5FcnzaydAz-anWdirPgcXPbh7wkxqACT-jQ,Hamburg,21037,Hamburg,Zollenspieker Hauptdeich,"[10.183125,53.398889]",DEHHM,Hamburger Energiewerke
+6kNRdo_bVKxPxO6el9A877JZL_gsyZnNFO-uYJqRdAw,Hamburg,22589,Hamburg,Espenreihe 15,"[9.81744,53.57588]",DEWLN,Wirelane
+6vs5Rcn53uAUY2-h-jTgqN88w4u2KRIXLXmQn1zNXVc,Hamburg,22043,Hamburg,49 Jüthornstraße,"[10.07544,53.56687]",DETNM,Shell Recharge
+6yVek7XsxUF387yflgAnluPFunWBueIyjjoBxe3qSv0,Hamburg,20255,Hamburg,Lutterothstraße 19,"[9.954871,53.57992]",DEHHM,Hamburger Energiewerke
+6zcmclSgNkWlU5uMO6H97xDz2aemFYmLUGjDl-H2tyo,Hamburg,22459,Hamburg,Sellhopsweg 2,"[9.92887,53.6293]",DEHHM,Hamburger Energiewerke
+72MTXW030umVqQtEAMjphhG0G8wagQ0KsjD41LLxQmA,Hamburg,21129,Hamburg,Kurt-Eckelmann-Straße (TS_Parkplatz_VCH_3) 1,"[9.920964,53.521006]",DEMDS,Mennekes
+79C6mkoMx8LQ_xOk7AdNXT1xS8Aj03NIe5rxjmVaSlI,Hamburg,22523,Hamburg,Ekenknick 3,"[9.903048,53.607804]",DEHHM,Hamburger Energiewerke
+79o4IOCPZD8--za07YakgMwdv7YY55QeF8kuyMI4slc,Escheburg,21039,Hamburg,Alte Landstraße 149,"[10.31483,53.46268]",DE722,e-werk Sachsenwald GmbH
+7DO8FWWUxSShUnTc_sPlieFDRv2iYIM6bkKqFEHZBEA,Hamburg,22047,Hamburg,115 Friedrich-Ebert-Damm 219-1930,"[10.093733,53.589181]",DECPI,ChargePoint Germany GmbH
+7G1Apl5vNg6pt8EWaRDYy3e3wDBqQqwfBq96dTsgLHw,Hamburg,20251,Hamburg,Frickestraße 32,"[9.978164,53.593866]",DEHHM,Hamburger Energiewerke
+7Ifbh_h1B9dBOJGwzOd8AebTtK6KvnCy3sHIxFYgcL4,Hamburg,21107,Hamburg,Kurdamm 19,"[9.99409,53.49611]",DEHHM,Hamburger Energiewerke
+7LjXKw1jYI0O0Xg1jM6eAHpDhzw1ZlL2on-YL2GXFw4,Hamburg,22765,Hamburg,Am Felde 28,"[9.932763,53.549376]",DEHHM,Hamburger Energiewerke
+7R3pzX94rYp2lIdHagvEsBcBo0bO9nO-Lsi3MPTOdXA,Hamburg,22297,Hamburg,Sengelmannstraße 67,"[10.018829,53.614261]",DEHHM,Hamburger Energiewerke
+7R3slRGgnRz0P955SYsxa_aqJdil25liWY9bvyovncU,Hamburg,20359,Hamburg,Beim Grünen Jäger 8,"[9.963156,53.557156]",DEHHM,Hamburger Energiewerke
+7UmzM_Np3IQAUzhxwxPgAfUEh5NX0fmRME1tMwWufuI,Hamburg,20253,Hamburg,Mansteinstraße 47,"[9.9644,53.57913]",DEEZE,eze.network GmbH
+7Y9rIBNK9XLNrTsl-OXc5QPabR1_07ZTM4OJmY9UNDc,Hamburg,21107,Hamburg,Neuhöfer Straße 23,"[9.985373,53.510512]",DEHHM,Hamburger Energiewerke
+7hbCCXZWwXP5BjJw5S0KISELzC16iUvgw_XaAi37SeY,Hamburg,21029,Hamburg,Curslacker Neuer Deich 72,"[10.204604,53.476977]",DEGCE,Volkswagen
+7swEFhPAGITsQbSTe9DRok5bhKjl5IQBF8l1SM2ITjk,Hamburg,20539,Hamburg,Großmannstraße 195,"[10.064796,53.536485]",DEBPE,Aral Pulse
+7uUiiUWYepRn47iR5-S0xZ7RLPPgDV9ze2RsZypdNKI,Hamburg,22767,Hamburg,Behnstraße 8,"[9.942411,53.546656]",DEHHM,Hamburger Energiewerke
+7yjECpi61ivpaORDhEZhvrMGEiMgf_SGc5fuouuDO9o,Hamburg,22605,Hamburg,Falckweg 4,"[9.88678,53.55798]",DEHHM,Hamburger Energiewerke
+87kEBt4s92WRzd1Go-dhdRnAdXwPXXHT726_dJMKA-U,Hamburg,20251,Hamburg,Tarpenbekstraße 47,"[9.983795,53.593928]",DEHHM,Hamburger Energiewerke
+883e2F-BTlgIqHjseiXk1jZzhnxnF00b40M4hv2Yuno,Hamburg,20253,Hamburg,Gärtnerstraße 86,"[9.964036,53.580161]",DEHHM,Hamburger Energiewerke
+887TP9WinwI03jl8a_wUk4OqpHZG0ymUjsVupbianU8,Hamburg,22529,Hamburg,Stresemannallee 68,"[9.956458,53.587024]",DEHHM,Hamburger Energiewerke
+88gcfB1FqJy2J2t9I5-OvMPLR9BNLU70xO8V5F4MUjo,Hamburg,20099,Hamburg,Zimmerpforte 2,"[10.012032,53.555667]",DEHHM,Hamburger Energiewerke
+88ltpX0xM8blYYdLqnKZ3MN2ATFrmXXTpJgeqsR1_Ew,Hamburg,22177,Hamburg,Fabriciusstraße 38,"[10.059787,53.596225]",DEHHM,Hamburger Energiewerke
+88m-zRWRE3EVP1Ti0B-14nXHSD8YuvsTJfIjC4-lHG8,Hamburg,21031,Hamburg,Reinbeker Redder 283,"[10.21162,53.51342]",DEHHM,Hamburger Energiewerke
+8Ftu-rqvVenQ4eTLTh9TGYF-CtTZZ_pxXOYAedx77jc,Hamburg,22303,Hamburg,Riststraße 3,"[10.009875,53.590352]",DEHHM,Hamburger Energiewerke
+8GFUQz0ovkzgcSRlE0dBL9dJJ1MRKQS0uWNT32OqdTU,Hamburg,20359,Hamburg,Neuer Kamp 25,"[9.96694,53.55762]",DEEZE,eze.network GmbH
+8Nx0k5OF2OCjfJKY-0mznzwxddQdfhb-c_V8XurHs8g,Hamburg,22391,Hamburg,30 Heegbarg,"[10.09381,53.65457]",DETNM,Shell Recharge
+8UVbi2IKH-IZwpIIi2fuzteeCtpIgt4bmkEO2rJ2T5I,Hamburg,20457,Hamburg,Am Kaiserkai 4-6,"[9.9924,53.54168]",DEEZE,eze.network GmbH
+8_SEUCKhmg5R3hy6VoLRJiKpy2-4zXqim4vxjauRNBo,Hamburg,20253,Hamburg,Quickbornstraße 24,"[9.960023,53.580434]",ATHTB,Chargepoint
+8c93Glr83y8i6AWKkCrVcoukEaRK5TuJDOBUkRaVDGU,Hamburg-Eidelstedt,22525,Hamburg,Kieler Str. 595 a,"[9.915071,53.600974]",DELDL,Lidl
+8ezIM8i5ZKK369YThvZ4ygGpFvkC2pO1XunnktB7aSk,Hamburg,20539,Hamburg,Harburger Chaussee 17,"[10.013471,53.520476]",DEHHM,Hamburger Energiewerke
+8hKBegnj_ry7dahBXKB0-cmQeURQVSrsSyVOJsdwBwA,Hamburg,21029,Hamburg,Hassestraße 1,"[10.21648,53.48571]",DEEZE,eze.network GmbH
+8og5uRisTq2kKLiLxO9SB2CPOyxYf30g86IZLURRL48,Hamburg,22335,Hamburg,LH Basis G311,"[9.98718,53.62085]",DEVAT,Vattenfall
+8t38wd0-zi1hKr6Mwh7U0fjtcSSJZVYuyLHYANEb-o8,Hamburg,20457,Hamburg,Indiastraße 1,"[9.99483,53.52796]",DEHHM,Hamburger Energiewerke
+8uACqpRNd4W3UWphbHCehv1c77gptq9efdlzQQgUmwI,Hamburg,22763,Hamburg,Neumühlen 3,"[9.925936,53.544729]",DEHHM,Hamburger Energiewerke
+8uJXLMWaVg770U9jm17f5pipfj0KUBYnX2Bjmav0LDM,Hamburg,21107,Hamburg,Georg-Wilhelm-Straße 329,"[9.991774,53.48201]",DEJEG,Jolt Energy
+8w2Exta98mbhyyDpdbhSI_qITeWRD41ngvs7-nYQrEw,Hamburg,22115,Hamburg,Max-Pechstein-Straße 4,"[10.14709,53.53133]",DEHHM,Hamburger Energiewerke
+9-b1Q0fPM8Z345I0mI52omzGDjHUzn2k_2q57Q2eMJE,Hamburg,21077,Hamburg,An der A7,"[9.963125,53.424056]",DEEDR,E.ON Drive
+919LXo9E0v6vYIwkrPMNJDY1BuGvDV5NQK8h3N0lv6U,Hamburg,21079,Hamburg,Am Schilfpark 25,"[10.20531,53.47765]",DELA1,LAN1 Hotspots GmbH
+91freeDr4xAb2tbIFn_wHjW-LWSRLf_7iSc7PNcFYw0,Hamburg,20537,Hamburg,Wendenstraße 478,"[10.056628,53.549526]",DEHHM,Hamburger Energiewerke
+9DTqf5FmFSfZ_a-q-jaY2xeFT0OlgqBeohvwHWOMEC8,Hamburg,22527,Hamburg,Julius-Vosseler-Str.40,"[9.944519,53.593853]",DEALL,Allego
+9G0IeyOrfgEQ8_-MwxkSL54P82GY7syJ0LEAW78ZXyY,Hamburg,22399,Hamburg,Am Bronzehügel 56,"[10.06442,53.67132]",DEQRM,Qwello
+9P-B93osNV3hEegxKEguxnM48vowm6NhhZySy3F5I4M,Hamburg,22549,Hamburg,Am Landpflegeheim 7,"[9.858416,53.572916]",DEWLN,Wirelane
+9Py8XxjtSfhXjlZz32mbMWEqn6Xc4Xsvym4tZPUbrb0,Hamburg,20255,Hamburg,Heußweg 66,"[9.953164,53.577755]",DEHHM,Hamburger Energiewerke
+9SJ7ps6TZJ34uAVvnnLuq7Viz0ns1tUg4EKWpCQQUG4,Hamburg,22143,Hamburg,Mecklenburger Straße 11,"[10.156432,53.603708]",DEHHE,Hamburger Energiewerke GmbH
+9TZtq8kOHBsTGUUanFBwZyFeu9Waz9l1nOAQbvAbOiU,Hamburg,20539,Hamburg,Vierländer Damm 71A,"[10.05389,53.53225]",DEHHM,Hamburger Energiewerke
+9TkBYXXFXr_JfGof_eJu2tYRahOz8yKXS0EoLzu74jg,Hamburg,21029,Hamburg,Curslacker Neuer Deich 16-20,"[10.207571,53.48247]",DEEBW,EnBW
+9U5M9m5zpwl1hhkBe4S9B-K6TfYvgmAs2pHoY6T0E_Q,Hamburg,20535,Hamburg,Klaus-Groth-Straße 58,"[10.031829,53.55544]",DEHHM,Hamburger Energiewerke
+9YyEWkzgswq1FfUk8ADDdMX0EMn4QpDQoH9KjfBeR_w,Hamburg,22767,Hamburg,Königstraße 4,"[9.953903,53.549765]",DEHHM,Hamburger Energiewerke
+9dgVVxsY5xV5HQPI0eSyId4MgE76V3MU-ARv9i74yBQ,Hamburg,20249,Hamburg,Schrammsweg 4,"[9.98817,53.59085]",DEEZE,eze.network GmbH
+9eomrUJQZGqQZO3pz2W1-bE3jMaosviDlmSPzniYvUk,Hamburg,22529,Hamburg,Grandweg 104,"[9.964833,53.589173]",DEHHM,Hamburger Energiewerke
+9fU2szpT0sSHnNP-BG9d9mPvhsUtx3aC_tICaGsb9jE,Hamburg,22607,Hamburg,Osdorfer Landstraße 8,"[9.876947,53.570414]",DELDL,Lidl
+9iEUdd_yJlNjeF1zQ1oB7Mw8BB8AAai-WJH78uJO7wg,Hamburg,21077,Hamburg,Handweg 45,"[9.958555,53.438638]",DEWLN,Wirelane
+9ikTYCHBKzXAG9DMkvArVEKCVLtAgLE-kwZJW3w5NNQ,Hamburg,20537,Hamburg,Eiffestraße 498,"[10.05038,53.55189]",DEEZE,eze.network GmbH
+9k0c0u891FjU1ALFH6UNc61grCG_-nYwVK97F8bKi4c,Hamburg,21029,Hamburg,Holtenklinker Straße 137,"[10.23287,53.47933]",DEHHM,Hamburger Energiewerke
+9l_D0FOn5QDliHCw41fDKFbJ5QYBTq07h0lq_CFSAZQ,Hamburg,22297,Hamburg,Überseering 2,"[10.0265,53.60096]",DECCH,Comfortcharge
+9mzWDQqtZRzIbFBHgpBGviVraLrAxPUGiGxu9ruFIcw,Hamburg,22587,Hamburg,Oesterleystraße 2,"[9.81062,53.56069]",DEHHM,Hamburger Energiewerke
+9o0b4mYkAztSSGGPh1jQqyh8rx0PfMKwRrtzTAMC21Q,Hamburg,22335,Hamburg,Alsterkrugchaußee 455-459,"[10.01041,53.622912]",DEWLN,Wirelane
+9ti_H_WSDMqOkBc9zJqork3C1dZmWdy6EhQ-T5p4RLA,Hamburg,20354,Hamburg,Büschstraße 12,"[9.989969,53.556103]",DEHHM,Hamburger Energiewerke
+9yXJHNviUa_e25dyUXdx1zg17coZucVmbuNxLzT0c-k,Hamburg,20537,Hamburg,196 Wendenstraße,"[10.035873,53.548869]",DECPI,ChargePoint Germany GmbH
+A7b0d5JD-cjBsDaoXaSznk-nmA7uc060hHDm1hDjuFs,Hamburg,22085,Hamburg,Averhoffstraße 3,"[10.020679,53.570861]",DEHHM,Hamburger Energiewerke
+A9AYXBWIaFyhJnLk8GxqQei_vefup9WCdNmL1YOYy3Y,Hamburg,22767,Hamburg,Schillerstraße  44,"[9.93829,53.550563]",DEHHM,Hamburger Energiewerke
+ACKCiIPwGElszeP6x9_J-VOm1R7m5Hh3ryQf5MBAvUQ,Hamburg,22767,Hamburg,Gilbertstraße 65,"[9.955689,53.554935]",DEHHM,Hamburger Energiewerke
+ADsCIHp4Qt2RuS_GJCkathwuVobDtcur8GBpLURVhho,Hamburg,22769,Hamburg,Langenfelder Str. 122,"[9.945275,53.568705]",DECCH,Comfortcharge
+AEgEJdg61UERafnucYZ1Igx9gJBmbqx4PSdw-K2N7iQ,Hamburg,22767,Hamburg,Große Bergstraße 262,"[9.93864,53.5521]",DESNH,Stromnetz Hamburg GmbH
+AFJBQSgddDLAWDvT9jpSa8sPPOIncH038KDjbQD4_8s,Hamburg,22297,Hamburg,Alsterdorfer Straße 261,"[10.006324,53.607664]",DEHHM,Hamburger Energiewerke
+AFMcmK_SN5euouM2AsKGHmST14x2H-EWHz9tErLD0QY,Hamburg,22765,Hamburg,Hohenesch 50,"[9.930795,53.554339]",DEHHM,Hamburger Energiewerke
+AKER-6IKJ69krGHOiLvym_YmsY9z0ZOU1Jv8ApO3vBI,Hamburg,20149,Hamburg,Jungfrauenthal 7,"[9.987342,53.581354]",DEHHM,Hamburger Energiewerke
+AKTp5mkyrYp8LrN-DQvyRUgteYlydYOAgCNVN3TMQBM,Hamburg,22763,Hamburg,Grünebergstraße 74,"[9.91431,53.55702]",DEEZE,eze.network GmbH
+ANdBDfU35-WMJw6f4sLASf9BAuJETPE-JsKmiVv27g4,Hamburg,21029,Hamburg,Schulenbrooksweg 1,"[10.218109,53.486941]",DEHHM,Hamburger Energiewerke
+AOGhzCZxfAshedP4ZYXUxPLM7wD6Vz5Zo9QdbgW84Vs,Hamburg,21077,Hamburg,Maldfeldstraße 2a,"[9.934694,53.430464]",DECIW,Citywatt
+AQCNUDqG9Y6HzXi7mGkCXqHlFOe1TzuKxhfYnksfUE4,Hamburg,20249,Hamburg,Eppendorfer Landstraße 43,"[9.985709,53.588324]",DEHHM,Hamburger Energiewerke
+AS01oy3sYdVUFWBP1yEwzHnUXb2I7brDOXUOnLtjaTY,Hamburg,22159,Hamburg,An der Walddörferbahn 1,"[10.116302,53.604259]",DEALL,Allego
+ASFOtKjiE-7uYGI4kWLJ0TRQ2GAMo6ta28dK8kw4-pY,Hamburg,22527,Hamburg,Kieler Straße 702,"[9.90578,53.607858]",DEHHM,Hamburger Energiewerke
+AW8M_jC0HjnUU2U6nba3S7gh2cnrAuaOtjfKrTuKJpo,Hamburg,22303,Hamburg,Gertigstraße 64,"[10.018118,53.582815]",DEHHM,Hamburger Energiewerke
+AWiGGZH_6onZWg0bQpRT3BMuyJG9G2OSjhuyZB6WubY,Hamburg,22529,Hamburg,Gert-Marcus-Straße 17A,"[9.978292,53.602907]",DEHHM,Hamburger Energiewerke
+AXpmE0dt2Mkz8M1Xm-F3N-tQJ2AKnWfiyx4YAy-RAW4,Hamburg,20359,Hamburg,Glacischaussee 2,"[9.970683,53.551375]",DEHHM,Hamburger Energiewerke
+AZjBMBDpAw_Fr7Vb9ncv6bwkwDvivCk382JavvVTOQI,Hamburg,21129,Hamburg,Finksweg 19,"[9.876108,53.534243]",DEHHM,Hamburger Energiewerke
+Ad5tXnXkce6E6GLu3C2-6vJZCBwO4urPNcVewvjU1YI,Hamburg,22087,Hamburg,Mundsburger Damm 30,"[10.02217,53.56705]",DEQRM,Qwello
+Ailr9CVXfpe9LDufzxyGfaA4sYoW-BXXK5LxC9DWHB0,Hamburg,21029,Hamburg,Frascatiplatz 1,"[10.21139,53.48352]",DEHHM,Hamburger Energiewerke
+Aj_DJPU3-6FwNZOQpz3zpgt-MCULMBFYN5N62zt4HW8,Hamburg,22045,Hamburg,Stein-Hardenberg-Straße 85,"[10.12484,53.588192]",DEHHM,Hamburger Energiewerke
+AlnzF2vo6I7NY6GnUo7fgMggo03Om6hdFJTEcJNjknE,Hamburg,20253,Hamburg,Gärtnerstraße 121,"[9.962767,53.578358]",DEHHM,Hamburger Energiewerke
+ApQSTX11SH3e94FuNFDtlMrcTdHRrDC9O70hGRjenl0,Hamburg,21037,Hamburg,Auf Dem Sülzbrack 66,"[10.177963,53.407237]",DEHHM,Hamburger Energiewerke
+AqOxfeQZqUif0AXRAXek-g_toOTrmehX02PoTB_iGGo,Hamburg,20537,Hamburg,Eiffestraße 450,"[10.04719,53.5522]",DEVAT,Vattenfall
+B-PYYm4KUDxJUUSpBSPxW8YiExcEsMN1Nxcm2rh9eew,Hamburg,20355,Hamburg,Johannes-Brahms-Platz,"[9.97955,53.55499]",DEEZE,eze.network GmbH
+B-vsEDCIRf4VgrlhGn8W0lnUgCjlH80zgGDbh3G1ols,Hamburg,21109,Hamburg,Neuenfelder Straße 19,"[10.002124,53.49792]",DEHHM,Hamburger Energiewerke
+B4yWKkgnY2BB3-aVedvm0AVIu2fXiSbWjG05hE1XHO4,Hamburg,21129,Hamburg,Kurt-Eckelmann-Straße (EGH_MA-Parkplatz) 1,"[9.92515,53.52276]",DEMDS,Mennekes
+B8Ya7qUvFEm3fsir56B0C1vmA_feRuI9GXr6uCpTJgg,Hamburg,20259,Hamburg,Osterstraße 44,"[9.95784,53.57492]",DEEZE,eze.network GmbH
+BBsIp8xoQq4kWgt2VBEt-Hf8ep3ponObkKwZB3nhmcI,Hamburg,20255,Hamburg,Osterstraße 160,"[9.947173,53.578299]",DEHHM,Hamburger Energiewerke
+BFAONBEjvUIflTZPOvZ3WhiZcmD2mg6rf2zNpMNCRKs,Hamburg,20099,Hamburg,Kirchenallee 56,"[10.00818,53.55295]",DESNH,Stromnetz Hamburg GmbH
+BFYulQ5-KMMLcd-Ujh892UkLNn9d65OvpT3HyEldBTo,Hamburg,22335,Hamburg,Erdkampsweg 46,"[10.02288,53.62966]",DEEZE,eze.network GmbH
+BHCVev2cRKiDCH6sxL656PmOEPnVkGui7oERY_Lwl-k,Hamburg,22609,Hamburg,Ohnhorststraße 18,"[9.863456,53.558745]",DEHHM,Hamburger Energiewerke
+BK2e2DHYjsz3Z9GoCyH7SgYaLKtAwPSsbR3Rl-VUbC4,Hamburg,22301,Hamburg,Sierichstraße 14,"[10.0092,53.57899]",DEEZE,eze.network GmbH
+BLCeYPin0M_elGu4KURGOpB3MQL9jgtFrKkWBlsFOdA,Hamburg,22767,Hamburg,Jessenstraße 19,"[9.94351,53.55036]",DEEZE,eze.network GmbH
+BLYTi4idpjya5YraQ20Ifpx_TIVYTd9jIO3NDuoVbNg,Hamburg,20149,Hamburg,Hallerstraße 85,"[9.99007,53.57282]",DEHHM,Hamburger Energiewerke
+BNSDefg67VNY8sy68kQvwpuJDqhhqzRBWvJZWCLie7c,Hamburg,20249,Hamburg,Heilwigstraße 122,"[9.99574,53.58814]",DEEZE,eze.network GmbH
+BNn15jWoJGcAGVabXa3WCbOORTM7ztpSkp3Wq9U03cY,Hamburg,20357,Hamburg,Schulterblatt 112,"[9.959809,53.56435]",DEHHM,Hamburger Energiewerke
+BO9gNkoNAUayFOYZKQvNhCj8SmcVOjZDU-QUuFjJMrg,Hamburg,21035,Hamburg,13 Randersweide,"[10.197679,53.476901]",DECPI,ChargePoint Germany GmbH
+BOP5pxKIp1OujbTfmCLxaZABzpcYeck1oWX6c8hV9wE,Hamburg,20354,Hamburg,Fehlandtstraße 3,"[9.991518,53.556938]",DEHHM,Hamburger Energiewerke
+BPdVVaR5kRuy0w4PauZ2eQ26HI_6It0C8QEN3wh0UQU,Hamburg,22043,Hamburg,Husarenhof 1,"[10.0756,53.564155]",DEHHM,Hamburger Energiewerke
+BS21H4yXnyEo1CzSy-vlA8HKgcoHhqc5nqGsGkgCLnI,Hamburg,22769,Hamburg,Juliusstraße 2,"[9.959802,53.560465]",DEHHM,Hamburger Energiewerke
+B_BZ2kRwOwXxhiil3S7j0dT2x0DdHrToRL1HMGAmyKE,Hamburg,20459,Hamburg,Herrengraben 74,"[9.983163,53.548142]",DEHHM,Hamburger Energiewerke
+BgQWmxVLlkKWeQrnFTnUm8Aqo1nh4BKqHir3b6dvr1c,Hamburg,20354,Hamburg,Große Bleichen 35,"[9.9868,53.5519]",DEAPC,E.ON Drive
+BhHMU99pBKnMqW2AGhIMWuGSAElha06lye9-WadGj58,Hamburg,20097,Hamburg,Högerdamm 28,"[10.01361,53.54564]",DEWLN,Wirelane
+BkApxePZBKxxLEHR4jE8Omfd23fKkL5eSY0bg5jM878,Hamburg,22765,Hamburg,Bahrenfelder Str. 250,"[9.92928,53.55735]",DECCH,Comfortcharge
+BnjlaTdKk2DLcMALGSctE56j75w9VUT9VSFU15z3t1s,Hamburg,22305,Hamburg,Wachtelstraße 24,"[10.052157,53.588236]",DEHHM,Hamburger Energiewerke
+Bu_t2tEC4E7TFA4FqaLHktY_P7MXKARiwyqrvAraPLQ,Hamburg,22549,Hamburg,Bornheide 10,"[9.854263,53.584031]",DEHHM,Hamburger Energiewerke
+C53DPpiEX0hV61Q2pbFSdOzMdH0lldOO3K0EAyNv3UI,Hamburg,22303,Hamburg,Peter-Marquard-Straße 13,"[10.013078,53.583348]",DEHHM,Hamburger Energiewerke
+C68Pu1FpBl-NInv19fqZf1oVVM7r7y41i7cqeiz37pE,Hamburg,22043,Hamburg,Holstenhofweg 85,"[10.10619,53.56851]",DEHHM,Hamburger Energiewerke
+C6fQfBbX5_aSvtq2daVjVNOJaMiokaXl5DUy2unvAgg,Hamburg,21079,Hamburg,Hörstener Str.  45-47,"[9.997161,53.452783]",DEMVV,MVV Energie AG
+CCt3WBYeWPvUp49NYzhP3NUes9v-iudtLOEKPvJq7vY,Hamburg,22417,Hamburg,Anita-Sellenschloh-Ring 20,"[10.03245,53.67211]",DEHHM,Hamburger Energiewerke
+CEGC_nOl2LqbnwCZH2nhUtyv7_ruH7fZnmyX3zLzAME,Hamburg,22045,Hamburg,Kreuzburger Straße 6,"[10.129037,53.578642]",DEHHM,Hamburger Energiewerke
+CROv-IBI-3U4le9J0516asQi1sUDSI6j6vpZHMlEIpo,Hamburg,20097,Hamburg,Gotenstraße 21,"[10.025743,53.549671]",DEHHM,Hamburger Energiewerke
+CSN_Vhd2UQ9oywBVg3PtZZXTurhAREjG9ppCK4jqkcg,Hamburg,22547,Hamburg,Luruper Hauptstr. 97,"[9.875287,53.58787]",DE2GO,EWEGo
+CUyrsXxdG13U7TXUT1iUrIX7OBA97Xs44huPK_00gZQ,Hamburg,22609,Hamburg,Nienstedtener Marktplatz 20,"[9.844532,53.552735]",DEHHM,Hamburger Energiewerke
+CWICyfWQmWSyf5Qq4kRIPQncjdwfMJv8YcTaxiqC1dU,Hamburg,22763,Hamburg,Friedensallee 265,"[9.911723,53.559048]",DEHHM,Hamburger Energiewerke
+CXOQhrwxw83uKd-pGh34crSHeqWkX_jkSyrjqt8y4lM,Hamburg,22547,Hamburg,Franzosenkoppel 102A,"[9.874595,53.605659]",DEHHM,Hamburger Energiewerke
+CaLs2RZ2dTGKZ_4Bio8pI0yZXgosln_3sTnEHYVlkQw,Hamburg,22763,Hamburg,Hohenzollernring 117,"[9.91935,53.55845]",DEHHM,Hamburger Energiewerke
+CaduwMLth9M0iRrns1oHObE9HLhiMN-bicIXnvTzcPM,Hamburg,20146,Hamburg,Durchschnitt 27,"[9.979607,53.564644]",DEHHM,Hamburger Energiewerke
+Cc_WK32okF2uTsL2i8DwtKDvaDTkzP8r_GfcPl6mzpA,Hamburg,22769,Hamburg,Lippmannstraße 77,"[9.958178,53.562231]",DEHHM,Hamburger Energiewerke
+CerNnumcuwt-x0034ci0i8BwnfsYB6gUlXTFCePig1I,Hamburg,20457,Hamburg,Am Sandtorkai 68,"[9.987457,53.542702]",DECON,GP JOULE
+CgH-08R4hp7pjLovBcc-t4c7u-wTe_4f2Nf0SncWano,Hamburg,21129,Hamburg,Finkenwerder Norderdeich 112,"[9.8735,53.5344]",DEHHM,Hamburger Energiewerke
+Cng0-JRBcAljFVuh_-dYOYxRyM-0WwqzMHjKbq-OFPc,Hamburg,22525,Hamburg,Stadionstraße 5,"[9.88979,53.582775]",DEHHM,Hamburger Energiewerke
+Cyok7qAHKU-1MT43N_AeixXWhfoUSgbLqbdEXT9PkYk,Hamburg,22609,Hamburg,Am Internationalen Seegerichtshof 2,"[9.85222,53.55147]",DEHHM,Hamburger Energiewerke
+D-E_3UI-H26g17Z0iRdQrkb00VPI9iHvyrE06uBCYEo,Hamburg,22765,Hamburg,Eva-Rühmkorf-Straße 12,"[9.938417,53.561644]",DEHHM,Hamburger Energiewerke
+D36T426rXqw479M7yOigM7Ky94MKbpMonlDypD3QrXY,Hamburg,21075,Hamburg,Heimfelder Straße 30,"[9.95902,53.46456]",DEEZE,eze.network GmbH
+D4Lifbd-GJeK_5yQKv4ov-6A0nizWa7wnlFDMdaUvrI,Hamburg,20251,Hamburg,Schubackstraße 4,"[9.987231,53.596439]",DEHHM,Hamburger Energiewerke
+D5B4VKQ7iwyNunmUCrankVQcvoVL-mWfqOsN8KLhRqI,Hamburg,22089,Hamburg,Papenstraße 94,"[10.047365,53.565133]",DE199,NWG Charging GmbH
+DAAsBgWzx6INecv6AgVh0swng2X_zwNphgasd29Lg-E,Hamburg,22559,Hamburg,Marschweg 75,"[9.775366,53.584611]",DELMS,LastMileSolutions
+DC1mJe2J8bUVVvAS6_tGW2vBwpSeWtmtm-81owCv0UY,Hamburg,20249,Hamburg,Eppendorfer Baum 13,"[9.98558,53.58286]",DEEZE,eze.network GmbH
+DFYDRx4dcXCFEPGasfa6Pjh5kyfLVnvoJTP4igESV7M,Hamburg,20099,Hamburg,Gurlittstraße 31,"[10.00985,53.55807]",DEHHM,Hamburger Energiewerke
+DHKAn2OhgDD5vSY9qyXYqwrmmf50Xy27QUmkJSCVeBM,Hamburg,21129,Hamburg,Zellmannstraße (Eurogate TSHH VC_Halle- 3,"[9.92218,53.52153]",DEMDS,Mennekes
+DLWODpxYqbtnV3T6YY7XLLy07ZJTYqy7BY3g0V5HIkE,Hamburg,20354,Hamburg,22 Hohe Bleichen,"[9.98749,53.55389]",DEACO,APCOA Deutschland GmbH
+DLxSBWye17aih-M_fjaw-0G5b6yMa6s9H4_WwGR0GT8,Hamburg,20097,Hamburg,Nordkanalstraße 29,"[10.018438,53.549351]",DEHHM,Hamburger Energiewerke
+DO7y-h8thU98_gj-9pYZKRvTz2e6-BrEPLJAJ6DA1aI,Hamburg,22297,Hamburg,Überseering 5,"[10.024874,53.602272]",DEHHM,Hamburger Energiewerke
+DVBzan7yhRUGPUkvQivjRG-RwilJOrJ1fpCzjraPNxY,Hamburg,20354,Hamburg,Große Bleichen 36,"[9.9869,53.5519]",DEAPC,E.ON Drive
+DW4MBMUwoh-lmIccDm4dJO8d792MSu6YsFDT2Iu8ZH8,Hamburg,22763,Hamburg,Jürgen-Töpfer-Straße 16,"[9.903051,53.557288]",DEHHM,Hamburger Energiewerke
+De9nbBm7outc4RO3k7-6sdMfH5V3N7qnc2j3_Eg6QqY,Hamburg,20457,Hamburg,Am Sandtorkai 68,"[9.98752,53.54261]",DECNT,Spirii
+DfMmX2axl89Dx1sy0Yau4vaJPCw1qKrcCMdvyZ8rS9o,Hamburg,22763,Hamburg,Holstentwiete 19,"[9.921958,53.552343]",DEHHM,Hamburger Energiewerke
+DfXm8E9vahtV0d492gFJQ4YNrtR7W_Airxaz_kUKvB0,Hamburg,22761,Hamburg,Stresemannstraße 354,"[9.9241,53.56359]",DE2GO,EWEGo
+DqUWYQgKj0pPGG9ADZD8cLEDZEwd8-pSAXxn7GTymCY,Hamburg,22525,Hamburg,Kieler Straße 236,"[9.93616,53.579645]",DEEBW,EnBW
+DriBvPlkM2lwrpOo0WM8S0Vd5p_LvTlAGDMqoJvYSqs,Hamburg,20148,Hamburg,Heimhuder Straße 72,"[9.99315,53.56913]",DEEZE,eze.network GmbH
+Dv7eeKlD1rrr6J1WnmnfgT6pfV9Q0flwaYG3dcmUskU,Hamburg,22297,Hamburg,1 Kapstadtring,"[10.02845,53.603954]",DECPI,ChargePoint Germany GmbH
+DvurLkFhe-l3iA3ZnS-UUPmA6xmCJ-h7v2hQaX_oM9M,Hamburg,20539,Hamburg,Sieldeich 11,"[10.0212,53.52753]",DEHHM,Hamburger Energiewerke
+Dyw-BG8_rb4-oljT5cK-tS-uFh7KP1pxv3rdnRlgms4,Hamburg,22081,Hamburg,Gluckstraße 63,"[10.047021,53.574035]",DEHHM,Hamburger Energiewerke
+E-SZyTj0L3xTkA5lT53St2IENwx1V7nAwbuadYobJLw,Hamburg,21129,Hamburg,Süderkirchenweg 48,"[9.866989,53.522362]",DEMDS,Mennekes
+E-sSjhBrVCMYpUokG7sNrerb0_GYtIQcFEUKEPLDfE0,Hamburg,20459,Hamburg,Zeughausmarkt 19,"[9.97478,53.54931]",DEHHM,Hamburger Energiewerke
+E0dTuW6lQcjjfT0TGHM_fwm6Ded1wSKjUm6-c_WWnfQ,Hamburg,21035,Hamburg,Marie-Henning-Weg 37,"[10.154371,53.482554]",DESNH,Stromnetz Hamburg GmbH
+E2rRty1V-RWv2nBnj__ONf_Jlry5R9aT4m6useLqjK0,Hamburg,20457,Hamburg,Bei dem neuen Krahn 2,"[9.988377,53.544977]",DEHHM,Hamburger Energiewerke
+E3f9NUP7GNNFnBu9tz3LTDicOsKEHYeLaXVG_fAkK3g,Hamburg,22335,Hamburg,Weg beim Jäger 218-222,"[10.009057,53.623126]",DEOMS,OMS E-Mobility GmbH
+E4tulLwplPa2bW4fYpjgpF2XXrse0x4BbMphJ4YR7Uk,Hamburg,22081,Hamburg,Finkenau 11,"[10.031125,53.570463]",DEHHM,Hamburger Energiewerke
+EBNjTQmFqt0yt-PCVf1bASvSDQH9Y1o8jPxPoDXr6Fk,Hamburg,22459,Hamburg,Ditmar-Koel-Straße 5,"[9.97634,53.546024]",DEHHM,Hamburger Energiewerke
+EJEpMxYNo4UtfOpb-DuRdFfNK4h0jbXQ7sT8uwl7LZQ,Hamburg,20149,Hamburg,Harvestehuder Weg 105,"[9.991418,53.580521]",DEHHM,Hamburger Energiewerke
+ESVNpON7f8bvPK-VhKlTYdZ_t2zsjAP1RZRXDYAm0TM,Hamburg,20459,Hamburg,Seewartenstraße 10,"[9.968985,53.547413]",DEHHM,Hamburger Energiewerke
+ETZ7ahTPpxTGvuPZx1WyzOUHSJBnyLDBgowgWjqLg6U,Hamburg,20259,Hamburg,Eimsbütteler Chaussee 80,"[9.95527,53.56874]",DEEZE,eze.network GmbH
+EUk_Guz0MaPEtGKTkyp3Y2yoThvnqbo0yZZumX1W-1Y,Hamburg,21033,Hamburg,136 Ladenbeker Furtweg,"[10.18014,53.4972]",DETNM,Shell Recharge
+EVeLjxAN5h5dr-28ph3cXEPScyAOtsfrW_v7xBhXC1o,Hamburg,22607,Hamburg,Beselerplatz 8,"[9.888607,53.560026]",DEHHM,Hamburger Energiewerke
+EXOPGF0Ma2qU1ra5J7XKk-Rw4lA4Vt-XggAEZel4-Kw,Hamburg,20259,Hamburg,Bellealliancestraße 40,"[9.960359,53.568036]",DEHHM,Hamburger Energiewerke
+EYDj0HbAcpGcPHsapN8Slixojc_94eiq-KxBdBtQajg,Hamburg,22455,Hamburg,Ernst-Mittelbach-Ring 82,"[9.948418,53.640796]",DEHHM,Hamburger Energiewerke
+EYsZyuzT8bBEiM-FvqejhS8pvOtnPTW8oqJek3J1y3A,Hamburg,21037,Hamburg,Süderquerweg 651,"[10.128823,53.443559]",DEGCE,Volkswagen
+Ebs4lkf1lxUuyUvSR3NW_AVvKRvUfZ9vBqGE0jvy8aE,Hamburg,22305,Hamburg,Hellbrookstraße 9,"[10.03813,53.59141]",DEHHM,Hamburger Energiewerke
+EdCkXow9kwIo9ppkJCQwA79O6zyatTKrvO5gh5InM0M,Hamburg,22399,Hamburg,Poppenbüttler Markt 18,"[10.08682,53.6603]",DEHHM,Hamburger Energiewerke
+EeKCpJvOTqK7RZnkNV5WtGKGtCLxCRdl5j8VKYw4FTU,Hamburg,22529,Hamburg,Stresemannallee 104,"[9.95563,53.584114]",DEHHM,Hamburger Energiewerke
+EfyRSIx4LNclkyDiU6ujgNmwQYfWL37YxURAbQQEXdw,Hamburg,22763,Hamburg,Friedensallee 120,"[9.917114,53.558164]",DE443,EM1 GmbH
+Ek3T9t6CydWewqVJvuX53HhxaJZs7OjYppbdik7wL5k,Hamburg,22043,Hamburg,85 Holstenhofweg,"[10.107464,53.568729]",DECPI,ChargePoint Germany GmbH
+EmEj-Nv6UVD1yJKfQS__N5TIPbfJJf4OCRLbE9UcIdo,Hamburg,20539,Hamburg,Billwerder Neuer Deich 10,"[10.031366,53.535734]",DEHHM,Hamburger Energiewerke
+ExSMAuaKZYSUwyzJbwccCxWlOj3ZpAQNCx0nmgGVmgI,Hamburg,21149,Hamburg,Haferacker 11,"[9.8604,53.46904]",DEHHM,Hamburger Energiewerke
+F1rCc103g3JfH14xVVwPqWIXniFzW3QFDedZii1I8R8,Hamburg,20097,Hamburg,Frankenstraße 16,"[10.025662,53.548349]",DEWLN,Wirelane
+F34cMo12lpmUl7mGQHigPM_rxPc_PPBh10DvMVE_Aa4,Hamburg,22765,Hamburg,Kleine Freiheit 42,"[9.956381,53.551827]",DEHHM,Hamburger Energiewerke
+F3kOcMX8Ac3FV28sLVAvFDCzT9s8OZeG4RIwyisppDk,Hamburg,22527,Hamburg,Kieler Straße 702,"[9.905763,53.607833]",DESNH,Stromnetz Hamburg GmbH
+F3lyUH3mw6c6J1GDfy1p-oI9SVDfzRlioOxci7QyIl0,Hamburg,22559,Hamburg,Hartkrögen 1A,"[9.749311,53.58161]",DEHHM,Hamburger Energiewerke
+F6tQ8HLcY7TPqP-douCqRGFe1a0bs_2ZOVw-9xv-hJU,Hamburg,22527,Hamburg,Hagenbeckstraße 37,"[9.944354,53.585694]",DEHHM,Hamburger Energiewerke
+F7CnWDAf-9vlvU3iARR22Ozr7PoX6C1-Ka7_wZYn7Mg,Hamburg,22045,Hamburg,Ahrensburger Straße 156,"[10.108181,53.582379]",DE2GO,EWEGo
+F7JouLrpkiqbIIY-oRKdXtfsM3UHcBfI-IfeqY9F2pc,Hamburg,22085,Hamburg,Hofweg 12,"[10.01779,53.56963]",DEEZE,eze.network GmbH
+F8qrzSPPblbA4jhh7dC29ovfj7R8Ww1q7kW0jWetKXQ,Hamburg,22087,Hamburg,Lübecker Straße 3,"[9.962811,53.820832]",DEWLN,Wirelane
+FC3Gp9trsmxMQ8zM1qKipVQNGSZV93W-te1rtb_xxIM,Hamburg,20359,Hamburg,Brigittenstraße 1,"[9.96186,53.55419]",DEHHM,Hamburger Energiewerke
+FCV1l04F2a2AqZcrXdRc_Oxxr49J_GPC7CFU7U-UgG0,Hamburg,22455,Hamburg,Quedlinburger Weg 86,"[9.944607,53.636496]",DEDES,Total Energies
+FEaoiMG8AYVbOjkU3uOJeG-HMzzPxDX7hYUPjmJS13s,Hamburg,20357,Hamburg,Lagerstraße 1,"[9.9739,53.561]",DEEZE,eze.network GmbH
+FGpnNKb7SycUqlupFBnn9buRaCtjbmVb-U8EoRMIKB8,Hamburg,20257,Hamburg,Hartwig-Hesse-Straße 3,"[9.946393,53.580614]",DEHHM,Hamburger Energiewerke
+FKjNlU6EmXy-62DjrGbZzI0ga-LPdI_plGuCUzqyISI,Hamburg,20253,Hamburg,Hoheluftchaussee 52,"[9.97358,53.580764]",DEHHM,Hamburger Energiewerke
+FMt0xKXxQgmIobYI3p603PzIY_e7Exx4hlFqtIZ8cnY,Hamburg,20249,Hamburg,Lichtwarkstraße 10,"[9.995096,53.589993]",DEHHM,Hamburger Energiewerke
+FQ6snjTv9P32fjeR_8BHvZfLX-Syq2lbdS1pKLflgp0,Hamburg,22041,Hamburg,Litzowstieg 6,"[10.06877,53.57357]",DEHHM,Hamburger Energiewerke
+FVw7gSHFzOlfhl66PGSybOubhrgT7fp3kVCgoDhCoFM,Hamburg,22089,Hamburg,Eilbeker Weg 73,"[10.047845,53.570726]",DEHHM,Hamburger Energiewerke
+FWP5UEILNKVbgVClrOGHWFbyLMjUgc3WuM3qpLbr9eQ,Hamburg,22767,Hamburg,Lawaetzweg 4,"[9.94326,53.55116]",DEEDR,E.ON Drive
+F_3jTtpaWh_6iVPqGT1mOsmweEfjZsmaA4jRt_QnHkQ,Hamburg,22143,Hamburg,Rahlstedter Kamp 44,"[10.173768,53.608307]",DEHHM,Hamburger Energiewerke
+Fa5xy8J21hKcIzvNIaJZrvxAOctdX4JR5oafhmSS9C8,Hamburg,20355,Hamburg,Holstenwall 10,"[9.977067,53.553492]",DEHHM,Hamburger Energiewerke
+Fbjii8LDBL8tBOEj3LPjqgvzKyRs4_gpGx89BF0WrJ0,Hamburg,20097,Hamburg,Banksstr 26,"[10.01168,53.545]",DEHHM,Hamburger Energiewerke
+FgcaiIzjPqiSNNPXG9IyciIld33QC1Wb7iCQ5q5lkjw,Hamburg,21129,Hamburg,Hein-Saß-Weg 23,"[9.86455,53.53677]",DEMDS,Mennekes
+Fho1pGkk8t71JEFUGfu0RXEzR6mBYXhSO0fFiUegxCQ,Hamburg,22179,Hamburg,Hegholt 3,"[10.078873,53.601205]",DEHHM,Hamburger Energiewerke
+FhxhvXFKmfWnTxHf3KbTEkKYtP7hPD9sC7WvA-tuWtY,Hamburg,20537,Hamburg,160 Wendenstraße,"[10.03643,53.54868]",DECPI,ChargePoint Germany GmbH
+FlkpaFf818b2dhtYUc0fPY1Vh68ktgpWL749HYNXyHc,Hamburg,22303,Hamburg,Schinkelstraße 1,"[10.01352,53.581918]",DEHHM,Hamburger Energiewerke
+Fm_u32Zllk5rMdZV7IdxSbPIumOdqdIhBdzsQXGSVMg,Hamburg,20253,Hamburg,Unnastraße 48,"[9.958638,53.579777]",DEMER,MER
+FnmvifOOYi8qXJf9myolPVLkwl7sgLz3-VvRLOUM9fQ,Hamburg,20251,Hamburg,Martinistraße 72,"[9.975111,53.588684]",DEHHM,Hamburger Energiewerke
+FoIPSmlz8YyJgrub5Uug9-gH3EnOGaEX2lM0-QfxZAw,Hamburg,21033,Hamburg,Friedrich-Frank-Bogen 22,"[10.179305,53.494055]",DEWLN,Wirelane
+FovLCVUDruQi0QeFqxwqacofYtkZ8EHH77sMZxYXJBs,Hamburg,22559,Hamburg,Suurheid 20,"[9.77233,53.582267]",DEHHM,Hamburger Energiewerke
+FtbOiU-0RjAwk6elI9-NFYHoeBbMdCkw8uI7Vh-nDJE,Hamburg,22177,Hamburg,Fabriciusstraße 99,"[10.062858,53.60245]",DEHHM,Hamburger Energiewerke
+Fu9W0pdeOjub7IgN3V0k1TwAkPCGFjMkdTAt0mZWN_A,Hamburg,22605,Hamburg,Holztwiete 22,"[9.8734,53.54787]",DEQRM,Qwello
+G35stYZArU517veijC6QA7Z27_bBRjNloNi-p7lUn7A,Hamburg,20537,Hamburg,Wikingerweg 2,"[10.031635,53.551948]",DEHHM,Hamburger Energiewerke
+G5DKV80Moxwhq-AL6XI9SaaE7OflcFfYmeQuiokvNJo,Hamburg,21033,Hamburg,Kurt-A.-Körber-Chaussee 22,"[10.196303,53.48897]",DEHHM,Hamburger Energiewerke
+G8L5SyPLuGu00xGc7KHixFpEJaVBS3brqeT95FtEzAA,Hamburg,22117,Hamburg,Merkenstraße 34,"[10.127741,53.54301]",DEHHM,Hamburger Energiewerke
+G9L45eX8zH1gUaNsadenVJruP3pOVjTRazdPOZUJMEY,Hamburg,22397,Hamburg,Tannenhof 52,"[10.093855,53.686234]",DEHHM,Hamburger Energiewerke
+GHMJ03V6YARYSXiSAXRsiQE0l0Rg8J838XoA3ILAal4,Hamburg,22525,Hamburg,Warnstedtstraße 6,"[9.93181,53.58308]",DEJEG,Jolt Energy
+GMItPzWB3sPRUV-GG_6cPlu4mknWWIwu1D7W86ve8cA,Hamburg,22303,Hamburg,Semperstraße 43,"[10.016495,53.586194]",DEHHM,Hamburger Energiewerke
+GPisGs19OYQCmMTTxbPYQ90PvdwCtxc2ksDlpOlmf64,Hamburg,22297,Hamburg,Maienweg 22,"[10.00264,53.61363]",DEQRM,Qwello
+GYtVqIJYlORIBYeuEJEnhH64cg4t977hv3Ff1d06w2Y,Hamburg,22359,Hamburg,Eulenkrugstraße 190,"[10.18761,53.64428]",DEPWA,Pfalzwerke AG
+GZvNR_Zyh0IIgqjMJ8KmsiXvND2CpYWWOUIf-kfPZYY,Hamburg,22297,Hamburg,Wilhelm-Metzger-Straße 15,"[9.99795,53.6049]",DEEZE,eze.network GmbH
+G_iD5SbkfLsRUOgbbbyQx2AWPzQsEqc82EDQ1jtDIK0,Hamburg,20354,Hamburg,Große Bleichen 38,"[9.9871,53.5519]",DEAPC,E.ON Drive
+Gc-uFpsvdfvacHGAQ_Jgdlmv4Ryy9foExtN9zpWZU9g,Hamburg,21031,Hamburg,Leuschnerstraße 91,"[10.20432,53.50348]",DETES,Techem Energy Services GmbH
+GeBJytsykVGbW2NdoZSuyF5YFVa5Sd2g8S_yxx_GWyI,Hamburg,22089,Hamburg,Kantstraße 4,"[10.053613,53.569062]",DEHHM,Hamburger Energiewerke
+Geghw0Elfg-xlXuM8pUMyf6GRCwdnHj45FeQnLw-5XY,Hamburg,21031,Hamburg,Havighorster Weg 2,"[10.211408,53.51413]",DEHHM,Hamburger Energiewerke
+GgIf2f5MNiV-Ybs4y6TyavwC8dm-4ThIMsrGUPMCMeA,Hamburg,22767,Hamburg,Thadenstraße 158,"[9.951961,53.556449]",DENNX,nonoxx pro GmbH
+Gnbmq9VcVVqKx-ArWSuwhr45L-wtXFYws7-x6PiuVsw,Hamburg,20359,Hamburg,Seilerstraße 16,"[9.966698,53.55052]",DEHHM,Hamburger Energiewerke
+Gnq279KqFNAZ9mhGPJMw5Te0lrYm_HB6LHl8O2IQVRM,Hamburg,22047,Hamburg,Am Stadtrand 56a,"[10.098471,53.592594]",DEALL,Allego
+GqlZUZzQ4feuBU_2fDosq_CF_-_Bh9_eBsdZWnQ6BJA,Hamburg,22393,Hamburg,Volksdorfer Weg 192,"[10.128771,53.644645]",DEGCE,Volkswagen
+GyLxRNy0JNSrhRpWX8dBJ6-nB_OqNT_-OBVpkHPEsVo,Hamburg,20535,Hamburg,Caspar-Voght-Straße 78,"[10.05984,53.56267]",DEHHM,Hamburger Energiewerke
+GzmFigEWnFcw1N5VWyx0dkmwayWcNVBimR426vO_Lzo,Hamburg,22391,Hamburg,Alte Landstraße 280,"[10.07936,53.64848]",DEEZE,eze.network GmbH
+H-2w9o_6eTcbe_TR0KnXP9xPdxYOlbUyNcG_VVmW7a0,Hamburg,22767,Hamburg,Schmidt-Rottluff-Weg 9,"[9.95928,53.55658]",DEHHM,Hamburger Energiewerke
+H-TPm5npZlWfkcFvJ1zI6gKqWLHk69ryIi_yuZgLlnA,Hamburg,22117,Hamburg,Möllner Landstraße 221,"[10.13818,53.54151]",DEEZE,eze.network GmbH
+H0o9W5gauezc-NRc_DmWbUwu68pa1PVl2pO3EH-daSg,Hamburg,20099,Hamburg,Greifswalder Straße 37,"[10.01177,53.55729]",DEHHM,Hamburger Energiewerke
+H3Fn5hDzRBnk5RxUHfrWNR_WFAaj9faR0alIuLHNL-4,Hamburg,22765,Hamburg,Nernstweg 29,"[9.93147,53.55616]",DEHHM,Hamburger Energiewerke
+H3Op79iP1SnUUHH__bD7b0wRpo9Pxb8TLlDVh-U1Xaw,Hamburg,22303,Hamburg,Südring 24,"[10.0163,53.59162]",DEEZE,eze.network GmbH
+H5wQl6vyNIfpCmGJcPrzny35q9_DcL39P5okPrss4rw,Hamburg,22297,Hamburg,Mexikoring 15,"[10.02352,53.60243]",DEQRM,Qwello
+HBt0k5ySd20ojKUXyNTMXXxI-eQu1inDS6Ov3c-OSkc,Hamburg,22309,Hamburg,Fuhlsbüttler Straße 399,"[10.040611,53.602611]",DEHHM,Hamburger Energiewerke
+HC2H9QojxTJA8siErPmOkAT7_3seyX1LZTKFet1XB8M,Hamburg,20099,Hamburg,An der Alster 9,"[10.014012,53.561146]",DEHHM,Hamburger Energiewerke
+HD1FOVXL7SCD3nfmUI_fWYr6PlLHNx5Z7m7R48AWhf4,Hamburg,20099,Hamburg,Borgesch 1,"[10.009915,53.554795]",DEHHE,Hamburger Energiewerke GmbH
+HDHBSnf63kXipnKsKc_EIINPTcnAJHCTBsPi0-blH_U,Hamburg,22305,Hamburg,Fuhlsbüttler Straße 151,"[10.043988,53.591795]",DEHHM,Hamburger Energiewerke
+HGQObZ2ZzPSSnCNTSvH3mDW-NtbiIiuc6mCqB-A-jj4,Hamburg,22335,Hamburg,Heschredder ggü.  104,"[10.015019,53.631588]",DEHHM,Hamburger Energiewerke
+HH-5xuSfXw2fO4qYimk929PlfdJfQik_SW54NYX7KBs,Hamburg,20359,Hamburg,Bernhard-Nocht-Straße 99,"[9.964055,53.547127]",DEHHM,Hamburger Energiewerke
+HNEiWxDFRSu9SBCQHhqubvRTab6ekEAmHkxdgKGNNlc,Hamburg,22527,Hamburg,Basselweg 100,"[9.93269,53.59652]",DEEZE,eze.network GmbH
+HPSc2fsysBgkz93oeuPspcOaFg21ipeOClVYu2iocb4,Hamburg,22607,Hamburg,Müllenhoffweg 52,"[9.873469,53.561641]",DEHHM,Hamburger Energiewerke
+HPmZdHBY22kFETbT5P6RwgzlIT2RTe8A9nRGi00Z8EA,Hamburg,22769,Hamburg,Kieler Str. 131,"[9.94119,53.57254]",DEGMS,GETEC mobility solutions GmbH
+HRI-0H8WRH0dfYcbVjKJThmQEq2MRVhwDdkXaEtYJ5k,Hamburg,20251,Hamburg,Breitenfelder Straße 16,"[9.97178,53.5849]",DEHHM,Hamburger Energiewerke
+HRXF1cqMJvm1y31KelqELmr2wBL2h9rbaRmy1MusP6w,Hamburg,22297,Hamburg,Braamkamp 5,"[9.99993,53.601632]",DEHHM,Hamburger Energiewerke
+HVPd9oyCR5Hbwvfu6gu63zPyiJqNmyeJ3C-bXckw5lY,Hamburg,22419,Hamburg,Oehleckerring 28,"[10.00636,53.6631]",CHECU,eCarUp AG
+HWTaJPejZ93qjui87Cqd-HVP3T8wrQOzLyPla6RFM-Y,Hamburg,21073,Hamburg,Eißendorfer Str. 106A,"[9.96134,53.45698]",DEEZE,eze.network GmbH
+HXUyaGWwkwZlju8b4OVBe7uPMQO1wRS1YMqnSv1HkS8,Hamburg,21037,Hamburg,Süderquerweg 105,"[10.177135,53.407685]",DEDGV,DG Nexolution Mobility GmbH
+HYQ33Tbp3kfJ8J5aybXY6xf0xh_enBqYSXW0PLKXFqA,Hamburg,22305,Hamburg,Fuhlsbüttler Straße 149,"[10.043988,53.591795]",DEHHM,Hamburger Energiewerke
+HaPFwy0cD8AmLTXBHV6E5zO9E5AVwbP1_wL1jtoC49I,Hamburg,22041,Hamburg,Wandsbeker Königstraße 11,"[10.064306,53.572156]",DEHHM,Hamburger Energiewerke
+HeBlVH5JRm7gCOzhjTe-YTSrf_uPR8qJW7rA_YaVxF8,Hamburg,21031,Hamburg,Am Beckerkamp 21,"[10.209574,53.497329]",DEHHM,Hamburger Energiewerke
+HgSSHQm26T0WUjYCcrUwIi5Od2P4VReqMKuGyGUZuqM,Hamburg,22043,Hamburg,Schimmelmannstraße 97,"[10.105163,53.572693]",DEBPE,Aral Pulse
+HgUQbfb277YCyM8lQkzjIKLOtu1vXcYp7GzHtgk5RFQ,Hamburg,21107,Hamburg,Fährstraße 10,"[9.99278,53.51539]",DEHHM,Hamburger Energiewerke
+Hj1Gf1LHf8yzwT2KH9CQl-xCFKQegV0CUKRFGoX2QMM,Hamburg,21073,Hamburg,Großer Schippsee 29,"[9.984153,53.461358]",DEHHM,Hamburger Energiewerke
+HlXxjwIRVoMZrpQXmkiBo3QXeCR8LpAeXLYL7UOx5I0,Hamburg,22299,Hamburg,Fiefstücken 8,"[10.00374,53.59983]",DEHHM,Hamburger Energiewerke
+HopMQLS5XRVrcDqavYb-c8u0DgwOyta5OlxwVURjnwA,Hamburg,22457,Hamburg,Holsteiner Chaussee 190,"[9.910678,53.625228]",DEGCE,Volkswagen
+HpFkJewVSJfqQ85PyDy8oYjxCJITZI4lnNqDFg0hjR0,Hamburg,21147,Hamburg,Twisterring 28,"[9.87944,53.47671]",DEHHM,Hamburger Energiewerke
+HrzpjCLoJPVbwr_Mi_2jp7nN4Ak-XKHsOqX2Kn0m2Fc,Hamburg,20251,Hamburg,Curschmannstraße 10,"[9.97994,53.58576]",DEHHM,Hamburger Energiewerke
+Hy64H-Rc0ptZBwyvI5xo3857xXOvA1_GH_tPyImasvs,Hamburg,22175,Hamburg,370 Bramfelder Chaussee,"[10.08385,53.62212]",DETNM,Shell Recharge
+I0rc5UDUBBwekS5t0NvZd9qGJwzmAEnMCeWagJRa7x0,Hamburg,21147,Hamburg,Striepenweg 29,"[9.8806,53.47362]",DEEZE,eze.network GmbH
+I3SwZ8c_6J8orpy6hvAiVEziZDghEHEJE6pFgs4R9dE,Hamburg,22047,Hamburg,Walddörferstraße  129,"[10.083221,53.579988]",DEHHM,Hamburger Energiewerke
+IBhRkZN7E3_tC6KSEEWuUksO9zd5zUEAnbRQu9E2xz0,Hamburg,22335,Hamburg,Suhrenkamp 40,"[10.01387,53.61884]",DEEZE,eze.network GmbH
+IF9yjFPlWNImlEVq707ViawK4s12VKxlnTvVNUVJTrg,Hamburg,21079,Hamburg,Kniggestraße 6,"[9.994277,53.44525]",DEWLN,Wirelane
+IJ7gE7TCDYj0ahLXY64EX91j1K5sceqsnCilPr9QjcA,Hamburg,22457,Hamburg,1 Rönnkamp,"[9.920373,53.647064]",DECPI,ChargePoint Germany GmbH
+IL5g15DppLgOCL_ndwJa3juoWTl2yErxWSkpjoPIAQY,Hamburg,20257,Hamburg,Sophienallee 39,"[9.95357,53.57006]",DEEZE,eze.network GmbH
+IM6nXsUUPEU0BSYJ4PGkM_zHMmwiUFdhxl3CQ6JfoTQ,Hamburg,22457,Hamburg,Modering 3,"[9.92316,53.63686]",DEBDO,Lichtblick
+IPfYfNfhu4vTrH3bNlPKcN4wPsd0iQdFudvt9Z27F1Y,Hamburg,20537,Hamburg,Bullerdeich 36,"[10.03931,53.54426]",DECNT,Spirii
+IS3DuopAFkpepsLWI6szV6a6yZL45O8S-oVPjvbZlIg,Hamburg,22769,Hamburg,Stresemannstraße 40,"[9.96118,53.55939]",DEHHM,Hamburger Energiewerke
+IS7M_guPBhts74pGlgLKNFPypgm5v70Fdf12XKtrTC8,Hamburg,20537,Hamburg,Grevenweg 88,"[10.04182,53.550523]",DEHHM,Hamburger Energiewerke
+ITBgVBYyBP96pVnTUkC3qY8BciMDgrXDvpFfkgUBZsM,Hamburg,22767,Hamburg,Carsten-Rehder-Straße 45,"[9.948768,53.545045]",DEHHM,Hamburger Energiewerke
+IU_crH_qR14qZRffDd6tGYMV7TMjwPjpBsrWH8qU92I,Hamburg,22147,Hamburg,Alter Zollweg 2,"[10.15273,53.6144]",DEVAT,Vattenfall
+IWMA-6HF2aEXgtVlUKPCF-heTi2l1l_uMBYh6JsdFqs,Hamburg,20255,Hamburg,Ottersbekallee 31,"[9.958507,53.579181]",DEHHM,Hamburger Energiewerke
+IXwnAyqV_5DkoVflCAUor_hYL0xoZwprVpBCEoNsnLc,Hamburg,20537,Hamburg,Eiffestraße 74,"[10.0379,53.5523]",DELMS,LastMileSolutions
+IYCMW29Kb7za40p1be19Z8AdTtZz3boVdcHQeCXAhnw,Hamburg,22607,Hamburg,Heinrich-Plett-Straße 14,"[9.866484,53.567931]",DEHHM,Hamburger Energiewerke
+I_f6N0GPArvFJYMKLlekHAUIs6RO7JRpuCTzLc2UHtE,Hamburg-Eidelstedt,22523,Hamburg,Holsteiner Chaussee 49,"[9.90587,53.61419]",DEPFW,Pfalzwerke AG
+IbRkdZfoJfIw0mgyAuLQkTbXDRZOsKYk9WDCL2LFOQw,Hamburg,20537,Hamburg,Borgfelder Straße 84,"[10.03967,53.55521]",DEHHM,Hamburger Energiewerke
+IcTZJl4az6cfGvGeT8Q0mParAAQZxa527BM1XLtP0ik,Hamburg,22525,Hamburg,Schnackenburgallee 15,"[9.9183,53.575526]",DEONE,reev GmbH
+IeZRO6XutCWK10-NZA98lE2OjhgRW4y3GVYXtW1tzsY,Hamburg,20354,Hamburg,Große Bleichen 37,"[9.987,53.5519]",DEAPC,E.ON Drive
+IfHX55OZs5R3dDl3JN08-HgmX_Y-dc0l9x6dQBs10ck,Steilshoop,22309,Hamburg,Eichenlohweg 17,"[10.044176,53.608315]",DEEDR,E.ON Drive
+IheFKZxX6uCNIRF8vbnwQt5QBBv2jwzbLjND-1sWO7U,Hamburg,21035,Hamburg,Weidenbaumsweg 130,"[10.19888,53.48102]",DEEZE,eze.network GmbH
+IiPNI7sYyplpGUH43aNC-kVCljrPfGBt0bOYkk67zDU,Hamburg,21149,Hamburg,Distelacker 5a,"[9.85625,53.469138]",DEWLN,Wirelane
+Ik3LVxCmanaEjG9m78P3hQC9m7KAHxJIRbUKZCDBR9Y,Hamburg,20354,Hamburg,Alsterufer 38,"[9.99841,53.56429]",DEEZE,eze.network GmbH
+ImWZSCk_pA5mi7BMBvRYY_Rr8Y81BY-11rE4d4llT5k,Hamburg,22529,Hamburg,Niendorfer Straße 62,"[9.95617,53.60607]",DEHHM,Hamburger Energiewerke
+InuzIlDxNURE65fBMFK_Si0bLH7m7hF7WvMKodr3x8E,Hamburg,21107,Hamburg,Vogelhüttendeich 87,"[9.99244,53.51675]",DEWLN,Wirelane
+IuoMtOXjjfNI9rvTQqcTs7uEkPLXe3rBGIE8l8JibfQ,Hamburg,22359,Hamburg,Kattjahren 4,"[10.162925,53.651913]",DEHHM,Hamburger Energiewerke
+IvWdg5oedbLe0avW-pd5lm_HAW0ohiOaEXZE5DzkLbw,Hamburg,20457,Hamburg,Adolphsplatz 3,"[9.99101,53.54922]",DEHHM,Hamburger Energiewerke
+IyjHtetnGKia3Ji3caZyGR1cpaQ0JBh9epbFqWFSSag,Hamburg,22457,Hamburg,Holsteiner Chaussee 182-184,"[9.90971,53.62508]",DEODE,ORLEN Deutschland GmbH
+Izq7OTGML8w8G1CzbxoTXjM2e3wTP0Ady0xuf5ZkUr0,Hamburg,22767,Hamburg,Palmaille 73,"[9.935498,53.546429]",DEHHM,Hamburger Energiewerke
+Izw0OxGKMksOxAc5bCJiEowS0GvQKosZF1SalWHAIbg,Hamburg,22301,Hamburg,Dorotheenstraße 34,"[10.00971,53.58119]",DEHHM,Hamburger Energiewerke
+J1b2ifvLuTZqLamau5CC6oVHmHmWKQPi5gTQcFWcn9o,Börnsen,21039,Hamburg,Lauenburger Landstraße 19,"[10.27908,53.469348]",DE722,e-werk Sachsenwald GmbH
+J4gKvbRzyQ_X0J7WBjzjna0XVxcJXsgax2WtXh37VSc,Hamburg,21073,Hamburg,Eißendorfer Straße 189,"[9.95613,53.45597]",DEHHM,Hamburger Energiewerke
+J5tgGCFK3Gt2QixDudCymC8EVituD7mJJoW--_AM2nU,Hamburg,21073,Hamburg,Gazertstraße 69,"[9.96811,53.45806]",DEHHM,Hamburger Energiewerke
+J8GqYlZpMUAulwgFA1_Cq3qpdZt-22qbYNCQKPxSotI,Hamburg,22529,Hamburg,Lenzweg 2,"[9.94807,53.58377]",DEEZE,eze.network GmbH
+JFrn5UCyclVrB29YJt4qldXa-KmWeMXjvZlS2EQPMFs,Hamburg,21037,Hamburg,Süderquerweg 281A,"[1.0,1.0]",DECOC,HadSol GmbH
+JKtQ4bHPOase-3eSts1Ad35nUcAuDt5rdGpSVMv5L-w,Hamburg,22765,Hamburg,Museumstraße 23,"[9.934814,53.549181]",DEHHM,Hamburger Energiewerke
+JLO_68sHIUE89eNOe6LgD9WnIYLvdy3llrW1vSIXymc,Hamburg,22299,Hamburg,Krochmannstraße 2,"[10.00201,53.59704]",DEHHM,Hamburger Energiewerke
+JRBq2vZFjAgNSBU1dFkuM1lpbEx3PNtGwVbOD4U2Noo,Hamburg,21107,Hamburg,Weimarer Straße 71,"[9.98761,53.50813]",DEHHM,Hamburger Energiewerke
+JRgwTSZExP5KQNFsa400Tjtl8f9FB7UEsqj_LRfeDfs,Hamburg,20097,Hamburg,60 Amsinckstraße,"[10.02175,53.54319]",DETNM,Shell Recharge
+JS_SUidblwN18cnMmeFYsCp4JfGCAlHqiMgfjJBm7gU,Hamburg,22087,Hamburg,Papenhuder Straße 33,"[10.01895,53.56698]",DEHHM,Hamburger Energiewerke
+JWLH2yRR2Q0XvRpF9xV5-JsjQs2z8_LAV66AgRbyD_4,Escheburg,21039,Hamburg,Hofweg 2,"[10.309699,53.467085]",DE722,e-werk Sachsenwald GmbH
+JWXWOoPbkgGR4dyKsDuxwjYBOxVmhvtXE74ScLwBLZg,Hamburg,22453,Hamburg,173 Kollaustraße 219-1930,"[9.952952,53.611976]",DECPI,ChargePoint Germany GmbH
+J_Img-alwydIli5PmnWGB0p06MwqmdiGKOdAY9cpyQI,Hamburg,21031,Hamburg,Schulenburgring 1A,"[10.19254,53.50711]",DEEZE,eze.network GmbH
+Jb8tgG-awqTV6KRfawVa0BWWwg-PdBCk6Cu3y7P07r4,Hamburg,20457,Hamburg,Alter Fischmarkt 11,"[9.997061,53.548537]",DEHHM,Hamburger Energiewerke
+JcjHGP1HCQWLeK_i-v3T3pZzsuUPip5_9W05YQ7R3I8,Hamburg,20146,Hamburg,Bornstraße 14,"[9.981658,53.568268]",DEHHM,Hamburger Energiewerke
+Je0aW7L5ucTYcQ-qpJmOSbQkPo8xiowkZuays6aPopQ,Hamburg,22177,Hamburg,Bramfelder Chaussee 136,"[10.07135,53.60355]",DEEBW,EnBW
+JhnOQ3nzu-W5qZXBV7z0Ww2WJc1sAJfUHyo8fmWWfN8,Hamburg,22459,Hamburg,Tibarg 24,"[9.951216,53.618925]",DEHHM,Hamburger Energiewerke
+Ji0WqbaAkq44oY4a8183fNfeP4wN45zjE7rjPijkkaI,Escheburg,21039,Hamburg,Lange Stücken 2,"[10.3105,53.4718]",DEEBW,EnBW
+JqllmAmMYN6kpOaeYF8kDOL91eNmesJ1SXaaSzxZSGw,Hamburg,20257,Hamburg,Langenfelder Damm 2,"[9.941546,53.57806]",DEHHM,Hamburger Energiewerke
+JrLUs1vfEWch8a2I2Ku3KQJnb-CK7ISL4z9h7XqiXPw,Hamburg,22305,Hamburg,Steilshooper Straße 59,"[10.049369,53.587655]",DEHHM,Hamburger Energiewerke
+JyyucuZ8MjIXgVLmDb66_jHMP2AW56mvTpVTmtO0ASs,Hamburg,22081,Hamburg,Alter Teichweg 15,"[10.049647,53.582439]",DEHHM,Hamburger Energiewerke
+K246SwOnTvpEzwomMFzwjVE5lkRj-9ueyR8LyQof6I0,Hamburg,21129,Hamburg,"Altenwerder Hauptdeich, 21129 Hamburg, Deutsc","[9.91623,53.51299]",DEUFC,E.ON Drive Infrastructures
+K2UE6mtb6tBjC8_sY62-2bW6lLCZWOZDKhXfDqLohK8,Hamburg,22529,Hamburg,Hamburg Heinrich-Kock-Weg  Nr.15,"[9.969895,53.595193]",DEGUE,Liikennevirta Oy (CPO)
+K385E-wXGWWCSaoT-NxD0cmW6fKr6Qv7_C9yf_zzu94,Hamburg,22415,Hamburg,Tangstedter Landstraße 83,"[10.01873,53.65261]",DEVNW,Verband norddeutscher Wohnungsunternehmen e.V. Hamburg - Mecklenburg-Vorpommern- Schleswig-Holstein
+K45SgfwtOJOVp_tX2X3xG5sS0MyY4nr8UXzkcInuLr4,Hamburg,22159,Hamburg,Berner Allee 29,"[10.13474,53.628515]",DECCH,Comfortcharge
+K49YBAsfcc-D_vhlfQHox2RkXurMyt1_Y3laCfleSr8,Hamburg,20457,Hamburg,Hopfensack 17,"[9.999374,53.548126]",DEWLN,Wirelane
+K4Vq5-CAKEosJZJ_yfjLIdlt6l-sVDX4Q9OXBwTlEsc,Hamburg,22393,Hamburg,Stormarnplatz 3,"[10.094606,53.652317]",DEHHM,Hamburger Energiewerke
+K54_D9gxSyR0RbIFIpnG12lTnCw86gm7nm1SHibIA8A,Hamburg,22043,Hamburg,Barsbütteler Straße 45,"[10.14412,53.57103]",DE2GO,EWEGo
+KBCtF0em1OIXQ4_TNdy-yVVmObTHmBGCNjrNnbFL73s,Hamburg,22589,Hamburg,Sülldorfer Landstraße 196,"[9.797165,53.580382]",DEHHM,Hamburger Energiewerke
+KDn6V0mMEc80SHbK5sWIjgP-R_ppyZbBUeJU1DyYcLc,Hamburg,22299,Hamburg,Bebelallee 1,"[9.995665,53.594255]",DEHHM,Hamburger Energiewerke
+KES15DxKyxfTR1M5qA29LkVPUpr-X5MMW7TmuAwSBqM,Hamburg,22307,Hamburg,Fuhlsbüttler Straße 179,"[10.043795,53.59469]",DEHHM,Hamburger Energiewerke
+KFOJkk9y-trt8C6P4U-FuIY3lVfILWKfSwhp3C4knkM,Hamburg,22089,Hamburg,Von-Essen-Straße 3,"[10.045213,53.56976]",DEHHM,Hamburger Energiewerke
+KHvSn15zVh71KU1Eac-8M9lDH-qK6BDZ9HZGC4xV3h4,Hamburg,22309,Hamburg,Eichenlohweg 24,"[10.04424,53.6094]",DEEZE,eze.network GmbH
+KPMmtDPs8sdv55m-Vsp0euXKIq9rXGYMOp0S7sSYTBI,Hamburg,22527,Hamburg,Jütländer Allee 47,"[9.928468,53.599993]",DEHHM,Hamburger Energiewerke
+KRnsLEVPkipwGNj26lndCyLurXcUTRsrLu2dtlwPObM,Hamburg,22529,Hamburg,Heinrich-Kock-Weg 21,"[9.97135,53.5954]",DEEZE,eze.network GmbH
+KT-Aeb7KL3IDvKZkSqQIZXJlsjzedzaN6Smn6sVyJAk,Hamburg,22609,Hamburg,Breitenbachweg 5b,"[9.8483,53.56622]",DEWLN,Wirelane
+KTGzD-MbtuzcOqH5YZnpwH7vOfYBzp29rE7wdmL1BKY,Hamburg,22149,Hamburg,Schöneberger Straße  114,"[10.157636,53.588291]",DEHHM,Hamburger Energiewerke
+KVFnB6sCL00l6XVuYvP_BdZDkPQw3pcZe9rNvuHHxr4,Hamburg,22309,Hamburg,Steilshooper Straße 260,"[10.05192,53.60328]",DEHHM,Hamburger Energiewerke
+KbF4bMlypOU8aAgyPBN1ygn-RApxducodnDPKxNq1MY,Hamburg,22523,Hamburg,Holsteiner Chaussee 49,"[9.90586,53.61414]",DEPFW,Pfalzwerke AG
+KdCTtCMa7Ekz9feUIUTdpmHdwBMySVBXVYyvQFFxpLs,Hamburg,20457,Hamburg,Am Strandkai 1,"[9.993589,53.539348]",DEHHM,Hamburger Energiewerke
+Kf6iNoovjsfdrEak6ZYn2FtJ6JDyL1j5UHkBlVAC-yg,Hamburg,22529,Hamburg,Hamburg Heinrich-Kock-Weg Nr. 5,"[9.970677,53.594472]",DEGUE,Liikennevirta Oy (CPO)
+KgjzolqP6HyXAq2WNOBXHy9Z3hBxRwdqooRzOlUFgu0,Hamburg,22335,Hamburg,Flughafenstr. 1-3,"[10.00902,53.63612]",DECCH,Comfortcharge
+Khrw4EAVmEsYW363xbHVY-hYBJeqDL9jqpXbf98ygNw,Hamburg,21073,Hamburg,112 Bremer Straße,"[9.9712,53.45186]",DETNM,Shell Recharge
+KilcUCNc-Fx-u6O8eWGnTnxp1Zpkp7AC7wl-cWAkREA,Hamburg,22045,Hamburg,Tonndorfer Hauptstraße  128,"[10.131999,53.589256]",DEHHM,Hamburger Energiewerke
+KjgLtDXdr8CIzy8MjgQWAWV2bursYiANcbHMtBLb50g,Hamburg,22085,Hamburg,Herbert-Weichmann-Straße 39,"[10.01241,53.57361]",DEEZE,eze.network GmbH
+KldW5QadOaein47Z5XbyHM05rUs_aAFQh8BhHRlujlU,Hamburg,20354,Hamburg,Schenefelder Landstraße 76,"[9.8269,53.566762]",DESNH,Stromnetz Hamburg GmbH
+KmEO25YlmS9p6YocZDe_BKzTG9xJyKEm5QHCHiXqbTc,Hamburg,22177,Hamburg,Bramfelder Chaussee 238,"[10.075337,53.612842]",DEHHM,Hamburger Energiewerke
+Kq6dhxZfUUnxLVVPo7Vc82nxV4FVGt6-5DqdvFC0dkE,Hamburg,22081,Hamburg,Dehnhaide 12,"[10.042557,53.579073]",DEHHM,Hamburger Energiewerke
+KtIn5zi0sT_cJWUaf-XE5fHyxJKj57ybwV3rqKp3Fxo,Hamburg,22767,Hamburg,Große Bergstraße 140,"[9.948007,53.551211]",DEHHM,Hamburger Energiewerke
+Kt_bRCo09UagsF2AVuDiikmkZ9gVcL4H_Q7XHJaL01c,Hamburg,22179,Hamburg,Haldesdorfer Straße 112,"[10.079998,53.600712]",DEHHM,Hamburger Energiewerke
+Kuhe2MVxduzlmvRjdbXKDlmKqfBDjaQFVb-IpJcaKCE,Hamburg,22297,Hamburg,Maienweg 132,"[10.014955,53.616821]",DEHHM,Hamburger Energiewerke
+Ky4K5NyT7v-ORolVwlFFW3lzoURLci3XEKwghqhB2Io,Hamburg,20253,Hamburg,Quickbornstraße 24,"[9.960023,53.580434]",DEMER,MER
+L6H1BEumHL9-9f9FjghVs56ihEKA3Py1HySzGJS5Sz8,Hamburg,22303,Hamburg,Borgweg 10,"[10.015993,53.589499]",DEHHM,Hamburger Energiewerke
+LBgsNMy3sWpa9iRQRBjzOsWmvJkjTnXQ4x9iAhvgSfI,Hamburg,22087,Hamburg,Lessingstraße 21,"[10.030998,53.565318]",DEHHM,Hamburger Energiewerke
+LC-ltRDrZp5FR5BVA-MC-8bErlIft_i3PcETxahxpKg,Hamburg,22589,Hamburg,Heidrehmen 27,"[9.813538,53.576369]",DEHHM,Hamburger Energiewerke
+LDN4kvFp9wRACd7su8nkVYliO9L2KHmhkxiik4VDm8w,Hamburg,22529,Hamburg,Osterfeldstraße 77,"[9.966707,53.599145]",DEHHM,Hamburger Energiewerke
+LFwo-zdotVByqlR_7XMyKIom1Jk9BF9s6mVlbKdz7ZA,Hamburg,20354,Hamburg,ABC-Straße 52,"[9.986626,53.554877]",DEACO,APCOA Deutschland GmbH
+LJS_9SnfQK2314JSDPJmYnOq-LzT_laT-7B98SZ1HyE,Hamburg,21147,Hamburg,Striepenweg 41,"[9.87588,53.47366]",DEHHM,Hamburger Energiewerke
+LWe9_QeQ4fny9HPC_9CbceXqxfUSSUALPIkM06XACUU,Hamburg,22769,Hamburg,Kaltenkirchener Straße 6,"[9.941743,53.56514]",DEHHM,Hamburger Energiewerke
+LcrQpUNWofYQuyDA7qV1AFCWk3RfE-bLdRCXAR90oDY,Hamburg,21129,Hamburg,Hein-Saß-Weg 40,"[9.862889,53.540814]",DEWLN,Wirelane
+Lcz96l7qjoL1fDa97eeQsWaZnSuJuHzRi1OAg8kaJ-k,Hamburg,22527,Hamburg,Högenstraße 54,"[9.938639,53.580997]",DEHHM,Hamburger Energiewerke
+Lf8DO8UAfYpHTaQPO_P3JP_QLlKhpcj4nolemBuvbko,Hamburg,20457,Hamburg,Mattentwiete 8,"[9.989383,53.545331]",DEHHM,Hamburger Energiewerke
+Lhba8fSRWxLiqQor2cpbVgBI8f8Ga5oIVlFe1jvpdUo,Hamburg,20144,Hamburg,Kielortallee 8,"[9.97525,53.57105]",DEWLN,Wirelane
+Lkfvh8QqHpG66MhNjo1InJXsFAZDP6Y9rXzhccyUmLw,Hamburg,22455,Hamburg,Ernst-Mittelbach-Ring 53,"[9.948418,53.640796]",DEHHM,Hamburger Energiewerke
+LlFwjzMlSLpGlCeXh7wC1-EQKB2jhjcoVVEVIj-6nFc,Hamburg,22765,Hamburg,Holstenstraße 156,"[9.94859,53.559071]",DEHHM,Hamburger Energiewerke
+Lmy5Ge90MbxrpaNEc4-L-gZLT-RM4P9tbY1KVUNUdbU,Hamburg,20097,Hamburg,Sonninstraße 6,"[10.01654,53.54762]",DEEZE,eze.network GmbH
+LnelIY0kqsmUYKIID1uLlE65qLlBZ_FR3SypdEFlTAQ,Hamburg,20537,Hamburg,Eiffestraße 450,"[10.046858,53.552045]",DEHHM,Hamburger Energiewerke
+LntJGLjjAzSR7uHO277bvdI7X3hqT3vPyPKKTiMfd1Q,Hamburg,22305,Hamburg,Lämmersieth 11A,"[10.04894,53.58369]",DEEZE,eze.network GmbH
+LnuVgqJXZnDfDeaPMP7hrnkdgrKOS8_OyjnxExSN2fo,Hamburg,22335,Hamburg,LH Basis G258,"[9.989929,53.622078]",DEVAT,Vattenfall
+LqrXWlD30ohR-DXqXQ4lr9uhTwfACWcaYtUNw-66-40,Hamburg,22043,Hamburg,Öjendorfer Damm 60,"[10.13653,53.5718]",DEHHM,Hamburger Energiewerke
+Lt-6c35wFR4mpPZa6Iv18ZCLleJ-V4yWVk6vmeWXRXA,Hamburg,20253,Hamburg,Hoheluftchaussee 153,"[9.967913,53.585071]",DEGCE,Volkswagen
+M1AR5UNgGeu6W_BqzngRCMPfLdnJhJMpBtFBQMysnOM,Hamburg,22549,Hamburg,Kroonhorst 1,"[9.850615,53.588725]",DEHHM,Hamburger Energiewerke
+MH0RMxkXcBi9gVYFEYDSTLUQQKdjB5Q-kXfLYi2XxTA,Hamburg,22549,Hamburg,Kressenweg 34,"[9.872263,53.584517]",DEHHM,Hamburger Energiewerke
+MMvz0BXNCUzeAEO-oR_OuE4qNtwAzVms8zsvavBG61w,Hamburg,21029,Hamburg,Ernst-Mantius-Straße 28,"[10.21406,53.49057]",DEEZE,eze.network GmbH
+MQJXMSvzQYfBf5S5oCi6EFMM6lBZ62Yb4cJmTMEEHZo,Hamburg,20537,Hamburg,76 Ausschläger Weg,"[10.036407,53.548666]",DECPI,ChargePoint Germany GmbH
+MTuP_zPvhEX201A-1gczo1Cef-LoLgAj-F7rzWpSDy8,Hamburg,22307,Hamburg,Fuhlsbüttler Straße ggü. 266,"[10.04244,53.598446]",DEHHM,Hamburger Energiewerke
+MXMXGLowSSeyzjNvzqtQqUDnDfrodzISB7SEpdBRad4,Hamburg,20459,Hamburg,Johannisbollwerk 10,"[9.97435,53.54518]",DEEZE,eze.network GmbH
+MYBcM8TzTRRGNkXsJXaBk1CxczXizn5LSmoq5RdRe54,Hamburg,21109,Hamburg,A1,"[10.02542,53.484017]",DEUFC,E.ON Drive Infrastructures
+M_98Y07BBk3AzT1nJR5zq3cZLf3CdMDgewYvnkWGfEA,Hamburg,22085,Hamburg,Schenkendorfstraße 37,"[10.018638,53.577019]",DEHHM,Hamburger Energiewerke
+MaJttH7ONU8xu3SkKABnqlE6dXR8e0dOUcgNeUqGy1w,Hamburg,22767,Hamburg,Thadenstraße 120,"[9.956656,53.557017]",DEHHM,Hamburger Energiewerke
+Me0db0aGb4uVB7jAuuJMhfPgFuzMhWzaqkhZpPuxlq0,Hamburg,21035,Hamburg,Henriette-Herz-Ring 7,"[10.17922,53.48376]",DEUBI,ubitricity
+Mf6KrGhtLwoUn3z5ATpc4acJOUSOEkcqWFZHaubpslA,Hamburg,21035,Hamburg,Marie-Henning-Weg 37,"[10.154371,53.482554]",DEHHM,Hamburger Energiewerke
+MjDEy-S2oz9b1JhPnHR98bUYICb-Ox0kMQdA0V02lBw,Hamburg,22529,Hamburg,Nedderfeld 80,"[9.97556,53.60157]",DEHHM,Hamburger Energiewerke
+Mq4g2dphCdNLA1p8eRjvL86Jd1FgMCpk_hHPDPyN6t4,Hamburg,20539,Hamburg,105 Großmannstraße,"[10.052901,53.539906]",DECPI,ChargePoint Germany GmbH
+MtotRVk25fejyOatla-zg3WAJq6eBLfGNiyy-QobsbI,Hamburg,22111,Hamburg,Pagenfelder Platz 8,"[10.084171,53.550784]",DEHHM,Hamburger Energiewerke
+MuV17OjgFcKG93NxqoCfZ2b3mGFD9-xVU4jn10GeyRU,Hamburg,20459,Hamburg,Neuer Steinweg 9,"[9.97822,53.55026]",DEHHM,Hamburger Energiewerke
+Mvh2_LCPMxhvSGPfQJamRyXViZXvaazdulodnbiIMck,Hamburg,21031,Hamburg,Sander Damm 23,"[10.20546,53.49233]",DEEZE,eze.network GmbH
+MvoBdkr5zNdpahAJh_ryDlIk9iNUrfzn32x0r33vIoQ,Hamburg,21029,Hamburg,Dreieichenweg 9b,"[10.221194,53.492722]",DEWLN,Wirelane
+N-ERr7bN10V1-7JxlqAZKfrry30MVQYesJwg0wc7pfs,Hamburg,22087,Hamburg,Schweimlerstraße 1,"[10.016461,53.561661]",DEHHM,Hamburger Energiewerke
+N111G8rKHuIbO937NcfbRg1G8nsDtgcO_qYrKz4Tuzs,Hamburg,22179,Hamburg,Haldesdorferstr. 61,"[-47.11,47.11]",DEMUC,Claus Heinemann Elektroanlagen GmbH
+N9HQWhwv2O8E2DEPPwtlqCmo7I1XMm5_ly0rEiu6tMQ,Hamburg,21035,Hamburg,Hermann-Wüsthof-Ring 17,"[-47.11,47.11]",DEMDS,Mennekes
+N9YKNjpR4oBMjMNJ50RPhnf27029NyJp5gpctyMo6cQ,Hamburg,20253,Hamburg,Wiesingerweg 26,"[9.96178,53.58232]",DEEZE,eze.network GmbH
+NEzdwGNZwvBndSA4J5SwyIEPSZQngRXMG_QbyhkEL7Q,Hamburg,22089,Hamburg,Wandsbeker Chaussee 246,"[10.058097,53.569809]",DENNX,nonoxx pro GmbH
+NFyF3VKfoZt3Z1-eVMsOO26rWpdawIBMdgEyCq51W6o,Hamburg,20357,Hamburg,Weidenallee 61,"[9.96399,53.5683]",DEEZE,eze.network GmbH
+NGT01P1J1g4Dno4bbp6HztTafJtpGYbvlTVpiuMaULo,Hamburg,22587,Hamburg,Baurs Park 1,"[9.811191,53.558271]",DEHHM,Hamburger Energiewerke
+NKDWMs3wkVujyA83RBeAsJhYm5wXWRmvzaT-sRfXmx0,Hamburg,22305,Hamburg,Habichtstraße 62,"[10.055839,53.592091]",DESCS,Spark Charging Solutions GmbH
+NOKnRcGHNHzni_2Gh7XjMA-2bpvP0SbEihzxHYPP9KU,Hamburg,22087,Hamburg,Immenhof 37,"[10.021999,53.568584]",DEHHM,Hamburger Energiewerke
+NQa1qxPffGos1fCHxlIPMtZzfGLeBjKs61G0_PZ7u2o,Hamburg,20148,Hamburg,Rothenbaumchaussee 76,"[9.988788,53.571629]",DEHHM,Hamburger Energiewerke
+NRqeqmvzitkWpvzrVDvnQVN_bmY-f2VRvH_0RyOKPUA,Hamburg,22397,Hamburg,465 Segeberger Chaussee,"[10.07169,53.71142]",DETNM,Shell Recharge
+NZTFDsA6eA-3JkmAWU1g2TQLllheDMaQAEEs1UJz-6Y,Hamburg,22767,Hamburg,Königstraße 52,"[9.937531,53.54783]",DEHHM,Hamburger Energiewerke
+NbCjsv7SU2ckOuDxV-C81_d_HfpIsDzvqb3bmCn0gpw,Hamburg,21033,Hamburg,Ladenbeker Furtweg 242,"[10.18193,53.49185]",DEEZE,eze.network GmbH
+NbN9ACfs6qYXH_CsEnKoZFPlqdhd9ol4ZQTrSPffFCM,Hamburg,22307,Hamburg,Elligersweg 68,"[10.052112,53.600806]",DEHHM,Hamburger Energiewerke
+NbvDtBMRJdlp8lBBdnBH5NpKdtza3LFjoZn0Ai2KbHY,Hamburg,20537,Hamburg,Howisch 5,"[10.066754,53.550217]",DEHHM,Hamburger Energiewerke
+NdE5P7z8UkRz9nORF1Tx5UQTGlF0uKmS20dspQ5gPx8,Hamburg,21079,Hamburg,23 Großmoorbogen,"[10.006726,53.454522]",DECPI,ChargePoint Germany GmbH
+Ndv7uq2D74EUQXJqagAsxI0PWQb1JsJUJGndguZRe9w,Hamburg,22587,Hamburg,Blankeneser Landstraße 37,"[9.807264,53.564044]",DEHHM,Hamburger Energiewerke
+NeP-fpZc7e-z50IXjo-junAEANfI5FxHAf5OUwEFh10,Börnsen,21039,Hamburg,Zwischen den Kreiseln 10,"[10.28839,53.48653]",DEALN,ALDI Nord
+NiA2dqLyFz1vZegXsRodg9PFk4QcgWAZHrC9moj6SBE,Hamburg,22087,Hamburg,Immenhof 35,"[10.021999,53.568584]",DEHHM,Hamburger Energiewerke
+NkNnz_2mBBUCbG8KjzuUhS0V2fid4NnUfaEYdfZFrEw,Hamburg,21031,Hamburg,Lohbrügger Landstraße 73,"[10.198874,53.500541]",DEHHM,Hamburger Energiewerke
+NvP_oSjSh8NKsHjcEE4rH3hTdJwbd49pffRajCHI4to,Hamburg,22175,Hamburg,Karlshöhe 60D,"[10.11068,53.6307]",DEEDR,E.ON Drive
+Ny0Q4TLjCJKlSmQezwwigOOlCF5fkUftKe_7prXVyS4,Hamburg,20537,Hamburg,Ausschläger Weg 100,"[10.039176,53.546362]",DEHHM,Hamburger Energiewerke
+NzE3yugJHTUr0Xgm6Mae0ixApJxcBsxq7MM1zcXgU_U,Hamburg,22047,Hamburg,Friedrich-Ebert-Damm 101,"[10.089528,53.58776]",DE2GO,EWEGo
+O-DqWKQqyZEgWuydpvtDKK9Gnc_o7VnJPnFIdA7iWkc,Hamburg,20097,Hamburg,Hammerbrookstraße 44,"[10.4717,53.74355]",DE199,NWG Charging GmbH
+O5cwnFBcLPxKSMLphf6cH0QuNSfu_s1x65roQchojNY,Hamburg,21031,Hamburg,Reinbeker Redder 158,"[10.1929,53.51163]",DEEZE,eze.network GmbH
+OG_0j-jZXQTjGbYCL86QIUz4DprOKU_1ZOy4lkfhhbw,Hamburg,22045,Hamburg,Tonndorfer Hauptstraße 126,"[10.131683,53.589029]",DEHHM,Hamburger Energiewerke
+OOzcl4K51yX2BSCVDerJlgvCI72MxH39xzw4iwA4QeI,Hamburg,20146,Hamburg,Hallerstraße 70,"[9.98553,53.57235]",DEEZE,eze.network GmbH
+OTQA1Ws4W0XOY_vmcOFXl6WLxPVu0qqVwzIP-PrTev4,Hamburg,20099,Hamburg,Lindenplatz 1,"[10.019136,53.55385]",DEHHM,Hamburger Energiewerke
+OTmGpN6T2bbrfRYT9YzRy9s6V8mTLyvwKvVkAtrKVOs,Hamburg,20149,Hamburg,Mittelweg 117,"[9.99374,53.573]",DEEZE,eze.network GmbH
+OXGMmJ4e5k5LkdH5rSso9BbFC_Qj9_RAl1gDe8Xr3mA,Hamburg,22149,Hamburg,Rahlstedter Straße 87,"[10.1531,53.59755]",DEBPE,Aral Pulse
+Ofmy_55lWs6wKAn6osauu_wn23hyBJnKtYGc8YOp4LQ,Hamburg,22303,Hamburg,Jarrestraße 10,"[10.021787,53.584161]",DEHHM,Hamburger Energiewerke
+Ojdy-dvJDIXS-gVUpia_0oxv2UUejz00PseMPbvb6yw,Hamburg,22391,Hamburg,Heegbarg 12,"[10.092557,53.653646]",DEHHM,Hamburger Energiewerke
+OjkWUVQcbapAI2iA-ap4rq2PP8eESf_bEDFfcLTVxD4,Hamburg,21149,Hamburg,Cuxhavener Straße 96,"[9.89827,53.47178]",DECCH,Comfortcharge
+OkURjJlQG2wiR62xFE_bnq35mXXadIuPdZ2QnpSdY3I,Hamburg,20357,Hamburg,Fontenay 1,"[9.995461,53.564812]",DEHHM,Hamburger Energiewerke
+OlPyN1yvDx4X2YGV5WwuDqHxxcBMuOzxLOBWYFc-3oo,Hamburg,22297,Hamburg,Alsterdorfer Markt 1,"[10.023467,53.611467]",DEHHE,Hamburger Energiewerke GmbH
+OtOeClfRG6IeCsEAKD2JcvIyJzFQK_CjvG8wVQ1ZEqg,Hamburg,20459,Hamburg,Englische Planke 16,"[9.97813,53.5478]",DESNH,Stromnetz Hamburg GmbH
+P2kPCEIHoADrQ60SII7rjvRV2c4uh1NVN4CRXM1Owic,Hamburg,20357,Hamburg,Laeiszstraße 13,"[9.969323,53.558814]",DEHHM,Hamburger Energiewerke
+P3dovmK4RPxIV_Xa2G7hzXnsEL1tokHDEGGk-Xn9UYg,Hamburg,22337,Hamburg,Friedhofsweg 22,"[10.058114,53.629388]",DEHHM,Hamburger Energiewerke
+P3gNqBLnLyq-vDRKgqh8yeM9CVzti_XEs_ILdENLwoE,Hamburg-Bergedorf,21035,Hamburg,Kampweg 3,"[10.19722,53.47644]",DENIS,E.ON Drive Germany
+PBTDqnBfgxxaDlxAOYvv-MWwbFtmpDpmwTgN7nrsBB4,Hamburg,22457,Hamburg,Schleswiger Damm 262,"[9.910033,53.64773]",DEHHM,Hamburger Energiewerke
+PCyBEQi0ij1TEP0Ugh0Tb3rR_l7OHAmBOt195jta1vA,Hamburg,22765,Hamburg,Holstenplatz 14,"[9.94848,53.561321]",DEHHM,Hamburger Energiewerke
+PGlADsctAOh-P31C7u5XXyHOdEcPofMmF9rro6xo_vM,Hamburg,22529,Hamburg,Am Offakamp 10-20,"[9.97246,53.60039]",DEISE,vaylens GmbH
+PL0bKgqTTvHgrdeg0kvQhDt5DIkL-ycgCIVe6IvGbUI,Hamburg,22607,Hamburg,Groß Flottbeker Straße 72,"[9.87882,53.56802]",DEHHM,Hamburger Energiewerke
+POdzeoH7-PHbNvwxUKW7PJKGiw-kbcVpfo3B1eIMMRU,Hamburg,20537,Hamburg,Wendenstraße 162,"[10.033082,53.548974]",DEHHM,Hamburger Energiewerke
+PSgyFRaQeYM6pUXtZhENXcUX0M12fJAQID5h06wpFD4,Hamburg,22767,Hamburg,Schleestraße 5,"[9.945393,53.547203]",DEHHM,Hamburger Energiewerke
+PUj2F6G6AL9cjDWcdlyASWZpkXuwGF45VLOgvHn6QaA,Börnsen,21039,Hamburg,Hamfelderedder 17,"[10.287814,53.47361]",DE722,e-werk Sachsenwald GmbH
+PXSkyQljWK-wg-ddRjpMrittOC16Wkn78u00V-ffB8I,Hamburg,22083,Hamburg,Beethovenstraße 47,"[10.02487,53.57664]",DEUBI,ubitricity
+P_QCK2RvNsGzNHZMjbLVas0tE3PBnqfGZjDy31Llrbo,Hamburg,20251,Hamburg,Lehmweg 27,"[9.979513,53.581802]",DESNH,Stromnetz Hamburg GmbH
+PeSaZVuMU6o6T2Ajd7Bt74GMFIEGKRy4y2olhFjsg38,Hamburg,22549,Hamburg,Rugenbarg 252,"[9.872297,53.585728]",DEEBW,EnBW
+PiXFrhtrXUPwdUl932xWt1la1aPItHn83XXgBIQ86Qs,Hamburg,22529,Hamburg,Nedderfeld 32-34,"[9.9708,53.60185]",DENIS,E.ON Drive Germany
+PodM_jKxqkd_9gzZ-8bj_hSeZ49lViJpt0sN2d6XVrs,Hamburg,20357,Hamburg,Lagerstraße 32,"[9.967464,53.562454]",DEHHM,Hamburger Energiewerke
+Q-6gJ-UIKkJDS8COCa8Qssu29gzIPOdX2LLyKO79Kaw,Hamburg,22763,Hamburg,Johann-Mohr-Weg 19,"[9.90657,53.55904]",DEEZE,eze.network GmbH
+Q-uwaFXSKPBnS_F-0d3GOnlwbhgLDZOoTMzvAxJDnVs,Hamburg,22041,Hamburg,Wandsbeker Zollstraße 15,"[10.07418,53.57478]",DESNH,Stromnetz Hamburg GmbH
+Q6xSyWZCLz7tJdnrW7FxMdxhfAQBvnI_1FE9RZxutho,Hamburg,22587,Hamburg,Falkentaler Weg 4,"[9.790723,53.55987]",DEHHM,Hamburger Energiewerke
+Q7NVYCrWBsU1sG9yVGTteourR92V4XYWBTkkUfvlfmk,Hamburg,21149,Hamburg,Ohrnsweg 5,"[9.82489,53.47352]",DEHHM,Hamburger Energiewerke
+Q9L_mcHhVRCjqXYqjgP5i0XvKlMkkwbA_Tpy--uRx5Q,Hamburg,22529,Hamburg,Koppelstraße 49 f,"[9.94495,53.59332]",DEISE,vaylens GmbH
+Q9yYwZn6XPQrCm7L9bVEu1vLiub55tLckkvBQSYjRak,Hamburg,20535,Hamburg,Sievekingdamm 43,"[10.049812,53.559746]",DEHHM,Hamburger Energiewerke
+QALGYPccwnqF3r3YwPiy5SZoAwBf-1-eJxIKJb9icmY,Hamburg,22359,Hamburg,Volksdorfer Damm 186,"[10.14353,53.66919]",DEHHM,Hamburger Energiewerke
+QBz-XtZEzKSix8GoPcaerhGPKqrbouBQyk0i7B13wZQ,Hamburg,22303,Hamburg,Alter Güterbahnhof 5B,"[10.03507,53.59266]",DEEZE,eze.network GmbH
+QIWq8GyjEcSeT6kO9J83k7oqFE8Ok6MDp_GoYE3BctU,Hamburg,20148,Hamburg,Rothenbaumchaussee 10,"[9.99061,53.563391]",DEMTS,Mentorics GmbH
+QN3Tt7mgqVtkR_P9N3Gis5kvj6fiCjcwdrbFOp0xGWw,Hamburg,22547,Hamburg,Peenestraße 20,"[9.863194,53.600305]",DEWLN,Wirelane
+QPIBOMAlp9nktV9Y3hycFIikNGarxfmQsXrmQDthENs,Hamburg,21107,Hamburg,Zeidlerstraße 55,"[9.99448,53.51047]",DEHHM,Hamburger Energiewerke
+QSSaVDGCX7BAkucEjIhcOblBkt7hmseEVCmyewh4K7o,Hamburg,22415,Hamburg,Sandfoort 13c,"[10.00567,53.65133]",DEWLN,Wirelane
+QV-3cWML16nDcK-Le90OXpSvqrwoG1T2L9UTQjEviyY,Hamburg,22765,Hamburg,Borselstraße 7,"[9.925645,53.556224]",DEHHM,Hamburger Energiewerke
+QZyFwuc4d5BjvGDcSjaSAbLfuZrzcXtuOQrzi1bJdt8,Hamburg,22525,Hamburg,7 Uwe-Seeler-Allee,"[9.90095,53.58737]",DETNM,Shell Recharge
+Q_eUzu5DCdrhqMPVaH-irydDinClQXaEu41EBl5JGZA,Hamburg,22559,Hamburg,Wedeler Landstraße 19,"[9.75966,53.581532]",DEHHM,Hamburger Energiewerke
+QcIjAouC0L7l3LpeAo2lg3c-k43D6v3nkj1bXoM-LVU,Hamburg,21149,Hamburg,361 Cuxhavener Straße,"[9.84781,53.4724]",DETNM,Shell Recharge
+QiTXaw1jkrRuY63-UtFbbbhdJv5W65NtIOibNfsr3FQ,Hamburg,20148,Hamburg,Mollerstraße 20,"[9.992162,53.570523]",DEHHM,Hamburger Energiewerke
+Qk5TjtE8EDk0SIGrhscCfoowR_nQoQpwf3EXNdJK2sw,Hamburg,22559,Hamburg,Sülldorfer Landstraße 160,"[9.80196,53.57961]",DEQRM,Qwello
+Qnu0GULaMnkoeU86s-REE4kLHJ1y429p9FnjUF8q_AI,Hamburg,21035,Hamburg,Randersweide 1 A,"[10.196511,53.477259]",ATHTB,Chargepoint
+QqswfJiVRhasij9LHp0SO09KTg3bvSj9Y--NfX_x5ZY,Hamburg,20457,Hamburg,Willy-Brand-Str.  21,"[9.999628,53.547247]",DEEND,EMobility Netzwerk Deutschland GmbH
+Qrk9La2O6RbNemVwzxOKr6N0RRLk_MHu4R3hn5Lkv-o,Hamburg,22761,Hamburg,Beim Alten Gaswerk 3,"[9.918796,53.56315]",DEHHM,Hamburger Energiewerke
+Qs4SRV6IXUilFK9NnwB6cQPmdBjF7rCaTyhVNzuxqHA,Hamburg,22767,Hamburg,Breite Straße 56,"[9.95042,53.54645]",DEHHM,Hamburger Energiewerke
+QtJnpeBvilIFnYbLLR440XIpC_uaQTgedhBKVD3DjFQ,Hamburg,22301,Hamburg,Opitzstraße 17,"[10.007188,53.589469]",DEHHM,Hamburger Energiewerke
+R0djjzosx-rf1fP-ScozGWurldVxFywoeHcRStJHg4Y,Hamburg,22041,Hamburg,Wandsbeker Zollstraße 15,"[10.074154,53.574796]",DEHHM,Hamburger Energiewerke
+R0jg5AgK-6Hgr6IKJgaja3H53ggDeqvvU4ncfpRbpSk,Hamburg,22391,Hamburg,Wellingsbüttler Weg 125,"[10.081769,53.642246]",DEHHM,Hamburger Energiewerke
+R3SSdr9uPaJ2LWpDQQI9RCMy8mh5-ZhQZnWc7oYvFbA,Hamburg,22605,Hamburg,Albertiweg 1-15,"[9.879295,53.549015]",DE199,NWG Charging GmbH
+RBWqwVqsQiW6M8Z-IY6gBKFWyrKGAo08etKCVMVapKc,Hamburg,22549,Hamburg,Achtern Born 94,"[9.8516,53.58648]",DEWWL,Westfalen Weser Ladeservice GmbH
+RC7v1D9HnH9pq2WR7_r0nMHWPpzOLktUbrfGr_YLpzs,Hamburg,22607,Hamburg,Beselerstraße 48,"[9.88041,53.565159]",DEHHM,Hamburger Energiewerke
+RCVDFPYJUVkJlIfaILoyhwXRZKV5LVpppnnJUPA895E,Hamburg,20148,Hamburg,Alte Rabenstraße 19,"[9.997129,53.567221]",DENNX,nonoxx pro GmbH
+RDSTN1TnHnsfrBXl2rtG_BBGidx4_XBxtK4kzI5t2aQ,Hamburg,22111,Hamburg,Bei Den Zelten 2,"[10.08059,53.555]",DE199,NWG Charging GmbH
+RKs_VucV83LOnATFL_qMa9C2bXs83OVZwRYNUb8MA8g,Hamburg,22529,Hamburg,Gazellenkamp 40,"[9.950037,53.59951]",DEHHM,Hamburger Energiewerke
+RP1DI2Rc3L3dPAQqzdojHXZSYLHvlKi9JEloa4vPTS0,Hamburg,22047,Hamburg,Friedrich-Ebert-Damm 120,"[10.094793,53.587033]",DEDES,Total Energies
+RTvhqRnqfbmf0Z3yc71oPgGv_C7rAGLm7aTUlIg9eng,Hamburg,20259,Hamburg,Von-der-Tann-Straße 12,"[9.96071,53.571906]",DEHHM,Hamburger Energiewerke
+RUKGT9t_61UdPFUK_1DdjzZK7lWTN0zHYwT56jvGeCQ,Hamburg,22335,Hamburg,LH Basis G152,"[9.992912,53.622096]",DEVAT,Vattenfall
+RV_sPNixLifT0QWOoOE7My81Z9Vmm7JTOuP5bhN_Gy0,Hamburg,22111,Hamburg,Am Schiffbeker Berg 26,"[10.095348,53.541229]",DEHHM,Hamburger Energiewerke
+Ra_D9bWJrjPzDDhm809lIqhoCvyirqDlZWC-A_LudFk,Hamburg,20251,Hamburg,Erikastraße 53,"[9.986965,53.593711]",DE199,NWG Charging GmbH
+Raf7PVD6m3hJzW5eazPJDHXVD8VSJ55DiDTFYdstdP4,Hamburg,20251,Hamburg,Eppendorfer Weg 210,"[9.97385,53.5825]",DEHHM,Hamburger Energiewerke
+RblpFpNpmQmqCdrLLo4c0kOTORQh2TVam40M08W2uOY,Hamburg,22525,Hamburg,31 Große Bahnstraße,"[9.937604,53.574215]",DEGFX,GreenFlux Assets B.V.
+RcF-UGai21lUXV1QICRAL-nLG_56K_HLYcx35dd45mI,Hamburg,22339,Hamburg,Am Hehsel 38,"[10.05847,53.64583]",DEWLN,Wirelane
+ReIHwjD6MLNhqFGY_tibwXKyF-g3yuKaocRq9aOE7ks,Hamburg,21073,Hamburg,Wallgraben 46,"[9.97891,53.46371]",DEHHM,Hamburger Energiewerke
+RgB4EPqzIvwb2TwHrT-vzf7emwFiTtnf3NgkK351By0,Hamburg,20099,Hamburg,Schmilinskystraße 32,"[10.012882,53.559021]",DEHHM,Hamburger Energiewerke
+Rp7BXiM4jidMqnPrjTJXm-g_YOsFJ0wgTAK1fUUtwa0,Hamburg,20457,Hamburg,Am Kaiserkai 46,"[9.987508,53.541453]",DEHHM,Hamburger Energiewerke
+RuV5VjlsJBHjsWSvLnn87D5wEir_560vrMqPYGIsTgo,Hamburg,20095,Hamburg,Rosenstraße 6,"[10.001236,53.552972]",DEVAT,Vattenfall
+RuVYpXwpXyfiQnrwacD2EKTueBdcfgBGXI1mnQysfMk,Hamburg,20144,Hamburg,Kielortallee 2,"[9.97605,53.57063]",DEHHM,Hamburger Energiewerke
+RuruSgyjNr5zGNJWSWPbL6CdL2z2Zpw1L84bFLUV8pE,Hamburg,20357,Hamburg,Marktstraße 100,"[9.969825,53.558229]",DEHHM,Hamburger Energiewerke
+S-8fwBXBZYQ6O8M2EC9qSlv1V4VxE1hdWxIBBMG1FHM,Hamburg,21149,Hamburg,Neugrabener Bahnhofstraße 12,"[9.8541,53.47095]",DEEZE,eze.network GmbH
+S-z9bc4N96HstXIxMtxc8jgvF2W3Ei7Bhl3ZZ9hX7ao,Hamburg,20146,Hamburg,Hartungstraße 7,"[9.98677,53.57024]",DEEZE,eze.network GmbH
+S0N_Avv9LmZ63ZGa5L00ENDx2XYsVqumbplGQwRIGgs,Hamburg,21129,Hamburg,Aue-Insel 5,"[9.885199,53.53173]",DEHHM,Hamburger Energiewerke
+S2rtqNlHASMn5DRyc_0EQ_7HLLTh4h6Kz4TWaPEBzRY,Hamburg,22587,Hamburg,Hasenhöhe 10,"[9.820375,53.562307]",DEHHM,Hamburger Energiewerke
+S4fT8zu1Zu49izuNeieJPg-nD6rgi2jVWE16wAI607M,Hamburg,22765,Hamburg,Harkortstraße 26,"[9.93688,53.55651]",DEEZE,eze.network GmbH
+S86A0MrZ0WUMo7BU00umfTw3Av2y-DpSIlbWxJtNTac,Hamburg,22085,Hamburg,Winterhuder Weg 42,"[10.024547,53.572552]",DEHHM,Hamburger Energiewerke
+SDE96rN-q1qxR6sw_JZjLyjYvku2JV3_ze5M809vqM8,Hamburg,21129,Hamburg,Ostfrieslandstraße 97,"[9.88662,53.52679]",DEJEG,Jolt Energy
+SGzQq4WCx89gZA4U_O785FQgtZ8aFUe7n2UumjXw-Ng,Hamburg,22765,Hamburg,Bahrenfelder Straße 247,"[9.928141,53.557365]",DEHHM,Hamburger Energiewerke
+SObqE7vNehjRy3nApUqXnaf1YxU5oNrXAYwHEHgY0-0,Hamburg,22605,Hamburg,Liebermannstraße 41,"[9.89764,53.55071]",DEHHM,Hamburger Energiewerke
+ST-UnmGtVL440LiAob2Gxh6E36nefANPc_QAIJPNMIw,Hamburg,21029,Hamburg,Soltaustraße 4A,"[10.218778,53.483519]",DESNH,Stromnetz Hamburg GmbH
+SUDG4UjgY6oK_2QjfCZH_fiy7u3mqGLOYVgiz1Py9pI,Hamburg,22529,Hamburg,Hamburg Heinrich-Kock-Weg Nr. 2,"[9.971542,53.594757]",DEGUE,Liikennevirta Oy (CPO)
+SYwDFXrKSPDBwavQHO0bc-17V_bn8actYkOlIC7dm7M,Hamburg,20097,Hamburg,Auf der Brandshofer Schleuse 4,"[10.017453,53.542813]",DE199,NWG Charging GmbH
+SeKob5a51yjbA1sg2S6GK-Df84sFFOIv2gbvqJ2bgGQ,Hamburg,22415,Hamburg,Beim Schäferhof 9,"[10.01418,53.64325]",DEHHM,Hamburger Energiewerke
+SfGPA2E399PnGdHt8D2ySgAXtJjK4V1Oy7H_3tFo3QY,Hamburg,21147,Hamburg,Twistering 28,"[9.87947,53.47673]",DEHHM,Hamburger Energiewerke
+Sj_nFvjxN0o9AWTfb2QkX4CNG_nVbZybEc5i_-Ixz7k,Hamburg,20251,Hamburg,Christoph-Probst-Weg 28,"[9.976142,53.596789]",DEHHM,Hamburger Energiewerke
+SkWHmBkK7fFkQjlEJKK4gxGoKw64QTiuwzWPNDNsRig,Hamburg,20459,Hamburg,Venusberg 34,"[9.973986,53.546886]",DEHHM,Hamburger Energiewerke
+SkvpK1llcEyWfAVI9sd5mkYmEQUCwr7Lceyu3o8wK4s,Hamburg,22607,Hamburg,Osdorfer Landstraße 25,"[9.872,53.5706]",DEBPE,Aral Pulse
+SohdVzPPeKSxlI_KU2lkSgVdOIgqclPjp6In8LygdbM,Hamburg,22419,Hamburg,Stockflethweg 30,"[10.003393,53.679055]",DEPOW,MOON POWER GmbH
+SqZWdMMsCtPr_Jq9CJjm-0KmxA-fejZywOIwLZJP9fE,Hamburg,21029,Hamburg,Bergedorfer Schloßstraße 10,"[10.213981,53.48816]",DEHHM,Hamburger Energiewerke
+Sxla76BBaFr0STSesyi-BPquAGvOMNbhIIEpbSv_FuE,Hamburg,21073,Hamburg,Am Irrgarten 8,"[9.97179,53.46023]",DEHHM,Hamburger Energiewerke
+T0Xe13PYlP16EBqhIWkNcmTUXWb4r1lJDt0NuLusmtU,Hamburg,20354,Hamburg,Dammtorwall 1,"[9.98816,53.55762]",DEEZE,eze.network GmbH
+T53XjQ7GIvtAR1NmkuAP3eEvrXaJsJEQ1GUIEEGKTN0,Hamburg,21035,Hamburg,Fanny-Lewald-Ring 28,"[10.17818,53.47865]",DEEZE,eze.network GmbH
+T8Jp8C8GSgYu22ePpneUz0F3GV74HIvDX7b1YF71NlA,Hamburg,22529,Hamburg,Beiersdorfstraße 19,"[9.957175,53.58281]",DEMER,MER
+TEDnYJoeIHOEaMphPvtLOWnZvVdrGT1mt2yfWrcO9Uw,Hamburg,20146,Hamburg,Grindelallee 129,"[9.979161,53.569285]",DEHHM,Hamburger Energiewerke
+TOK5eW8xDNudsCswer9c_CEjx6s66X4qSRkDSy2OSq0,Hamburg,21129,Hamburg,Kurt-Eckelmann-Straße (Gebäude 13) 1,"[9.907321,53.527554]",DEMDS,Mennekes
+TO_jaPJJeNYU9gnowgiS5hi2B7ES2MmJA0HmLI720qU,Hamburg,22089,Hamburg,Hasselbrookstr. 29,"[10.041041,53.563252]",DEMTS,Mentorics GmbH
+TOy48DSU_Ua2M4J5HrPOWROeqb0Nd3mYbcmEnuVavpY,Hamburg,20095,Hamburg,Altstädter Straße 2,"[10.004708,53.549381]",DEHHM,Hamburger Energiewerke
+TTLEnYJjeF5D6w93K8qwxvc6iiercP_WMUt2YXKcW-8,Hamburg,20255,Hamburg,Emilienstraße 11,"[9.955491,53.575563]",DEHHM,Hamburger Energiewerke
+TUfIiMqPg-xRUkGuiRziZaZVkdbSX5CbxYd7V7HANFk,Hamburg,22301,Hamburg,Bellevue 13,"[10.00774,53.57766]",DEEZE,eze.network GmbH
+TXuBIjOs_GeWJlfePdNzKUlPz6mqpsRUlkQQKWXHNtM,Hamburg,22453,Hamburg,175A Kollaustraße 219-1930,"[9.953007,53.611999]",DECPI,ChargePoint Germany GmbH
+TYwlLkF1YkXnEKwv35_fLHWfFzU9c-ieZ-elA4pfp4U,Hamburg,22589,Hamburg,Sülldorfer Landstraße 91,"[9.809447,53.577864]",DEBPE,Aral Pulse
+Tbvmb0PndaE-kq6QjAFQfMWXhJm4MhUJsB3hAYoJF8M,Hamburg,20357,Hamburg,Altonaer Straße 61,"[9.96354,53.564796]",DEHHM,Hamburger Energiewerke
+TciE5Lhgg6iWyCY8IdD1fs8xBYOFfDJiJR0KYEsHfIs,Hamburg,22043,Hamburg,Holstenhofweg 55,"[10.10492,53.57369]",DEGCE,Volkswagen
+Tg3WYazHPggGELM--gXIhIRl1k-vdWlY86q2swZB1Ww,Hamuburg,20357,Hamburg,Messeplatz 1,"[9.975393,53.563738]",DE455,Hamburg Messe und Congress GmbH
+TiAKpGvY5bMHyskaLQvHiPYgwl3ihEInulI5mzA12JU,Hamburg,22455,Hamburg,Quedlinburger Weg 65,"[9.941477,53.634482]",DEHHM,Hamburger Energiewerke
+Tm0wm1bIt9oCWAZUjcg_-XTX3u23bMdYeEFOc4POM70,Hamburg,22041,Hamburg,10 Holstenhofkamp,"[10.10421,53.57953]",DECPI,ChargePoint Germany GmbH
+TmqSfWx5KEMnsFu6SYOAiU-K6zCdUZ6cqqq88Cv1Zho,Hamburg,22147,Hamburg,Finkenstieg 32,"[10.132305,53.613138]",DEWLN,Wirelane
+TpFYv_iYtlEalYYLs-RKWapcwShtg6_PlKI6k0ifAdY,Hamburg,20097,Hamburg,Besenbinderhof 43,"[10.01382,53.55131]",DEEZE,eze.network GmbH
+TrB5LqVoNlx-_IEdcyD1WKZsCdHtJkbc0Exx_OfJdrE,Hamburg,22765,Hamburg,Klopstockplatz 31,"[9.9317,53.54762]",DEEZE,eze.network GmbH
+Ts7fBZE_D7LXzKFDoRsjkmi509zWgCi6RVrgpNQlSEs,Hamburg,20354,Hamburg,Theodor-Heuss-Platz 7,"[9.99077,53.56129]",DEHHM,Hamburger Energiewerke
+TyX3q-rowJ2WGpmjYelJt-3CxaFgl-AGzcCiwjf05S0,Hamburg,22769,Hamburg,Oelkersallee 1A,"[9.953726,53.561728]",DEHHM,Hamburger Energiewerke
+U08bi26wM_DnExZ0pbSiuWic5c3MUvxt5c0iNv7AL2I,Hamburg,22337,Hamburg,Sodenkamp 8,"[10.05006,53.630415]",DEHHM,Hamburger Energiewerke
+U4yUFKDx1IgYCD932ClhvMOO3FzxN_BbiiFybNGzXFk,Hamburg,22589,Hamburg,Sülldorfer Landstraße 108-110,"[9.80769,53.578745]",DEGCE,Volkswagen
+UAZWVDnU4DrjK8yahPlDkDXqay5NSXyLVnLtdwrcEcU,Hamburg,22117,Hamburg,Honsbergenstraße 5,"[10.12251,53.54033]",DEHHM,Hamburger Energiewerke
+UCVBMvL-ZFXvcTRbI3JT6YCILb4kx3fQCAF-bBqyyrk,Hamburg,20357,Hamburg,Flora-Neumann-Straße 3,"[9.97334,53.5604]",DEHHM,Hamburger Energiewerke
+UDWW1VgxeAltEubxBTby8lcHbQ4BH9VHG_10MNU1me8,Hamburg,21029,Hamburg,Soltaustraße 4A,"[10.218778,53.483519]",DEHHM,Hamburger Energiewerke
+UFeiPyEEIzHDU3gmTWMb_m2kDiVBwE_MGyk-xkAhwg8,Hamburg,20255,Hamburg,Eichenstraße 90,"[9.953259,53.57784]",DEHHM,Hamburger Energiewerke
+ULqyyAznzfPCRzIv2zCqaS0nDujjcXWmOTzmZN5ZndU,Hamburg,22455,Hamburg,Sethweg 43,"[9.94394,53.63223]",DEEZE,eze.network GmbH
+UV5OkgrKy-pnadKEuv8258GE6XCz6dafe4mKiEuH_pc,Hamburg,21073,Hamburg,Bremer Straße 22,"[9.98019,53.45786]",DEHHM,Hamburger Energiewerke
+UckCnpwB8hFoZigKhO-pWfZZGPZQZM3gPg5jRmxghP0,Hamburg,22529,Hamburg,Lokstedter Steindamm ggü. 73,"[9.967502,53.590221]",DEHHM,Hamburger Energiewerke
+Ud07LOy5FOqCiNN5oK2paw6hmPNMNZtu_3ZWBgFHVaE,Hamburg,22453,Hamburg,Borsteler Chaussee 45,"[9.983013,53.605165]",DEHHM,Hamburger Energiewerke
+Ue8bG2_ULj3QjtNx5xMZqSZ-nUG18wFFbpH-_8wREZ8,Hamburg,20459,Hamburg,Steinhöft 11,"[9.982767,53.544871]",DEHHM,Hamburger Energiewerke
+UpuaCe4jVUHxBlOuW-z2HEzrHbHNo2XDm-A6H1yn3RY,Hamburg,22547,Hamburg,Lüttkamp 5,"[9.87435,53.5911]",DEEZE,eze.network GmbH
+UskDST0m3R4MulRcv6VDkpLurFj4TU3pexlch4BM2E0,Hamburg,21073,Hamburg,Schlossmühlendamm 23,"[9.981628,53.463009]",DEHHM,Hamburger Energiewerke
+UxmEIArdcUtCU9F6Bdy328_bniSOtLB1MH3SSWu3l38,Hamburg,20097,Hamburg,Heidenkampsweg 73,"[10.029127,54.5]",DE199,NWG Charging GmbH
+Uyow3Vv20wo-hW0iwOotWzdR0Zn8BozR1pq563TDJcQ,Hamburg,20253,Hamburg,Gärtnerstraße 118,"[9.962689,53.578577]",DEHHM,Hamburger Energiewerke
+V19_o7jnDTrpACNRtpbykQcrN9iaczZw90rP0hL2b6g,Hamburg,22041,Hamburg,35 Ahrensburger Straße,"[10.09334,53.57811]",DETNM,Shell Recharge
+V1zhPb5gmsk4blamTirSeGSRZzEZFYCUKgEfDQJMdKk,Hamburg,22457,Hamburg,Modering 11,"[9.920787,53.637268]",DEVAT,Vattenfall
+VAtN6el0t8wM8uC50OG6DrhMaq2ZMNWVkEHSI0-odGY,Hamburg,22765,Hamburg,Bahrenfelder Straße 98,"[9.93025,53.55115]",DEHHM,Hamburger Energiewerke
+VBKAn2Mt0aZsAmXkEcLS-hQMcrtiA-E-1058-CfhJnQ,Hamburg,21035,Hamburg,Henriette-Herz-Ring 11,"[10.17881,53.48381]",DEUBI,ubitricity
+VDtySz9uIUnQE2Glk5wn75bIdp1QMRxIQFleY5J5830,Hamburg,22143,Hamburg,Rahlstedter Straße 154,"[10.16054,53.604347]",DEHHM,Hamburger Energiewerke
+VIu39SaK4SZCgowl-R75CUuCEVbHmYLAa-UQW-drI7s,Hamburg,22305,Hamburg,Krausestraße 2,"[10.051927,53.585939]",DEHHM,Hamburger Energiewerke
+VKge9itL6zUBNe5_T8yuccaZvaWxifCkixtRNyyCnbM,Hamburg,22299,Hamburg,Alsterdorfer Straße 9,"[9.99807,53.59539]",DEHHM,Hamburger Energiewerke
+VLA6A5UeXgveSlUhkz8q_RkuE25YPwr6bLP2feN9YD8,Hamburg,22529,Hamburg,Grelckstraße 34,"[9.953326,53.601613]",DEHHM,Hamburger Energiewerke
+VLTmcti0lC29OFUrsybwD44WB_TRFM6e1yW9dFZ8LP8,Hamburg,22299,Hamburg,Grasweg 6,"[10.002128,53.592769]",DEHHM,Hamburger Energiewerke
+VO7dtP-tNA29NuO0IaDhkaELt7n2Ib6cFbjIHJO9Qj8,Hamburg,22767,Hamburg,Schmarjestraße 50,"[9.936738,53.549039]",DEHHM,Hamburger Energiewerke
+VPWOR74NStereC5-iTuZOzCntSVqCsD36a3CpmahvNk,Hamburg,22335,Hamburg,LH Basis  G314,"[9.985381,53.619817]",DEVAT,Vattenfall
+VbzcVs7gM56QVdvBr1OAXRNEeUlHCqdvthXjYh7GDA4,Hamburg-Horn,22119,Hamburg,Manshardtstr. 74,"[10.10094,53.557583]",DELDL,Lidl
+VgV32k0dGJrjYoC8sitDcj_zZoHslB_wlAaEIJKQXMc,Hamburg,20355,Hamburg,Tiergartenstraße,"[9.986647,53.562177]",DE455,Hamburg Messe und Congress GmbH
+VmoVFJrxWLwaPKIJoaOhOo3yjGt1bchWkbV3YlyH9_Q,Hamburg,20459,Hamburg,Neuer Steinweg 1,"[9.979475,53.550382]",DEHHM,Hamburger Energiewerke
+VofehmiwwIgPMiAD1Dp52LW7-7JwLt-SuXMzlc-OP5U,Hamburg,22459,Hamburg,Paul-Sorge-Str. 9,"[9.951725,53.623]",DEAPC,E.ON Drive
+Vsfe6feaYHHZo-rZEKfd7AGzKwyRGnzXjseyIFcM9_w,Hamburg,22309,Hamburg,Steilshooper Allee 5-7,"[10.0461,53.60836]",DE2GO,EWEGo
+Vu1fhQ_M1uHWQ8zPwqgqPk82ux6srmwZofpit1crDaY,Hamburg,22175,Hamburg,Thomas-Mann-Straße 13,"[10.115032,53.62797]",DEHHM,Hamburger Energiewerke
+VuYLmziTpMXgUGqCi1QMCch3VgzdLNEpUatUg5_kR2U,Hamburg,22395,Hamburg,Volksdorfer Damm 252,"[10.129244,53.671001]",DEHHM,Hamburger Energiewerke
+VxCgJ8vImm20vUVFyYGYXW-Fx1qhBzFCHT4SG3VVkyI,Hamburg,22089,Hamburg,Schellingstraße 23,"[10.047905,53.569286]",DEHHM,Hamburger Energiewerke
+Vy6dQ-ZGx0smqStRl8hDFknBVR2Sc81Je0X-r7_E9nA,Hamburg,20457,Hamburg,Stockmeyerstraße 41,"[10.007467,53.544242]",DEENC,enercity
+VzPpLq_Hvu7bBoEzYbRWTwGRtc-XKNGLEsZcDZbCxdE,Hamburg,22043,Hamburg,Barsbütteler Straße 43,"[10.14322,53.57074]",DEJEG,Jolt Energy
+W-aduQSpsxO3_bIl0h2-NW2Bv9DI5v7RXJCNXxBuDi4,Hamburg,22045,Hamburg,Charlottenburger Str. 63,"[10.138642,53.581882]",DEGCE,Volkswagen
+W4RCe1x2HXWPBTwFRQ-FGSQknHKv4NwsMgq3WFldQv8,Hamburg,22297,Hamburg,Alsterkrugchaussee 277,"[9.998803,53.613153]",DEWLN,Wirelane
+WFVR2hhSlMHzDpJHZbxz3HJLtOoY78wlpmbTzXXmRZ0,Hamburg,22305,Hamburg,Poppenhusenstraße 2,"[10.043033,53.585581]",DEHHM,Hamburger Energiewerke
+WGlrZfxdZEDvr-pJU22pO1ab-IqrtecshcgVKPv-wh4,Hamburg,22765,Hamburg,Präsident-Krahn-Straße 17,"[9.936155,53.554145]",DEHHM,Hamburger Energiewerke
+WHJw_9hjKMBGaVyPg0gI1lOs5GATpvCVxqm-m-Rtb5M,Hamburg,20251,Hamburg,Lehmweg 51,"[9.98096,53.58405]",DEEZE,eze.network GmbH
+WItB7ZNfpowQFG02epSBEb8y2WSNzkMnZgqlqw3BuVU,Hamburg,21035,Hamburg,Weidenbaumsweg  105,"[10.201718,53.483438]",DEONE,reev GmbH
+WOZIh4rvX0ETjL45nSeBdZJlKCLla1V_HDMH0Zp3erA,Hamburg,22111,Hamburg,Meurerweg 30,"[10.086396,53.553604]",DEHHM,Hamburger Energiewerke
+WU-2dghx776puqrTJy1Ctc7hl64vioF__zaPgsftyR8,Hamburg,22763,Hamburg,Griegstraße 69,"[9.909516,53.555299]",DEGCE,Volkswagen
+W_Xdf2ab89_p6UV_oggwa2VyOB8Abo6IOh65_gpo5ac,Hamburg,22399,Hamburg,Tegelsbarg 33,"[10.061169,53.654551]",DEHHM,Hamburger Energiewerke
+Wb0wa2ZKJ35jhkf79eBNiuVOR5cjKKa8yzWSeJRf67c,Hamburg,20095,Hamburg,Schauenburgerstraße 45,"[9.993485,53.549463]",DEHHM,Hamburger Energiewerke
+WcQXG_txD-T3W67NsiA5I-5JBZNhDOXznmHpENEcGyI,Hamburg,20149,Hamburg,Isestraße 143,"[9.9929,53.58401]",DEEZE,eze.network GmbH
+WdYi660GpHicDSQVJaGhyl6yE0tBDmSjrCmtXh8cdNw,Hamburg,20457,Hamburg,Am Kaiserkai 53,"[9.98739,53.54129]",DEHHM,Hamburger Energiewerke
+WeSOnl40Equ_Vkyi5PxAL42HIbBbgUR3uKzlcmiBMms,Hamburg,22529,Hamburg,Troplowitzstrasse,"[9.962725,53.584153]",DEDES,Total Energies
+WefvjmcVItTL95WDk-jyu70KoIAkeoOL2RsCkF2OFk0,Hamburg,22359,Hamburg,Wiesenhöfen 4,"[10.16744,53.64878]",DEHHM,Hamburger Energiewerke
+Wf9fctfeZ7kDFVaA16q4v8AvZwc8AhUOaryZxdWANLE,Hamburg,22049,Hamburg,Dithmarscher Straße 9,"[10.059478,53.57729]",DEHHM,Hamburger Energiewerke
+WfL-jhEeSqZcc_vCZwW_YRh1mKvSJ8RtIdrfv1RU4EI,Hamburg,22041,Hamburg,Wandsbeker Zollstr.  148,"[10.08539,53.577248]",DEHHM,Hamburger Energiewerke
+WhF3nNmytV4cSIpoWvHOBsPqst6kfJl75PNWIRFXL4Q,Hamburg,20146,Hamburg,Bundesstraße 35,"[9.978813,53.566112]",DEHHM,Hamburger Energiewerke
+Wibnw5k3ZdR03ptRdOo44wWW027DSQgpeqm8Q6_e004,Hamburg,20459,Hamburg,Stubbenhuk 7,"[9.9808,53.54486]",DEEZE,eze.network GmbH
+WijP10zIz45zuU4f6U6ANQGaHUZjxgpuoUFSI6jaNtI,Hamburg,22457,Hamburg,Modering 11,"[9.920353,53.637203]",DEBDO,Lichtblick
+WncL1v6-FCRnK1zGEwl7fBmizDygmMV9MSV-EeEj-P0,Hamburg,22049,Hamburg,Stormarner Straße 44,"[10.063799,53.578339]",DEHHM,Hamburger Energiewerke
+X-EWQ9qYjqByE6ZSLpHZlFE0n51MSBfpY88saHx7v_A,Hamburg,22335,Hamburg,LH Basis G461,"[9.980379,53.619111]",DEVAT,Vattenfall
+X69zKboLVGqbk0xFLzk7xkqxNQRdHDlDRGzUtxJ6zWk,Hamburg,20355,Hamburg,Holstenwall 12,"[9.976922,53.553342]",DEHHM,Hamburger Energiewerke
+X6gaktI6Y3gR61GeGiPpFjm3tf5aUySQ1WCSBACqY3E,Hamburg,22397,Hamburg,Farkenwisch 5,"[10.108599,53.708327]",DEHHM,Hamburger Energiewerke
+XBWuB-NfJdGbmLcuB7KXzIqUvziS7IZgL_dmHleTLTQ,Hamburg,20535,Hamburg,Bürgerweide 72,"[10.03643,53.55828]",DEHHM,Hamburger Energiewerke
+XBlJO9VhurY2BI0eWlnjSQauKcWSztYB9aKCcAxw7a8,Hamburg,20539,Hamburg,Hovestraße 50,"[10.032749,53.522279]",DEHHE,Hamburger Energiewerke GmbH
+XEPzDGmvcPxwEUvtVKJj3o_tlHzIs2GUuwhb0VeZPvs,Hamburg,22303,Hamburg,Kaemmererufer 13,"[10.030052,53.585048]",DEHHM,Hamburger Energiewerke
+XF8OD98yM1pb_comueSzSDZ2ZQcD_sz_kZe_gxaAOPQ,Hamburg,22335,Hamburg,Ratsmühlendamm 13,"[10.027194,53.626029]",DEHHM,Hamburger Energiewerke
+XHehCfVH9f6dnfCzN-maFK-PGXzViM_1nxGisCw9gB0,Hamburg,22453,Hamburg,171 Kollaustraße,"[9.952588,53.611938]",DECPI,ChargePoint Germany GmbH
+XJ-lFtinM5n8MXh_sH0qx8Ek8ModiovNmvIBiZHdS-I,Hamburg,22085,Hamburg,Winterhuder Weg 87,"[10.01531,53.57789]",DEEZE,eze.network GmbH
+XJQdtidNcymZQhi8VMcPNParZNCO08xbqMT8Iy_9k_0,Hamburg,22455,Hamburg,Wagrierweg 6,"[9.946489,53.640003]",DEHHM,Hamburger Energiewerke
+XKs9IciJoWl-Fcz9V8G_OTS8Wvf1_tlYTwRlfMiC3Kc,Hamburg,22763,Hamburg,Elbchaussee 137,"[9.914352,53.546009]",DEHHM,Hamburger Energiewerke
+XLkjbDIjP6VsVQ60Ss8rhx7EQ1oZuOG1c5iLLITt348,Hamburg,22309,Hamburg,Fuhlsbüttler Straße 466,"[10.03961,53.60615]",DEEZE,eze.network GmbH
+XPR_Qd75iKjeWONXbXMhVCkiopuO2DNGbr5lTWsVwIY,Hamburg,22525,Hamburg,Kieler Straße 499,"[9.92048,53.59701]",DEEBW,EnBW
+XUAkcfEzwqzEq9j37R4x4tVMu9fcGVyfKdeZq3yZq90,Hamburg,22309,Hamburg,Schmachthäger Str 8,"[10.04837,53.60373]",DECCH,Comfortcharge
+XW6-DS9M_T9cWjfQdz1RzWOEzwMnp8PkXQoUT4brzTc,Hamburg,21147,Hamburg,Rehrstieg 67,"[9.874428,53.480112]",DEHHM,Hamburger Energiewerke
+XWNBIxFDVXL9w0mJcgQ8ezmbFVcW64NYYShGlES5BJ4,Hamburg,22761,Hamburg,Stresemannstraße 332,"[9.92733,53.563486]",DEHHM,Hamburger Energiewerke
+XWpcwqS11jZEHQOCCZUo-d1gZAftQUuIqZgppimZacE,Hamburg,22523,Hamburg,Halstenbeker Weg 15b,"[9.890077,53.61463]",DEUBI,ubitricity
+XYqCqhkByL6l9QTsMAG0-0ogIAIs6gM8IbcKypmrDr0,Hamburg,22589,Hamburg,Sülldorfer Landstraße 208,"[9.79451,53.58072]",DEEZE,eze.network GmbH
+X_Dh9w7c7WCzXWp1Lx00RLt2XiSSTR9gvdFRTENh_II,Hamburg,22335,Hamburg,Langenhorner Chaussee 15,"[10.015394,53.636191]",DEHHM,Hamburger Energiewerke
+X_pjWc1w76DReq1nGk7ThgdRdrQn8tycQgqd74FdeYc,Hamburg,20359,Hamburg,Neuer Kamp 31,"[9.967405,53.556335]",DE384,EDEKA
+XbpoC5njtuEBP4BezJx5cbtOZNx5L7gk19MhD7vaFRo,Hamburg,20144,Hamburg,Grindelberg 66,"[9.977718,53.5753]",DEHHM,Hamburger Energiewerke
+Xe9QCgFmWglUgvF99TzHbY2UjfoPytkeHCrHB7t96mU,Hamburg,20257,Hamburg,Pinneberger Weg 2,"[9.94885,53.569931]",DEHHM,Hamburger Energiewerke
+XiFrLQr8B0OCgCZQ0gH9_BUihXXborSd7tQpABS_JYc,Hamburg,20148,Hamburg,Rothenbaumchaussee 60,"[9.988565,53.56769]",DEHHM,Hamburger Energiewerke
+XkiQHnQU5qY1piiJKwSE316ZiDE-_kLzUtowQE62CWQ,Escheburg,21039,Hamburg,Am Soll 3,"[10.314728,53.471979]",DELMS,LastMileSolutions
+XoHLH1_qKwavViAbJMq70WnmeBe7e_o0hKQbEqBpw-k,Hamburg,21033,Hamburg,Friedrich-Frank-Bogen 79,"[10.182942,53.488597]",DEHHM,Hamburger Energiewerke
+Y3_KYA0hSTNqZbsY7sZuoyTNooLRU-BC8A66Q6SoWvE,Hamburg,22041,Hamburg,Wandsbeker Zollstr. 148,"[10.08539,53.577248]",DEHHM,Hamburger Energiewerke
+YE7qo6SY1SEnWhrPIuJNJRkQeFoGsUO0spgFBX74uec,Hamburg,22301,Hamburg,Wentzelstraße 2,"[10.00517,53.58065]",DEHHM,Hamburger Energiewerke
+YGAYBD2hdDajVOErZ5xFnAowyTc6rfRlmVKPX_5SrXQ,Hamburg,21035,Hamburg,Fanny-Leward-Ring 332,"[10.174774,53.476754]",DEHHM,Hamburger Energiewerke
+YGNO1Ts1M9DzZWJp-Um9FW_3vfZEwkQnSQGnyjeiDwc,Hamburg,22399,Hamburg,Poppenbütteler Bogen 9b,"[47.11,-47.11]",DE360,team eMobility GmbH
+YJUcq5GFnhLeCq9TE5qk9W8Gh4w8K28FkuQnK7cFS9I,Hamburg,22765,Hamburg,Hahnenkamp 4,"[9.93347,53.55334]",DEEZE,eze.network GmbH
+YKhb3GYbFFuWel8EGiSzJviOPJ2V3CFzQtM5oBVkbZ8,Hamburg,22337,Hamburg,Friedhofsweg 8,"[10.05822,53.62929]",DEHHM,Hamburger Energiewerke
+YM8dMRnwTL-Yp36SpWIH5sUc4hd4mSIymlaiDo5Liv8,Hamburg,21079,Hamburg,Hannoversche Straße 100,"[9.990082,53.452891]",DEDES,Total Energies
+YNSt9EhSXYrnszTBDzdDun3zPzB-DtIX84mYFdAfMGA,Hamburg,22459,Hamburg,Tibarg 24,"[9.95122,53.61896]",DESNH,Stromnetz Hamburg GmbH
+YNf6szEn8PIiHQEZaIL47VGqAyDQqCsM25AIlWMOSgM,Hamburg,21035,Hamburg,Albert-Gebel-Straße 2,"[10.19404,53.48591]",DEEZE,eze.network GmbH
+YNqhsKzjWUOzZcCgI0uQx5oaz3lqdnKFF8TyblyWkVQ,Hamburg,20144,Hamburg,Innocentiastraße 58,"[9.98231,53.57921]",DEHHM,Hamburger Energiewerke
+YRuX-63Toc7zRMFlcuNohWsNFOXLwpvlujJ-JwChf5w,Hamburg,20251,Hamburg,Martinistraße 52,"[9.977169,53.589613]",DEAPC,E.ON Drive
+YSRqzCHMCZTgQYB5WiNqzIIHpoWix4mEHt_tp12gyC8,Hamburg,20249,Hamburg,Heilwigstraße 2,"[9.996298,53.580799]",DEHHM,Hamburger Energiewerke
+YXRSKZRNT93RLNi6pd1V3isZflTJ4BzCUyOifvbUdtI,Hamburg,22299,Hamburg,Alsterdorfer Straße 65,"[9.99678,53.598445]",DEHHM,Hamburger Energiewerke
+YeEuqrY_jkHMLwGdu5hu-dN4sdNH237L5TuhWzpDD4Q,Hamburg,22459,Hamburg,Heidlohstraße 11,"[9.92709,53.62902]",DEEZE,eze.network GmbH
+YfMalBfBqHsuH6QLSssJati9w-zi_7X5vhMcZl-X3qY,Hamburg,21035,Hamburg,Hackmackbogen 33,"[10.183055,53.4765]",DEWLN,Wirelane
+YhtOiT-lMbAio0GMMDdQSWrJqZv3MVedJEXVylXiHGY,Hamburg,22769,Hamburg,Arnkielstraße 2,"[9.952473,53.564032]",DEHHM,Hamburger Energiewerke
+Yl_IMyV2XfRxoTtAYPkBi5kgEU_SleuGSjJ1rOV2Tms,Hamburg,21075,Hamburg,Stader Straße 256,"[9.92865,53.47104]",DE2GO,EWEGo
+YlbIfz8dgYF6nCoInyM1cshZnnGMoo4FnVdbZ0xN4S4,Hamburg,22525,Hamburg,Försterweg 108,"[9.922791,53.585467]",DEHHM,Hamburger Energiewerke
+YmxUEpP5I_GkA_sDHcv42dK1nbyMyRrw2GdKqmodGmc,Hamburg,20355,Hamburg,Jan-Valkenburg-Straße 7,"[9.979389,53.552528]",DEHHM,Hamburger Energiewerke
+YqQqqvI1_rjaw_zUhnpw8_JefkJ0GwC-GCdqyHwIMw0,Hamburg,22339,Hamburg,Lademannbogen 27,"[10.03491,53.645408]",DEHHM,Hamburger Energiewerke
+Yqthme4j324edZ-SB5siKc-t5yakDxII4jy5XSmWI_8,Hamburg,22301,Hamburg,Moorfuhrtweg 11,"[10.008827,53.585299]",DEHHM,Hamburger Energiewerke
+Ys6EES7AN0tIUXuwxeORLB8MSUdjn9oCrUrMzxRXzRY,Hamburg,20099,Hamburg,Steindamm 102,"[10.020093,53.556588]",DEWLN,Wirelane
+Ys7dlM8k1jaSkAaMOrxwGhjdRTPFpdhvzJJUatB_RbA,Hamburg,22359,Hamburg,Eulenkrugstraße 190,"[10.18761,53.64428]",DEPFW,Pfalzwerke AG
+YwWWE2EysfRPYJbz6137OGrQ94Ymp3rGhy7Uootkrp8,Hamburg,21147,Hamburg,Am Johannisland,"[9.85324,53.47798]",DEWWL,Westfalen Weser Ladeservice GmbH
+Yz5Y4sxO-2CBorpinLD334w1GY4p_LGx_UZcctty_pM,Hamburg,20255,Hamburg,Schwenckestraße 42,"[9.94976,53.57719]",DEEZE,eze.network GmbH
+Z7Om5jt77PPWPdxoBaEdGtgyFsYv6ERjCz1qZSAUKKU,Hamburg,21075,Hamburg,Bünte 1,"[9.939527,53.457944]",DEWLN,Wirelane
+Z894iZ2y0leROZelenCqnVgFmVw3osiP2ifnRoURj7Q,Hamburg,22529,Hamburg,Lokstedter Steindamm 33,"[9.966528,53.595358]",DEHHM,Hamburger Energiewerke
+ZBkfF4oCtrQ_m0mqD_fgz_i-oFd6MFjNNMn-Cvou6-c,Hamburg,21035,Hamburg,Am Güterbahnhof 8,"[10.2005,53.48552]",DEEZE,eze.network GmbH
+ZDc0Nczkxpmtv2ubJsksTbZuOIbYoIw6WJMExEHfJ_Q,Hamburg,22587,Hamburg,Blankeneser Landstraße 31,"[9.807264,53.564044]",DEHHM,Hamburger Energiewerke
+ZIhWVMX__0TFIF3IsVyQEO0rggBC9z8qWYl-dtCY_Vs,Hamburg,22761,Hamburg,Bahrenfelder Chaussee 41,"[9.914673,53.564582]",DELDL,Lidl
+ZO61lGawlLrlXZ6GykPesKscwKnZABumlAlyMifYiTE,Hamburg,22525,Hamburg,Warnstedtstraße 10,"[9.93143,53.58377]",DEHHM,Hamburger Energiewerke
+ZQljPPyyoVe-tlId8Cg60q0y6hmSbLihhK1-o-aDmxo,Hamburg,22589,Hamburg,Heerbrook 17,"[9.83144,53.57761]",DEWLN,Wirelane
+ZR1W-vQe2wVQEJin9XW96ASK6BKNrXkjnzDVeD1UDIU,Hamburg,22083,Hamburg,Weidestraße 90A,"[1.0,1.0]",DE2GO,EWEGo
+ZZ7KUfK3RGAZZOcQvGemCN4T_sHNHehLq7Jt3hJgrAk,Hamburg,22609,Hamburg,Heinrich-Plett-Straße 14,"[9.866484,53.567931]",DEHHM,Hamburger Energiewerke
+ZemRfQ5xr6chzSzKe3akCrG00_rnQtzqO99nVCQdkfM,Hamburg,22393,Hamburg,Berner Weg 31,"[10.11736,53.64966]",DEWLN,Wirelane
+ZgO0abSF4sYqm70fdXL8557d7JGdEdRxDtIXUkTQCJk,Hamburg,22761,Hamburg,Albert-Einstein-Ring 4,"[9.88926,53.57483]",DEHHM,Hamburger Energiewerke
+ZhwjosZNezUTNlPCbHv_1OLYJkbTzLpUtzPfFWC9UdQ,Hamburg,21079,Hamburg,Lewenwerder 18,"[10.000779,53.457954]",DEWIS,WISAG Elektrotechnik Holding GmbH & Co. KG
+ZiFKKoGzeDy4baN8CkBHngwHwFQzNYLhYkwAuUTF9-U,Hamburg,22305,Hamburg,Fuhlsbüttler Straße 119,"[10.045081,53.589897]",DEHHM,Hamburger Energiewerke
+Zm8WjdEcZeFjQU5aDpe9scWHZFt6MQqODrgFhJ8upx8,Hamburg,22765,Hamburg,Felicitas-Kukuck-Straße 8,"[9.937826,53.559246]",DEHHM,Hamburger Energiewerke
+ZnT5nA1LK5TjBrx_qGhKObqCZ3BlltiqyGeXoWIplHE,Hamburg,20099,Hamburg,Böckmannstraße 5,"[10.01704,53.55346]",DEHHM,Hamburger Energiewerke
+ZoT7TyQmDDNDjeS6-bked75BoBa_2Gmt8cYmgeLuBiQ,Hamburg,22761,Hamburg,Paul-Dessau-Straße 2,"[9.915953,53.563355]",DEHHM,Hamburger Energiewerke
+ZolxgSyWlBaWe5oiSTC3305TdNCNT0nWnEOoTMbUDD8,Hamburg,22761,Hamburg,146 Bornkampsweg,"[9.917984,53.569486]",DECPI,ChargePoint Germany GmbH
+ZqNxNGvL-xCDeWIL9AfkdoPaKB4g143sulVwmKAOeTk,Hamburg,20537,Hamburg,Eiffestraße 440,"[10.046026,53.552314]",DE2GO,EWEGo
+Zr1qgPo_-0Ro8m8MTEEdSLj9CGZjCJZRlRKBQfAS6o4,Hamburg,20095,Hamburg,Johanniswall 6,"[10.00487,53.5489]",DEHHM,Hamburger Energiewerke
+Zr3x3dRob9S3pdKK9C4BR5bUzasVRtjp7jqUDBOQvYw,Hamburg,22335,Hamburg,Heschredder 1,"[10.021765,53.627]",DEHHM,Hamburger Energiewerke
+Zx2kK0yQGC0IfLhlGg5qjZBVARX4pxlqq2aZg_kgjJA,Hamburg,22399,Hamburg,Harksheider Straße 11,"[10.082451,53.660312]",DEHHM,Hamburger Energiewerke
+_63LErixU4Hx6l4Ho4smudMTNNitmv8wpbU_koQZm9c,Hamburg,22083,Hamburg,Beethovenstraße 68,"[10.03121,53.579202]",DEHHM,Hamburger Energiewerke
+_AdknbJ962SVDMf0YGvwMACA27pDdooLQBjWvA9IRCs,Hamburg,20539,Hamburg,Lindleystraße 7,"[10.038462,53.534019]",DEHHM,Hamburger Energiewerke
+_C7Lo7u5UUiQU5np7u4BrA1hIn0E9LN99BqsDZchLxg,Hamburg,20357,Hamburg,Messeplatz 1,"[9.975372,53.563744]",DE455,Hamburg Messe und Congress GmbH
+_GhX4JwJu40o3YkYufcZFSS9GQ6oT2w3PuMpz5Q9ya8,Hamburg,22765,Hamburg,3 Hahnenkamp,"[9.93329,53.55328]",DETNM,Shell Recharge
+_ICy9otz3pog5LDjN-i9Ckjyn6siGdMdpQo_KM7k9eY,Hamburg,22547,Hamburg,Spreestraße 8A,"[9.887041,53.6013]",DEHHM,Hamburger Energiewerke
+_LzuesxSxdyxCHnnwWdjSDtL2dQCmRe0m6LWfIZsyWQ,Hamburg,22529,Hamburg,Beiersdorfstraße 3,"[9.959686,53.582258]",DEMER,MER
+_MvGsFepLfbGcmnU3ieUj87Rc_ixM7ixvRwLJsCILDc,Hamburg,21035,Hamburg,Rahel-Varnhagen-Weg 38,"[10.17926,53.48683]",DEHHM,Hamburger Energiewerke
+_RSZgFShfoqahNvR47QrEv-GTFvWlqq2jJ5ZI9CoYBE,Hamburg,22159,Hamburg,Traberweg 2,"[10.101829,53.597641]",DEHHM,Hamburger Energiewerke
+_SxIYTgUuPm7CjSo3yXwePBnXYwHgP3H9ap5-l3vM8w,Hamburg,22303,Hamburg,Semperstraße 46,"[10.016495,53.586194]",DEHHM,Hamburger Energiewerke
+_ZHwHSW7rGV-Sd_dPWjvnpPvmPoWTSxaPg32vsYAeGk,Hamburg,22299,Hamburg,Ulmenstraße /Grasweg 30,"[10.003444,53.5925]",DEWLN,Wirelane
+_ZTR6nvKxHK1RGj4dgY1fNKxOTjP2CW1Rb-7TkggPyc,Hamburg,22761,Hamburg,Gasstraße 22,"[9.91234,53.56114]",DEEZE,eze.network GmbH
+__1ZbCe7lJHmc6owPsJzqHrxlqABSVOMB_cD-AMYBRI,Hamburg,22335,Hamburg,LH Basis G256,"[9.98948,53.62168]",DEVAT,Vattenfall
+_cEgTZG-2lLN2urq7PRA0QwSRy3Xf-X-JjDRaajnkgk,Hamburg,22607,Hamburg,Baron-Voght-Straße 179,"[9.875113,53.565389]",DENMS,SWN Stadtwerke Neumünster GmbH
+_iuzlJA6a9AC12JXE_-TJNGEgemuHVlCBQe4rWaSHEw,Hamburg,21029,Hamburg,August-Bebel-Straße 73,"[10.226995,53.484565]",DEHHM,Hamburger Energiewerke
+_jUOV-p8ZVDrFe7PkXA7VqBSDDPo7bskZ5IMSQolOo4,Hamburg,22297,Hamburg,Überseering 2,"[10.0263,53.60171]",DEQRM,Qwello
+_l-UnuQJT18U9yUMR4KG4OG9O3XTLv3e9-8lfANrXr0,Hamburg,22767,Hamburg,Bei der Johanniskirche 15,"[9.95406,53.55989]",DEHHM,Hamburger Energiewerke
+_lPJLy1iDYWpPCaMWgE_PzIzvFDHZM2WKdx4Stlh58A,Hamburg,22559,Hamburg,Marschweg 3A,"[9.76093,53.58545]",DEEZE,eze.network GmbH
+_wNYojrjLjAeFGFt9QeDGDsC1h6aMoswTAa3Qi93P4k,Hamburg,22335,Hamburg,Sportallee 4,"[10.000562,53.614498]",DEWLN,Wirelane
+_yzzO0-Gpx1iGku75N1jAzznQanBZdRn-xHkyDP9A6k,Hamburg,22559,Hamburg,Wedeler Landstraße 21,"[9.75966,53.581532]",DEHHM,Hamburger Energiewerke
+_zFFmBzXuKoP2ynuhCW0cUa9DmYIG03TByRbro9mv4s,Hamburg,21073,Hamburg,Gerade Straße 24,"[9.982093,53.452835]",DEHHM,Hamburger Energiewerke
+a-9-IH6--lE0tzHoMhRKAJ5gdol97TiwUA-9DSN2Fag,Hamburg,22547,Hamburg,Eckhoffplatz 1,"[9.8739,53.5918]",DEKDL,Kaufland
+a24ctBQ0sZe2nke20jkc7cf-LSgE-0pKq7YvsNhMXaU,Hamburg,22303,Hamburg,Wiesendamm 120,"[10.023329,53.589475]",DEPOW,MOON POWER GmbH
+a6PwZK6Sg6H_JZLBWUz0PoXJc9RXy3ctFbPbnlci3ws,Hamburg,22765,Hamburg,Barnerstraße 41,"[9.92956,53.55644]",DEHHM,Hamburger Energiewerke
+a9ouB7x3F1aSZbcvKuLlkeggscyJcHQDbV8RLuOd-Fs,Hamburg,22085,Hamburg,Auguststraße 12,"[10.01356,53.5705]",DEEZE,eze.network GmbH
+aCnNXUkovmLDmMo7LY3X-KKe8rHY_7G7RCMP3LGNii4,Hamburg,22117,Hamburg,Honsbergenstraße 5A,"[10.12292,53.54016]",DEHHM,Hamburger Energiewerke
+aI-ilrDOo144tyal7WEpZXLv5GBub9WRFxbEsSU3n-4,Hamburg,20535,Hamburg,Chateauneufstraße 2,"[10.056089,53.561851]",DEHHM,Hamburger Energiewerke
+aILuzM4anns5R4NMMoowNfkeDieSFkHWmopwpeLX2YE,Hamburg,22525,Hamburg,Kieler Straße 171,"[9.938865,53.574925]",DEWLN,Wirelane
+aISd2fcqMcdpLJ7kB6w8qAm7BOMTtKVTFlR554Ra3lI,Hamburg,22337,Hamburg,Rübenkamp 317,"[10.03233,53.6135]",DEHHM,Hamburger Energiewerke
+aIWBUxb9GYJ8aUjDVXwtz5ObiNBwsLlF9_MJlcOFu18,Hamburg,21037,Hamburg,Heinrich-Osterath-Straße 256,"[10.139749,53.457978]",DEMDS,Mennekes
+aKm9ato9RK8SmIb8XUfjo1izHiNsRWM2Gwxgi9qAZfI,Hamburg,20457,Hamburg,Neue Gröningerstraße 5,"[9.994888,53.546548]",DEHHM,Hamburger Energiewerke
+aLWegvTwxd448kMa3sjMgLPKr7shwimK5GQalrIDSWQ,Hamburg,21079,Hamburg,Schneverdinger Weg 1,"[9.99222,53.44064]",DEEZE,eze.network GmbH
+aQXONmWYa4AihYllTSWv_-jfWJTuAkX9Ec0K4BH7_tM,Hamburg,21129,Hamburg,Hasselwerder Straße  85,"[9.813448,53.520842]",DEONE,reev GmbH
+aZiCkR_s26VABSp-_QwmZSY89XFwmFVOfC1NuOBREp4,Hamburg,22307,Hamburg,Andreas-Knack-Ring 2,"[10.0349,53.604596]",DEHHM,Hamburger Energiewerke
+a_dGMEHlwYygOTjeBalLuXUlLEOvX6_qLvIsakByps8,Hamburg,22607,Hamburg,Windmühlenweg 43,"[9.870444,53.568805]",DEWLN,Wirelane
+aaF8wZewFnYk6fTftGI_7SWi3m-Bnp-2BYsGzkFTgmc,Hamburg,20459,Hamburg,Eichholz ggü. 43,"[9.973204,53.546252]",DEHHM,Hamburger Energiewerke
+aaI8QTDeZTy1bxOKxNRvfSGStO_J8JejEmpr7ydvph8,Hamburg,22085,Hamburg,Hofweg 68,"[10.01518,53.57413]",DEEZE,eze.network GmbH
+afOy5_cpsU7icNzMG9HnXx0wgYV6rxo5F8f2xs_B2-o,Hamburg,20354,Hamburg,Gänsemarkt 45,"[9.98873,53.555629]",DETNK,TankE
+ajGYLeAK4JHDie1HlwXs7L0DHnKDjkVhwAYj8LISRkg,Hamburg,21109,Hamburg,Krieterstraße 32,"[10.010599,53.497004]",DEHHM,Hamburger Energiewerke
+an-ikBRiQmKI3eQWJw8ya12Dv0HnV5v3a8vM9AADDyQ,Hamburg,20097,Hamburg,Sachsenfeld 3,"[10.022235,53.54507]",DEHHM,Hamburger Energiewerke
+anRMmYKgN-YJZykNmCDD0MFlb-tTzxjPHQs6uSr2jbg,Hamburg,20249,Hamburg,Schrammsweg 29,"[9.991052,53.590706]",DEHHM,Hamburger Energiewerke
+azj5512rPd4j80hKVVjiBOWatq9oKNO1JK8eTWDqqsk,Hamburg,22089,Hamburg,Wielandstraße 1,"[10.054943,53.569376]",DEHHM,Hamburger Energiewerke
+b4J0BomdicZzlf-kzV-y2rNMGAc5vxYVgI5Qoc66gbw,Hamburg,21029,Hamburg,Holtenklinker Straße 146,"[10.22933,53.48013]",DEEZE,eze.network GmbH
+bEG6Yb-wTDahJDDKmIiTZxbhKYtP641iNntFNGQImIs,Hamburg,21129,Hamburg,Ostfrieslandstraße 3,"[9.87884,53.53251]",DEHHM,Hamburger Energiewerke
+bEvLxcEZCchYeYGn5fsFGzLiS-de-JQ315qRmGnEnnQ,Hamburg,20251,Hamburg,Geschwister-Scholl-Straße 120,"[9.97834,53.59444]",DEHHM,Hamburger Energiewerke
+bFCKp8T9N0s4LL21r8Uur5MRteViVe9cra2o3n88WGo,Hamburg,20535,Hamburg,Griesstraße 58C,"[10.056261,53.563031]",DEHHM,Hamburger Energiewerke
+bH80o7xy518Pksm71XqsxsMVdQe8HvzyLLUITuHBpWY,Hamburg,20251,Hamburg,Breitenfelder Straße 72,"[9.97816,53.58761]",DEEZE,eze.network GmbH
+bOE7eAZDmMtqTxMJEe7s-qCAEf1CySVRrFhc_v1hITg,Hamburg,20354,Hamburg,Hohen Bleichen 22,"[9.987699,53.553925]",DEAPC,E.ON Drive
+bQjmNnitkXduDfxfmNxZ7c_K9CtF_KoHCB_MEWhxNyI,Hamburg,22761,Hamburg,Mendelsohnstraße 82,"[9.907767,53.563876]",DEHHM,Hamburger Energiewerke
+bXhH5S9zISwsJ0yfCTZpWgoVc5OZx1y6Yr3cV_qS1QI,Hamburg,20099,Hamburg,An der Alster 65,"[10.005663,53.558132]",DEHHM,Hamburger Energiewerke
+bZRGAKiwkn6gTD10EQWbqa-hB0d7nbgipqmffPe8cvk,Hamburg,21075,Hamburg,Alter Postweg 29,"[9.96456,53.46476]",DEEZE,eze.network GmbH
+baFhrBj40KYf5No7gwQai_qzlL4glV0fxevU3bBT0Cw,Hamburg,20149,Hamburg,Oberstraße 140,"[9.99324,53.577779]",DEHHM,Hamburger Energiewerke
+bbi7UQ89iud1CrxkxAY6yg1hXVvL5SB-iVQx75lBHP8,Hamburg,22081,Hamburg,Dehnhaide 49,"[10.045212,53.579256]",DEBPE,Aral Pulse
+bdKAvgsohHqv3gzHd9arFZIVdk1OQnzzp_oCnc_Wqkk,Hamburg,22143,Hamburg,Neuer Höltigbaum 6,"[10.18468,53.60947]",DEHHM,Hamburger Energiewerke
+biP1DdX2u8v1r4zXiQj_ss7rvhM3ifoF-6VPjiHKj7A,Hamburg,22149,Hamburg,Rahlstedter Straße 29,"[10.14196,53.59337]",DEHHM,Hamburger Energiewerke
+bqAgvhtWbY6gAZ1hrLD1ZA9QQ8TMTGSf5jEQajpAgI8,Hamburg,20097,Hamburg,28 Högerdamm,"[10.01346,53.5457]",DETNM,Shell Recharge
+brJtY46Cbpxve6dPj4uD-GrKGKv8cLiV0X9iRTC6z98,Hamburg,20144,Hamburg,Oberstraße 61,"[9.98467,53.57767]",DEEZE,eze.network GmbH
+bsfGxQ6e1Z3Zaub-dnesw6Dvh7ygMggEv7qT3mESqKM,Hamburg,22765,Hamburg,Gaußstraße 158,"[9.92854,53.55904]",DKMON,Monta ApS
+bv2ps1nONG8MRqXQKc3kTVFgvwgQXN8irpqxzhKX5w8,Hamburg,22763,Hamburg,Hohenzollernring 24,"[9.91777,53.54878]",DEHHM,Hamburger Energiewerke
+bv4at_vtj5kjlbkfaxdoIWalil3ecSAoWJvn5MzhPRI,Hamburg,22589,Hamburg,Op'n Hainholt 1,"[9.810157,53.580767]",DEHHM,Hamburger Energiewerke
+bvLYrScshl301_IX2AYcqCNArBV96rySDoFSbHbBJS8,Hamburg,21149,Hamburg,Alte Weiden 7,"[9.848622,53.471938]",DEHHM,Hamburger Energiewerke
+bwleMd1L-gzLdKJbDxmvOBATwLpY60yPboOAg3RNzw4,Hamburg,22607,Hamburg,Baron-Voght-Straße 19,"[9.874587,53.565241]",DENMS,SWN Stadtwerke Neumünster GmbH
+c0BqRvotHzFN5LPt_OsU7cit4czUfTiRrtAkz9dR8as,Hamburg,21031,Hamburg,Goerdelerstraße 28,"[10.21437,53.50323]",DEEZE,eze.network GmbH
+c1hQTPr-jvHeX6ok0WARQ0hQNiJ2AG5cdZ8uKIdQAm0,Hamburg,20144,Hamburg,Gustav-Falke-Straße 30,"[9.97127,53.57086]",DEHHM,Hamburger Energiewerke
+c24B0o3Lb_CqY8nb6zFlgcGSMarkQucxLj1WwJzKaSI,Hamburg,20095,Hamburg,Ferdinandstor 1,"[10.001559,53.556051]",DEVAT,Vattenfall
+c4CGW5zbvVub0caNGtSwqsmEnIdT6X9r1Tcnuy9QbNE,Hamburg,22607,Hamburg,Blomkamp 197,"[9.873258,53.579908]",DEHHM,Hamburger Energiewerke
+c8HZmurxjc943qqj9PKfBShcTS9h2P8KqeOONCaCoNU,Hamburg,22525,Hamburg,Große Bahnstraße 30,"[9.93691,53.57396]",DEHHM,Hamburger Energiewerke
+c9lxVmdiPQh6Dki0y48f3aiarlQsDYGHnRPAY73ZMf4,Hamburg,20539,Hamburg,Auf der Brandshofer Schleuse 4,"[10.014934,53.543119]",DE199,NWG Charging GmbH
+cDSopeNXrSvsnRxc2VeiUzFNOhyp4-jRzbZzlW4k99o,Hamburg,20355,Hamburg,Rademachergang 20,"[9.9807,53.55213]",DEHHM,Hamburger Energiewerke
+cFgNNtDMdUG7DZkGYEjMk_Q1utF7KVIKmytJp7WKjUM,Hamburg,21073,Hamburg,Julius-Ludowieg-Straße 23,"[9.97673,53.4596]",DEHHM,Hamburger Energiewerke
+cIosrcng_gNlBfcJOjUK5nf_PnD5oezFdWNr18BFySE,Hamburg,22527,Hamburg,Olloweg ggü 33-35,"[9.919794,53.60188]",DEUBI,ubitricity
+cLq4iJ2YWkKjygLQ64EquuWp73so5Xy9Z_BBVtnzkeA,Hamburg,20357,Hamburg,Altonaer Straße 10,"[9.961463,53.56383]",DELDL,Lidl
+cTWPx2UfZJP5CT8gy4UWJbMZVgdQeNF0Z4tvhUX8i3Q,Hamburg,22175,Hamburg,Berner Chaussee 43,"[10.088,53.617884]",DEHHM,Hamburger Energiewerke
+cUWugdf5qMtaajd51vgYUL6-jXvgTToosVuui8nYjLk,Hamburg,22607,Hamburg,Notkestraße 9,"[9.88828,53.573042]",DEHHM,Hamburger Energiewerke
+ccbhVOQz1YbwpkAJWd7XQO9WJDrHqEEQ_UbB4-FUk8I,Hamburg,22043,Hamburg,Schimmelmannstraße 70,"[10.103978,53.571929]",DEHHM,Hamburger Energiewerke
+cgNaveVXvqqVIhT1yPcRaMj2lh6URWBvnJ8hMYEhSkM,Hamburg,22457,Hamburg,Süntelstraße 13,"[9.90497,53.63184]",DEMDS,Mennekes
+ci7_lUzAKEAd86a9leFXEbFLOcypciLaQcgAy88t6sA,Hamburg,22045,Hamburg,Tonndorfer Hauptstraße 71,"[10.12638,53.58685]",DEEZE,eze.network GmbH
+cmRFOng-f-Qn-7kOZFP9aGgMo-8WThhd9USJZWC-S18,Hamburg,22309,Hamburg,Schwarzer Weg 3,"[10.053962,53.607054]",DEHHM,Hamburger Energiewerke
+cmuq_rg6jXofFLNAmP6kYQmYB_m2iN84Yj5OigZKauo,Hamburg,21147,Hamburg,Neuwiedenthaler Straße 42,"[9.87081,53.47638]",DEHHM,Hamburger Energiewerke
+cnSJkeZmaDfcTIyYJwjPO30KLLjnDqzCKbOqfPJJU40,Hamburg,20099,Hamburg,Holzdamm 22,"[10.005305,53.556387]",DEHHM,Hamburger Energiewerke
+csnTnqAtIlQyJhRjiR-Rw7wV4BelE2TfcaKwdsqNvAM,Hamburg,20148,Hamburg,Alte Rabenstraße 32,"[10.000622,53.567335]",DEHHM,Hamburger Energiewerke
+ctK7FdqfTToDDysRMXCftZK7ibIlYNpkvTjXdBOlTHc,Hamburg,20459,Hamburg,Admiralitätstraße 55-56,"[9.983068,53.546585]",DEWLN,Wirelane
+cxOhuEP_fF2_t6nuJpS7PGK3qDumOhl2RiFMXjwqF0E,Hamburg,21033,Hamburg,Kurt-A.-Körber-Chaussee 5,"[10.202586,53.488939]",DEHHM,Hamburger Energiewerke
+czfE8K9K-zras9JKW9t8LKxfIoMO-ekn0fwS-LmASS0,Hamburg,21075,Hamburg,Ehestorfer Weg 50,"[9.94836,53.45516]",DEEZE,eze.network GmbH
+d1RQ5IyVOTAtPLwisp1JJsRXzmYMkAZFiCy0wAgfosU,Hamburg,20539,Hamburg,Billhorner Deich 96,"[10.04259,53.53958]",DEHHM,Hamburger Energiewerke
+d3ZxhduGDMWadKspEGLelwdA7ea1PV7EJdNax8_d3IQ,Hamburg,20249,Hamburg,Robert-Koch-Straße 36,"[9.985858,53.590135]",DEHHM,Hamburger Energiewerke
+d5W2dCI-g3ZUWQcNanTGeDpEiRQSGH_j4w-BhnHZMhI,Hamburg,21029,Hamburg,Chrysanderstraße 35,"[10.215524,53.488222]",DEHHM,Hamburger Energiewerke
+d5XCBXLbZKHTccLxHBaFO9iQ-W1SWl-9ALsNPDdGu3Y,Hamburg,22089,Hamburg,Pappelallee 41,"[10.059232,53.567386]",DEHHM,Hamburger Energiewerke
+d8fB4ogKfK6hUomc81EJMYaVGouHOd_9Xw58DES0UyA,Hamburg,22587,Hamburg,Rissener Landstraße 49,"[9.791065,53.569051]",DEHHM,Hamburger Energiewerke
+dBC3BfoudX2idc6MM_lQa_-b6HyUO0H2Zf5XWZu3bg4,Hamburg,22761,Hamburg,Gasstraße 6,"[9.915537,53.56094]",DEHHM,Hamburger Energiewerke
+dGfIRagg5cpYxK4wJqyZ09M68vHOku7hJphP15y2p0Q,Hamburg,21033,Hamburg,Dünenweg 40,"[10.19078,53.50334]",DECCH,Comfortcharge
+dIBWI-TWFY2j6OGX_O3-xv_SaftYY9ow-8rBNwSNCKQ,Hamburg,20099,Hamburg,Kirchenweg 4,"[10.010339,53.555503]",DEHHM,Hamburger Energiewerke
+dJv1GaOTTVH3Mnt5ckXQcTkGAlEoCZDnTVIA-smA0wg,Hamburg,20249,Hamburg,Kümmellstraße 5,"[9.985129,53.590212]",DEHHM,Hamburger Energiewerke
+dK76lTOd51AljpwyIJE3KnHh_9IJLkAkR19Et27fsWA,Hamburg,22305,Hamburg,Alter Güterbahnhof 2F,"[10.03565,53.59131]",DEQRM,Qwello
+dMK1pUNNWsLLX-mcgzGEeMbK17BHoHZy3RsPiefIpfY,Hamburg,22397,Hamburg,Alte Dorfstraße 1,"[10.137054,53.695093]",DEHHM,Hamburger Energiewerke
+dM_OBE9gJNQWMmF-8uTwZDUP_wMDuw2P6a0toAiwK7w,Hamburg,20146,Hamburg,Laufgraben 31,"[9.9753,53.567]",DEHHM,Hamburger Energiewerke
+dNN2fqvPJABNvcQt_4Qwp9NQCVmaZ-sWCVUnP1b9ZdI,Hamburg,20359,Hamburg,Beim Grünen Jäger 8,"[9.96318,53.55715]",DESNH,Stromnetz Hamburg GmbH
+dSYp_JgJpuBPA9jz6hddsD2Tmz0oX6CEAKnhSbWwbm4,Hamburg,22041,Hamburg,Brauhausstraße 44,"[10.059955,53.573408]",DELA1,LAN1 Hotspots GmbH
+dYF45Nsv9Sc7n3x0avcQFWEuDrUQ_Z0_Z50vGSy0vBo,Hamburg,22303,Hamburg,Barmbeker Straße 62,"[10.016474,53.588353]",DEHHM,Hamburger Energiewerke
+dZJdBcJIql-QpyaU_0IRm-cfmQAQEKv_Xt_My3iIQvI,Hamburg,20359,Hamburg,Beim Grünen Jäger 21,"[9.963586,53.558619]",DEHHM,Hamburger Energiewerke
+daBZkm3cxNouDKyWdEbxETgUV6oAEpFRAT1dqrF1Gdk,Hamburg,22765,Hamburg,Max-Brauer-Allee 54,"[9.937687,53.552646]",DEHHM,Hamburger Energiewerke
+dfMPvU2TOGG-ZhkbBjhLewhkKiEnTo4f3skmXVyEL3w,Hamburg,22041,Hamburg,Neumann-Reichardt-Straße 22,"[10.07915,53.57273]",DEHHM,Hamburger Energiewerke
+dg1IdzVUCdbJxt4gR8OilNNZ6CxxtG-WF7qgjh8arMQ,Hamburg,20357,Hamburg,Sternschanze 6,"[9.971197,53.563992]",DEENC,enercity
+djLmxfLNAbwwoqyegPCLkqzkVLgyLdrLfYNTrA9NyeU,Hamburg,21079,Hamburg,Großmoorbogen 1,"[10.011347,53.461175]",DEALL,Allego
+doqa6-qiBNiee5B2CkiCit0gYzABvxBW9Oe5WgYd-7E,Hamburg,22761,Hamburg,Bornkampsweg 2-4,"[9.921963,53.566066]",DEPOW,MOON POWER GmbH
+dq0ExiTZ8Ox6p7nVpDEYzaLicGHtch3fYMwVY06wqAc,Hamburg,20459,Hamburg,Steintwiete 18,"[9.986567,53.54652]",DEHHM,Hamburger Energiewerke
+dqW0fd2UldXSfNydpO9FIMpwhOe6hz9sAZeAaJBF6LM,Hamburg,21077,Hamburg,Hainholzweg 69B,"[9.937057,53.4499]",DEHHM,Hamburger Energiewerke
+dqXfdssz_W9aslMWyhcdELSHchz_ouEyA5XUUeJczU8,Hamburg,22115,Hamburg,Max-Klinger-Straße 1,"[10.14407,53.52938]",DEEZE,eze.network GmbH
+dxWf8HfkDtamGQl6rUFwsPPvj8z-U1Sun_oXVIEhJSQ,Hamburg,20537,Hamburg,Bullerdeich 36,"[10.039311,53.544261]",DECON,GP JOULE
+dzElXxJhNPcmxG9hoNbArG964QfXlmi2vkJEGzvno_U,Hamburg,22399,Hamburg,Poppenbütteler Weg 112,"[10.06239,53.64925]",DEEZE,eze.network GmbH
+e3AkIR_JQfPWWJJSbeRD4aIPt6RA_gtp5IRM2CGc338,Hamburg,20251,Hamburg,Löwenstraße 18,"[9.97836,53.58378]",DEHHM,Hamburger Energiewerke
+e5APWYZtOXBJbwTgWuLWBp6YABxitq5C-pO68qVy4Pk,Hamburg,22085,Hamburg,Hofweg 44,"[10.016077,53.572021]",DEHHM,Hamburger Energiewerke
+e6lh0feUVIhJizK9KrgnfpC7sGSgsqlbQdziwnp0tHQ,Hamburg,20149,Hamburg,Hallerstraße 85,"[9.99007,53.57281]",DESNH,Stromnetz Hamburg GmbH
+eAsgeWG-5bhR38VdlqWgVrgw9pcyzQfMknhFY06-vjo,Hamburg,21075,Hamburg,Eißendorfer Pferdeweg 65,"[9.950999,53.460755]",DEHHM,Hamburger Energiewerke
+eDm4ptnhnef8-W3Ptxcr0ahmBm6vnheoI1rHw0_I_Dk,Hamburg,22081,Hamburg,Von-Essen-Straße 75,"[10.044319,53.575095]",DEHHM,Hamburger Energiewerke
+eERdeL9C5fA9ExVmQXT27QSagXWXznWhRKVO2xmybq8,Hamburg,22303,Hamburg,Saarlandstraße 71,"[10.03115,53.598121]",DENNX,nonoxx pro GmbH
+eEawMAkqbroNeZqDCLgYryr1fVduKFnuam4FTZYvt5s,Hamburg,22395,Hamburg,Saseler Damm 15,"[10.100406,53.654728]",DEHHM,Hamburger Energiewerke
+eH42VJLTkXMaQvEw_uliQvDXvRCfLu6khZrUE0bTX9k,Hamburg,20457,Hamburg,Buchheisterstraße 16,"[9.960366,53.529572]",DEMDS,Mennekes
+eHbaQcSHLxk_fqHz5wKUpRVGLsSFkDTcFChxxcwkH1I,Hamburg,22047,Hamburg,Friedrich-Ebert-Damm 120,"[10.09389,53.58786]",DEHHM,Hamburger Energiewerke
+eK-zabDIUHqrd-2Buip-Lxc9OWqvtFx3CiwEJE9QRdI,Hamburg,21031,Hamburg,Habermannstraße 31,"[10.210397,53.502665]",DEHHM,Hamburger Energiewerke
+eKMssSCVS9q22JN7Rt60szJtqmkCsHH3rLf18tTr3Yo,Hamburg,20359,Hamburg,Budapester Straße 28,"[9.965125,53.553473]",DEHHM,Hamburger Energiewerke
+eM58LMe56cKUpykyBn0w0j44tZ72VOhfgUzrjSiuauc,Hamburg,22335,Hamburg,LH Basis G201,"[9.99129,53.62133]",DEVAT,Vattenfall
+eN9m_aKGNj2aSMfhgY3IyJrHjv0ShjtguJkmBDw1_lw,Hamburg,21029,Hamburg,Neuer Weg 21,"[10.213129,53.485806]",DEHHM,Hamburger Energiewerke
+eNEjxaTK-MFrv3rHSAQaSHwEUz9qm544ry4g5sO7Lj4,Hamburg,22309,Hamburg,Steilshooper Allee 53,"[10.05109,53.60897]",DEWLN,Wirelane
+eQ7XNnrPj5133t_3H-rL0b1EDcYQ7hbgyevhsKin4LU,Hamburg,21073,Hamburg,Goldtschmidtstraße 5,"[9.98539,53.45915]",DEHHM,Hamburger Energiewerke
+eZ5BfAgZm10yyWFJQW-5mwffQM63kG4bF6ilD2ssrzQ,Hamburg,22547,Hamburg,Franzosenkoppel 111,"[9.874595,53.605659]",DEHHM,Hamburger Energiewerke
+eaWsk76-zQpka14w-wOmL5KLvMGi-XZmUDeAgZ6veCM,Hamburg,21079,Hamburg,Großmoorbogen 1A,"[10.012082,53.462349]",DEPOW,MOON POWER GmbH
+ekG6M2v7UA_YUmgC72vv6ixcIobSev1-rjfO5AAmCZY,Hamburg,22301,Hamburg,Fernsicht 2,"[10.000094,53.580463]",DEHHM,Hamburger Energiewerke
+epp5BVgBM2jQjqSU-eQ451OP9PlbTxa1HayNSD8bzds,Hamburg,20535,Hamburg,Marienthaler Str 1,"[10.03831,53.560636]",DEHHM,Hamburger Energiewerke
+erf_9JIo9DHIWKRpI1aElhwhLVOScnxAu9nxzGsGBNU,Hamburg,22529,Hamburg,Grelckstraße 2,"[9.95809,53.599869]",DEHHM,Hamburger Energiewerke
+esiOALDM8YzKCIQFyvkbgl1uuEXvLL9v-zMQrf-Tskc,Hamburg,22459,Hamburg,Krähenweg 4,"[9.955375,53.63244]",DEEBW,EnBW
+euOs_GuaLqgacwXtKKeLWKqyjvo55N3vy50eXcRjyDs,Hamburg,22301,Hamburg,Dorotheenstraße 134,"[10.004766,53.587793]",DEHHM,Hamburger Energiewerke
+f1p49JbIT17SSOdc_jFYysVYL8FzYvLm5Hdw_xBb9RA,Hamburg,22307,Hamburg,Otto-Speckter-Straße ggü 34,"[10.04676,53.59923]",DEUBI,ubitricity
+f3A7Irls-zqOgtVPgoio-lkaFjsSoezJs5ARFyROnb8,Hamburg,22049,Hamburg,Alter Teichweg 65,"[10.05799,53.58436]",DEEBW,EnBW
+f4ESbiRNMb5dblRhLDZ77Obe2rFwljj44PDI7MYIxVg,Hamburg,22339,Hamburg,Hummelsbütteler Weg 44,"[10.046694,53.642299]",DEHHM,Hamburger Energiewerke
+f8DNYYLng_ZI6GwQuXUAtnrUGwNFq0M9cdXMKce2LUI,Hamburg,20255,Hamburg,Eidelstedter Weg 28,"[9.953495,53.581758]",DEHHM,Hamburger Energiewerke
+f9qRCcwL-3b1WmhZLE4-68IUeX2Iam_BPbUwLmMcwhI,Hamburg,22049,Hamburg,Alter Teichweg 65,"[10.05808,53.58406]",DEEZE,eze.network GmbH
+fAan6fub6Azn1QlOMuv5CqoV5dmNwmgOmYT2qQSsg8A,Hamburg,22301,Hamburg,Körnerstraße 1,"[10.01269,53.57947]",DEHHM,Hamburger Energiewerke
+fLuxexYtdHnE-5WFdClB6IMoBDH3-ZZNZcdhkCXFNIc,Hamburg,22083,Hamburg,Mozartstraße 36,"[10.022873,53.578523]",DEHHM,Hamburger Energiewerke
+fT1P7ZJvv_ubwxlC17P6nextLRQooxbU0d8ysRdu9qI,Hamburg,22045,Hamburg,Kreuzburger Straße  6,"[10.129037,53.578642]",DEHHM,Hamburger Energiewerke
+fU28w7QNiDMUqhNPJd25ASq0YqALmo0Ir1y70_y8xyw,Hamburg,22359,Hamburg,Im Alten Dorfe 27,"[10.16495,53.64877]",DEHHM,Hamburger Energiewerke
+fUEEGGO02wOvK1N9DKOgr2kvCjo_Gw7tTQiJTyrtlcI,Hamburg,22049,Hamburg,Lesserstraße 209,"[10.074908,53.59304]",DEHHM,Hamburger Energiewerke
+f_sygfc8khRloCkobzWLa69MsQD-Rz68DTm5d0VqMRk,Hamburg,22607,Hamburg,Waitzstraße 22,"[9.88294,53.5597]",DEEZE,eze.network GmbH
+fcK1EQY2PNELSDKUntyFvpCHwtSph0YPORG1Zaj0bac,Hamburg,22339,Hamburg,Minsbekweg 63,"[10.068003,53.65681]",DEHHM,Hamburger Energiewerke
+fcvVvGNe1winGi5MEo4SM__l0ROw_2celySuH2bBcgM,Hamburg,20537,Hamburg,Ausschläger Weg,"[10.036058,53.548824]",DECPI,ChargePoint Germany GmbH
+fd2w1iqdKhvqNDnuFdwXHzgJjndA7SbnhQGlFa3LjvY,Hamburg,21033,Hamburg,Kurt-A.-Körber-Chaussee  43,"[10.196246,53.488694]",DEONE,reev GmbH
+fkmrBQezZCYOQPCt0oRRVDXb-RUu2RZjXmR5HiEfWVk,Hamburg,21147,Hamburg,Hardauring 34,"[9.8845,53.4777]",DEEBW,EnBW
+fywxCJA6Pj3zsDQOZc00Btn39irOSysE6sI5Xh3lMoQ,Hamburg,22147,Hamburg,Hermann-Balk-Straße 47,"[10.144916,53.618583]",DEWLN,Wirelane
+fzEnkioi8Vd7KAq78s1NMqcjORJPIHer3mRnuD6p92A,Hamburg-Farmsen,22159,Hamburg,Friedrich-Ebert-Damm 319-321,"[10.11537,53.60352]",DENIS,E.ON Drive Germany
+g025pSqdBvey1b9lzygbCLnKiUq8YzJT5tk0raaDO04,Hamburg,22303,Hamburg,Grasweg 70,"[10.009842,53.593392]",DEHHM,Hamburger Energiewerke
+g84i3TSyY2a_nyQ8g1LFgFsASAD72lZuZkSrtkQtpHs,Hamburg,22765,Hamburg,Haubachstraße 39,"[9.940041,53.558203]",DEHHM,Hamburger Energiewerke
+g9I3WKzs-BQypo_DSsJ-1URKdkIKW_OSY6ngZpbRtos,Hamburg,22143,Hamburg,Bargteheider Straße 81,"[10.14539,53.60305]",DEJEG,Jolt Energy
+gA2Xw3M8_PgSIX08MM85XSEoCvq-xQLTIDlLKNUuLeI,Hamburg,20355,Hamburg,Wexstraße 7,"[9.98329,53.55137]",DESNH,Stromnetz Hamburg GmbH
+gCtndtNIUqFu1VE1H3-DU1SNYeIW6dUvaGpKIdnemDU,Hamburg,22767,Hamburg,Goethestraße 23,"[9.939763,53.552423]",DENNX,nonoxx pro GmbH
+gDVmRVJnkc5xPFzDfV2RBmdAetvsEwIfgdcba4nkmgE,Hamburg,22083,Hamburg,Maurienstraße Ecke Flachsland,"[10.044641,53.583646]",DEHHM,Hamburger Energiewerke
+gHX6QYry-3QIKE2bvzhTCqDyV1iP2SflGwcd-1s95oE,Hamburg,20255,Hamburg,Schwenckestraße 14,"[9.94773,53.57554]",DEEZE,eze.network GmbH
+gH_kHtSZ6ztype4cz5lhOosohn5tEec_X0SSPr_kGN8,Hamburg,22525,Hamburg,149 Schnackenburgallee,"[9.904435,53.590147]",DECPI,ChargePoint Germany GmbH
+gIpVIhGzjFwk4vhZJ4NNXpx_K9fsRjUt20lEROvJnqw,Hamburg,22045,Hamburg,Schweidnitzer Straße 54,"[10.142916,53.576555]",DEWLN,Wirelane
+gMai0-owx2Hs0SbBct_UE0YVPQXcgM8D4fwJx2s5pT8,Hamburg,20459,Hamburg,Ditmar-Koel-Straße 1,"[9.977177,53.546109]",DEWLN,Wirelane
+gUWbboHzQGR0xoPP2ITELIibkNzLigReExT7vkqxr1Q,Hamburg,21029,Hamburg,Chrysanderstraße 33,"[10.2153,53.48812]",DEHHM,Hamburger Energiewerke
+gapqR9fmlxCnhKmxRcTJQ1tXJhIgfx6QsBaHSdFi45c,Hamburg,20354,Hamburg,Drehbahn 13,"[9.984556,53.55654]",DEHHM,Hamburger Energiewerke
+gc04sLY3r4kkDNHfcUZxaSqaCRBkPOciKPOXd8Aisao,Hamburg,21109,Hamburg,An der A1,"[10.02542,53.484017]",DEEDR,E.ON Drive
+gdwjyozosAIV6fyW4QM2QbJkzulHRwA6gjh6LeGHmLU,Hamburg,20539,Hamburg,Billhorner Deich 49,"[10.041688,53.534709]",DEHHM,Hamburger Energiewerke
+gf3DJRMLfArQsF1JFmwa-pZqEuSQqGaB5ZaSaEPI6XY,Hamburg,20535,Hamburg,Hammer Berg 31,"[10.065228,53.554715]",DEHHM,Hamburger Energiewerke
+ggv8H1Sty7WxI9j-n-Ag5FZ9kMojjgmxBn0XgMeGn6Q,Hamburg,22083,Hamburg,Brucknerstraße 6,"[10.03979,53.58338]",DEEZE,eze.network GmbH
+gkFbsLRP5sAsxQZhUK19swxQVFHYx8AxPYRDXpH-RHI,Hamburg,22529,Hamburg,Kollaustraße 41,"[9.961439,53.60418]",DEPOW,MOON POWER GmbH
+gn7JcRmgu0hM0BMLXieVXDYLx9Ff5bKo7zZZ_zhc5cU,Hamburg,22525,Hamburg,Försterweg 51,"[9.927449,53.579683]",DEHHM,Hamburger Energiewerke
+goEl0-7ym742vohxGMd5KBnQaItsnbZUSxCocTE_F24,Hamburg,20537,Hamburg,Süderstraße 288,"[10.05132,53.54762]",DEHHM,Hamburger Energiewerke
+gqUbMLYWY0bKZTsXshHLGGdci9ZVN02TYcfFo017bFk,Hamburg,22081,Hamburg,Erika-Mann-Bogen 21,"[10.04962,53.576619]",DEHHM,Hamburger Energiewerke
+gtImaZdQmbn5M9ukoHyVVFmbfFuIp5ndlM9cm5I1SSI,Hamburg,20146,Hamburg,Schlüterstraße 50,"[9.986486,53.567931]",DEHHM,Hamburger Energiewerke
+gvB_ypn80TwREClzryMqUMdGs1UU5xgBSqAWNTZ6840,Hamburg,22587,Hamburg,Blankeneser Bahnhofstraße 16,"[9.811179,53.559879]",DEHHM,Hamburger Energiewerke
+gvOs5LzM1zNsdybh66PlHzNODk3OLuuxLcFYP3RTIDQ,Hamburg,22047,Hamburg,Helbingtwiete 7/9,"[10.095,53.5876]",DEKDL,Kaufland
+gwOMoRAiaGyfj5Mx8uZCrRHJQP7KmiZGJ2jE8nFmHe0,Hamburg,22767,Hamburg,Paul-Roosen-Straße 22,"[9.958286,53.553124]",DEHHM,Hamburger Energiewerke
+gwg7jefX1SIFPNsO16OtOk2mo99Hq9HJ5B3D4eG6R3M,Hamburg,22175,Hamburg,Bramfelder Chaussee 347,"[10.08097,53.61962]",DEQRM,Qwello
+gxk7g_chvA5eQ0BXHARirKxmuOi0Sx61RSdTFiRo980,Hamburg,22297,Hamburg,Orchideenstieg 14,"[9.990553,53.605216]",DEHHM,Hamburger Energiewerke
+gyLZLUtcvd6ADyfU09QnlpH7yAmxFNiN6HraDap9nNg,Hamburg,22587,Hamburg,Erik-Blumenfeld-Platz 7,"[9.814991,53.56341]",DEHHM,Hamburger Energiewerke
+gzBwCq5DY0q5W8FOD8jA4FL5yX98agGcAZtDjCLBDac,Hamburg,21109,Hamburg,12 Georgswerder Bogen,"[10.02155,53.51841]",DETNM,Shell Recharge
+h-3wKwwqGVKffVPdCpSulT_-jVLc9kaj-2N3uvTVr7c,Hamburg,22549,Hamburg,Immenbusch 1,"[9.854038,53.584267]",DEHHM,Hamburger Energiewerke
+h-SG00I4Ynzu84VApK9g5vJoQOBbn3EjvaXLEYc9gec,Hamburg,22417,Hamburg,Tweeltenbek 23,"[10.01808,53.67776]",DECCH,Comfortcharge
+h17Jt_bR2DKzqMrp0PoB3t9-pCaBDHF7t_I-x6lSGwY,Hamburg,22393,Hamburg,Volksdorfer Weg 182,"[10.126453,53.644357]",DEGCE,Volkswagen
+h2BL1JD-22yk_UA7OF9LLiuLX11HdiNgaGDU_j4mRnk,Hamburg,21075,Hamburg,Heimfelder Str. 123,"[9.940608,53.460679]",DEALL,Allego
+h7-GsK2DQlvz-IXsN67bhsHAj8MNH-V2oxRqYsVEgos,Hamburg,21109,Hamburg,Karl-Arnold-Ring 999,"[10.018474,53.484731]",DEHHM,Hamburger Energiewerke
+hBZqhUnTi3BIc_1Uk7AfAkbfMoIxor9c0WpNtFv1yOk,Hamburg,22605,Hamburg,Hochrad 24,"[9.87406,53.55419]",DEHHM,Hamburger Energiewerke
+hFyQ4sgfjG0N004jaGiGcgxFPe8Zvyi--IDEhXysmY8,Hamburg,20249,Hamburg,Loogeplatz 2,"[9.99218,53.58778]",DEHHM,Hamburger Energiewerke
+hHknMQ7QN04yPCGXDEKGJUIml0bZKbm9rSIIAS5drP0,Hamburg,20253,Hamburg,Eppendorfer Weg 203,"[9.969752,53.581097]",DEHHM,Hamburger Energiewerke
+hJYL613aD66-5cRz9CXkTln6R0PzAB2gFvPz8vs4Sic,Hamburg,21029,Hamburg,Chrysanderstraße 31,"[10.2153,53.48812]",DEHHM,Hamburger Energiewerke
+hLvFrk909C7RDktMSzcz-GsEdn9PGjWGFgyB3crv8GA,Hamburg,22305,Hamburg,Habichtstraße 31,"[10.059051,53.58998]",DEHHM,Hamburger Energiewerke
+hMMU7E48eoKSFVPpeVu191qZudEoWaE1Gn2Fex-FlIs,Hamburg,20359,Hamburg,Lange Straße 6,"[9.956457,53.547291]",DEHHM,Hamburger Energiewerke
+hNRniFu3uAMD9na2EQC0Samg9RPw-X_FAS7_kBAMIJU,Hamburg,22339,Hamburg,Hummelsbütteler Weg 84,"[10.05262,53.6448]",DEEZE,eze.network GmbH
+hS_vqah7InJZECDD3jV1zCUR7zaC1G_XzWmMBaE4vgg,Hamburg,21079,Hamburg,Blohmstraße 22,"[9.98111,53.46673]",DEHHM,Hamburger Energiewerke
+hT787UKeE5S1jLUeOTNgZRq-Wnw3t_l3vQJGiozZBNk,Hamburg,22767,Hamburg,Esmarchstraße 51,"[9.949472,53.554206]",DEHHM,Hamburger Energiewerke
+hYUnHHN8pklpvBIQ3zNZMqwSEnbF68px8uy8T4eWBPI,Hamburg,22769,Hamburg,Langenfelderstrasse 122,"[9.94498,53.56837]",DECCH,Comfortcharge
+hbrK6YsCbo24TTc-VeY1i6-pXoitAhxKKpV9lSnQmcw,Hamburg,21075,Hamburg,Bissingstraße 30,"[9.964492,53.468242]",DEHHM,Hamburger Energiewerke
+hdFXxz8wekYz3UrTl04kD_Y3Zo1VN2U_qc5JU9-kSTA,Hamburg,21129,Hamburg,Aluminiumstrasse 5,"[9.889968,53.517365]",FRHPC,Total Energies
+hirVFojEWzQSoXxzSJKo-4fRD_V0KHjJMrOAYw5YMVU,Hamburg,20249,Hamburg,Kümmellstraße 5,"[9.985129,53.590212]",DESNH,Stromnetz Hamburg GmbH
+hmUQ3y-2YwEsgXd0i3vNfsHMaigrEasZTkN8lMUS4zM,Hamburg,22159,Hamburg,Charlie-Mills-Straße 2,"[10.106291,53.592087]",DEHHM,Hamburger Energiewerke
+howM4lIPgd-CGOReD2l4edtLV7T4PI9h47XcDM0wccU,Hamburg,22453,Hamburg,Papenreye 11,"[9.95922,53.61236]",DEHHM,Hamburger Energiewerke
+hqpoWv_eBgw4X6qcMGp3xeGglhoOKnyg64s9rhuHX4g,Hamburg,22763,Hamburg,Am Rathenaupark 16,"[9.91272,53.55094]",DEHHM,Hamburger Energiewerke
+htAB1htx9ykpMbfWiz71nW4iH6VnFDZruXZq7q1RinQ,Hamburg,21079,Hamburg,Hörstener Str. 45-47,"[9.996764,53.452623]",DEMVV,MVV Energie AG
+i-hPiiyKuoXZATbb8isygk4UeKgXrw46hthJPNuif44,Hamburg,20099,Hamburg,Schmilinskystraße 80,"[10.01537,53.55745]",DEEZE,eze.network GmbH
+i0Zl4_GiEqaCe0eMpRnRo-frw3Y4n0tIDTL7a7fT5_g,Hamburg,20251,Hamburg,Lehmweg 27,"[9.979513,53.581802]",DEHHM,Hamburger Energiewerke
+i3nJY9fSHHYZ1q2YVTHHXk5kbLM4Ht_sJSDxktrcCoo,Hamburg,20357,Hamburg,Sternstraße 68,"[9.966901,53.559872]",DEHHM,Hamburger Energiewerke
+i605mpFAGxJ7x4ifPCwQQs1wn-e_Cj-Y_PXqh--C0dQ,Hamburg,22177,Hamburg,Bramfelder Chaussee 239,"[10.075123,53.613071]",DEHHM,Hamburger Energiewerke
+i6nPcydP-EIILim3Vtsk0bGK8f6WZS-yBdjtI_lsAi4,Hamburg,22335,Hamburg,Fehrsweg 25,"[10.020472,53.631111]",DEWLN,Wirelane
+iC7tS1QxqaiNamJfpHgnUtKN6eTb2Z6YFZt7q2MiLCw,Hamburg,22589,Hamburg,Osdorfer Landstraße 309,"[9.83506,53.574121]",DEHHM,Hamburger Energiewerke
+iK1D9FEaMCCaNqPeGVKrBkvAr_NaQONsV3xGYuJux8k,Hamburg,22117,Hamburg,Möllner Landstraße 105,"[10.118503,53.538171]",DEHHM,Hamburger Energiewerke
+iRStAxi2R4HysNNxx21Jt83bzNXhiOP9-uQ4CN9KBX0,Hamburg,22453,Hamburg,Borsteler Chaussee 49,"[9.981219,53.605472]",DELMS,LastMileSolutions
+iV7h61p6i7IS1AG5aVcRV-PQbeE0oAXfb9Xocdw0oYk,Hamburg,20259,Hamburg,Henriettenstraße 77,"[9.951946,53.575248]",DEHHM,Hamburger Energiewerke
+iYxtrrA5uoFHMDdR1AaUCjUl3Kt7iKCxRYr853qHjzs,Hamburg,22147,Hamburg,Raschweg 44,"[10.13874,53.61302]",CHECU,eCarUp AG
+iawonVL3BEHBJVWcNcqNiQF9xBpox5qbnV3N2OpmJXU,Hamburg,20253,Hamburg,Hoheluftchaussee 167,"[9.968065,53.585802]",DEHHM,Hamburger Energiewerke
+ieWB0pIvx3JvU78DEohpdJKoR1pfJKTS1NJD-rA2n5g,Hamburg,20354,Hamburg,Schenefelder Landstraße 76,"[9.8269,53.56676]",DEHHM,Hamburger Energiewerke
+ifdZat4_q1LN_b23T6dlARpdX40-C2JEqpog3I0pPqg,Hamburg,22415,Hamburg,Krohnstieg 116,"[9.99785,53.64837]",DEQRM,Qwello
+ikAgKBzhlb2q9FeTIsEZFbbhMs-xcc903sNq38i9Me8,Hamburg,22589,Hamburg,Op`n Hainholt 1,"[9.810157,53.580767]",DEHHM,Hamburger Energiewerke
+im4wv2KtKFK17-d-jLC9pD2d4I2nUJMCr_D97H9lsrU,Hamburg,20253,Hamburg,Gärtnerstraße 41,"[9.96681,53.582356]",DEHHM,Hamburger Energiewerke
+ioE87OeZnxX-M6y9VqMhpt0wjqFFdDCbeixWQFbxcy0,Hamburg,22083,Hamburg,Weidestraße 122,"[10.026846,53.581569]",DEHHM,Hamburger Energiewerke
+iqgkNDbJ_j6alU3iBmOahHGY-xNmNZZ-wIKUCNv2aKo,Hamburg,20359,Hamburg,Silbersacktwiete 11,"[9.9577,53.54782]",DEEZE,eze.network GmbH
+iwSlEHSr32lD6eFdzowG26NlvX1Pzg54Lps-LpCTz_o,Hamburg,20249,Hamburg,Loehrsweg 2A,"[9.987242,53.586283]",DEHHM,Hamburger Energiewerke
+j0HRdWAydoodfw7aLlwuhxSBztLFmgLSjX-8rkgYYmI,Hamburg,20459,Hamburg,Deichstraße 51,"[9.986546,53.545079]",DEHHM,Hamburger Energiewerke
+j2d8IDb7LMzO_Uh_bAH90z-T6QkC4myKUugNVH0OA7k,Hamburg,22549,Hamburg,Am Osdorfer Born 28,"[9.84325,53.57601]",DEBDO,Lichtblick
+j6Tka7OMmQW8lMPSVMx63WYAzNDBNx1Rj8lOaSxpw14,Hamburg,22767,Hamburg,22 Königstrasse,"[9.94405,53.54874]",DETNM,Shell Recharge
+j7OkpB2Mu6icBL7jowo4AdOS8tPphC8wX_oHDznwGOo,Hamburg,22043,Hamburg,Grabkeweg 6,"[10.13388,53.57139]",DEEZE,eze.network GmbH
+j7TwaMEd3J1YbifNmzQMUCYLgJeqDPrhk_xzl55HG_0,Hamburg,20097,Hamburg,Hammerbrookstraße 63,"[10.02326,53.548]",DEHHM,Hamburger Energiewerke
+jC2rb9yEoYpsriiQZtL9H9CBEb-yAS-ce5n7nkj6dl4,Hamburg,22527,Hamburg,Steenwisch 5,"[9.93703,53.58241]",DEEZE,eze.network GmbH
+jCbfYBicO1NAKYiV7lYOHakaJKSuTL_UIRp3FzdTbtI,Hamburg,22399,Hamburg,Poppenbütteler Weg 126,"[10.064677,53.649829]",DEBPE,Aral Pulse
+jETa2awRNgkD82VNU9d5YMVBdmXAmf3uY887OymEdqQ,Hamburg,22111,Hamburg,Horner Landstraße 40,"[10.07022,53.552643]",DEPOW,MOON POWER GmbH
+jEtYv4rX6FpoClRyJyRMs91VtT4VMVy16CWWNCXAglY,Hamburg,22045,Hamburg,Tonndorfer Hauptstraße 68,"[10.123031,53.585432]",DEHHM,Hamburger Energiewerke
+jG1LBq-D6ZHTv4ygYWuCEtnVDsqKxtYbcVVdvpLBD04,Hamburg,22769,Hamburg,Düppelstraße 23,"[9.94753,53.564369]",DEHHM,Hamburger Energiewerke
+jGE6RRUstVJ7AXkG33bDfppZg0a2_kcyuC4-LkTG7M4,Hamburg,22081,Hamburg,Vogelweide ggü 24,"[10.04138,53.57746]",DEUBI,ubitricity
+jHFphYH65WaPXyMmwYpC1sTlPx5LLYKvvdsUaFgPTZE,Hamburg,22143,Hamburg,Sieker Landstraße 126,"[10.190549,53.608176]",DE2GO,EWEGo
+jMViRphbSjBocaBObx0Xk5YlbBEZMKd4cm5bPojrYNA,Hamburg,21107,Hamburg,36 Hohe-Schaar-Str.,"[9.98066,53.48002]",DETNM,Shell Recharge
+jPg-YzmiggsMmNo6Dh01PPmqTGUXmXhZNqc45rU2wIo,Hamburg,22765,Hamburg,Am Born 6B,"[9.926485,53.553114]",DEHHM,Hamburger Energiewerke
+jRfqHJla1BdByqNaunsjSjmK0N5nV3gO_XHlT0K5ANo,Hamburg,21107,Hamburg,Eckermannstraße 1A,"[9.98948,53.51393]",DEHHM,Hamburger Energiewerke
+jT7mjWoCtrPQDE4792cKv2XQ0Vm8-PbHfuqYeGnBLTY,Hamburg,22453,Hamburg,219-1930 Kollaustraße,"[9.953782,53.612242]",DECPI,ChargePoint Germany GmbH
+jTWnw-1zIr28DeAOiRWAEbrM20xEYOB7kHOvwt96CYM,Hamburg,22589,Hamburg,Isfeldstraße 23,"[9.829322,53.569123]",DEHHM,Hamburger Energiewerke
+jTZjLNYVrBRDZI2YGo7CnKBtKsSFxASRFwRgnsJhQi4,Hamburg,22339,Hamburg,Butterbauernstieg 4,"[10.056761,53.649471]",DEHHM,Hamburger Energiewerke
+jXKNekY2pHCeVW4TEX7ur_uNn5EdF9kBFiDF9IdDUEc,Hamburg,22047,Hamburg,Walddörferstraße 432,"[10.107871,53.589826]",DEHHM,Hamburger Energiewerke
+jXyH02kaehJgsG7wzDkmkG5ZmqaWNZLDNsFSSe_fNW4,Hamburg,20259,Hamburg,Eppendorfer Weg 35,"[9.957755,53.570417]",DEHHM,Hamburger Energiewerke
+jg547A9fBtXykre53XhF2EHJtqcla_YDgeK-T7ea5wE,Hamburg,21107,Hamburg,Pollhornweg 25,"[9.985618,53.486894]",DECON,GP JOULE
+jiZVHj0SG9dJXaERCfHwcw_-XJPilm2h-ubo7DfTFYY,Hamburg,22525,Hamburg,Kieler Straße 399,"[9.929824,53.591348]",DEHHM,Hamburger Energiewerke
+jjr9VI2JVtjs3k8ZQK-0__4foK1UOwQfYqDQ3YBxRME,Hamburg,20357,Hamburg,Moorkamp 1,"[9.966547,53.569441]",DEHHM,Hamburger Energiewerke
+jnSu-dGhxgfmcn_x6EKT1hsGCVdD1hl0lajUhzPyWRk,Hamburg,22297,Hamburg,Überseering 10,"[10.026856,53.604371]",DEHHM,Hamburger Energiewerke
+jqIynjYG4BT5to7msbzNBogIQ32fDmLsnX_MLIxiFBI,Hamburg,22043,Hamburg,Jenfelder Allee 10,"[10.126199,53.57291]",DENNX,nonoxx pro GmbH
+jqbjr4TBYKCvDXzzwv3u_P0REnpRZ3oGf1UzTFEXqfs,Hamburg,22041,Hamburg,Auf dem Königslande 51,"[10.07899,53.581]",DEHHM,Hamburger Energiewerke
+juwxMGW8yKh5qzemGSjZ2N2i9voAUV5tWebxivwhxF0,Hamburg,20537,Hamburg,Anckelmannstraße 9,"[10.028864,53.552536]",DEWLN,Wirelane
+jzySkdpvhb4EF21olUQZYUdB7Av2ND4MiLqbi71e97w,Hamburg,21077,Hamburg,Binnenfeld 22,"[9.9609,53.4412]",DEHHM,Hamburger Energiewerke
+k-RiLAnw7YD8YYCsb_PuQxw7scWMuVSBIsv_mh5F0JM,Hamburg,22767,Hamburg,Große Elbstraße 61/63,"[9.94275,53.54402]",DEAPC,E.ON Drive
+k6zF5Pmvx5iLJv72OtzJ-YxzunJkAlRcwSKTpVQuq3E,Hamburg,22335,Hamburg,Maienweg 245,"[10.025266,53.622299]",DE199,NWG Charging GmbH
+k9f16eSEHxRlJhWjNin89mF7Df_lh3fI0bU5A-yECdI,Hamburg,22419,Hamburg,Neubergerweg 92,"[10.014079,53.667853]",DEHHM,Hamburger Energiewerke
+kAng7uNZdUznqkSaDIk61wpQOe_bUH7IeV09jgYwb3k,Hamburg,20144,Hamburg,Kippingstraße 29,"[9.97284,53.57049]",DEEZE,eze.network GmbH
+kEA1rM281wh7u210ZKkDchI_2mEKKQOkIC7arYlhVBQ,Hamburg,20257,Hamburg,Sartoriusstraße 17,"[9.94234,53.579836]",DEHHM,Hamburger Energiewerke
+kEtoa6mRSdtDHfHr7mCNBDbMSC3q30yTA4UvngKtm24,Hamburg,20359,Hamburg,Zirkusweg 12,"[9.967543,53.548362]",DEHHM,Hamburger Energiewerke
+kEzihMuFOOTFqBMVW8N49XUx1OxHWZgXE4Uo493eUoo,Hamburg,20535,Hamburg,Burgstraße 12,"[10.04033,53.55625]",DEHHM,Hamburger Energiewerke
+kHOZ8SAxeH1KT7k-9rX3Ch93DMACQes6lUUAUVm_2p8,Hamburg,22041,Hamburg,Wandsbeker Zollstraße 95,"[10.081167,53.576947]",DEEBW,EnBW
+kJtsfvLO265XavRdJiFze273R7RM5zjGyQ167hQLa2s,Hamburg,22143,Hamburg,Merkurring 41,"[10.164369,53.606388]",DEWM1,Stadtwerke Waldkirch GmbH
+kNMmcovvuSuwhtyGHU10DLHIp3Qa4Jx_VAprqHzuNJc,Hamburg,22335,Hamburg,Weg beim Jäger null,"[9.99686,53.62118]",DEVAT,Vattenfall
+kP1pql8d3IUn89mEt6EorMjr67MJ1Vt7d90YVBRtH98,Hamburg,20144,Hamburg,Klosterallee 55,"[9.979631,53.57849]",DEUBI,ubitricity
+kSC7nk-BA1KZq-5Gv5071Q--SIewJ9V_gtU6yfZwn7s,Hamburg,22179,Hamburg,Lohkoppel 5,"[10.079407,53.610055]",DEHHM,Hamburger Energiewerke
+kTXvPexSTUTp8v_8zWnA6-CoIY0Ap9Xw99ku5DGIS1A,Hamburg,22523,Hamburg,Holsteiner Chaussee 151,"[9.90702,53.6213]",DE911,Porsche
+kWxJ2nqlXAKFSGuIFEX0xT6_ADBBepcuQzLJML9se9s,Hamburg,21107,Hamburg,Vogelhüttendeich 41,"[9.98581,53.51801]",DEHHM,Hamburger Energiewerke
+kXM4rNdlBkjQYlEdU1A2b5U1tj2cO3QxZCa55ErYmfk,Hamburg,22119,Hamburg,Kroogblöcke 44,"[10.09558,53.55242]",DEHHM,Hamburger Energiewerke
+kY1NrJ0EDVCnhRh8awB14rOgFYfxyAy_-bgh2dBB6w8,Hamburg,22339,Hamburg,Barkhausenweg  1,"[9.341571,49.816438]",DEOMS,OMS E-Mobility GmbH
+kZG81DPzu8zBQ801aaCNhjwbmcYm8YKIZKLcG2IC2qE,Hamburg,22087,Hamburg,Armgartstraße 14,"[10.019963,53.565213]",DEHHM,Hamburger Energiewerke
+kkUIIU_dqGEGm1fz6jmrStA0_Felo6u2AsKBE4i_AFM,Hamburg,20354,Hamburg,Alsterufer 17,"[9.9968,53.560778]",DEHHM,Hamburger Energiewerke
+kl-FrwN0FBw-wMKCxSYF3unQKg9sqAGdBBxDymkfNYo,Hamburg,20357,Hamburg,Weidenallee 21,"[9.965226,53.566476]",DEHHM,Hamburger Energiewerke
+ku0LcCVoj0sWLUGWMbCn-3_dw4JI1q6XdWfUu_lBAg8,Hamburg,22297,Hamburg,Maienweg 77,"[10.009713,53.615471]",DESWD,Stadtwerke Düsseldorf
+kwJUmmHSLkq7RRSEbsINWAeYl8eiHn9StBQrdIDNg5s,Hamburg,22083,Hamburg,Weidestr. 122c,"[10.027503,53.58184]",DEALL,Allego
+l0P0T6PKTRMZVecH2vyyA4Js1bDMOCX2h5n96kztyvg,Hamburg,22089,Hamburg,Wandsbeker Chaussee 56,"[10.03861,53.56599]",DEEZE,eze.network GmbH
+l3nkA1OWBQBQafN9XuKKjIEfvlB2-AnKg1ac3ELqHHY,Hamburg,22359,Hamburg,Groten Hoff 14,"[10.16271,53.6476]",DEEZE,eze.network GmbH
+lC_JXXvjf0G3jTECmwASMSjy3qEC5vAy8NdPyvKgFeE,Hamburg,21077,Hamburg,Bremer Straße 300,"[9.936119,53.438596]",DEBPE,Aral Pulse
+lJlQ0Hv4osMajBLBJQuxJxntuPu8y017Mb5WA3VIRVU,Hamburg,22587,Hamburg,Godeffroystraße 48,"[9.812703,53.56236]",DEHHM,Hamburger Energiewerke
+lLiX7EIGkpKRZApmAW7KE6bey34EfXjGh85lgKtRtMY,Hamburg,22303,Hamburg,Gertigstraße 60,"[10.017871,53.582747]",DEHHM,Hamburger Energiewerke
+lPjlecmESf8JPe1NyIirgx07CQ_JjqELnWkQr8Xqn2M,Hamburg,21031,Hamburg,Rappoltweg 3,"[10.19864,53.51011]",DEEZE,eze.network GmbH
+lPvxTb5NKt_ZzIE80bOo07SyDoH3g1k1m8W9JMS1CnM,Hamburg,22453,Hamburg,Willhoop 7,"[9.96535,53.61189]",DKMON,Monta ApS
+lR0d4lzChPqEFOprPDanEcsHdNjAsXdFgdCwsYzKpiQ,Hamburg,22529,Hamburg,Lokstedter Steindamm 75,"[9.968375,53.589264]",DELMS,LastMileSolutions
+l_L6nDAsP_8kkpJk6ri9sjVVPVysquG2K5IUaN_Dd2c,Hamburg,20253,Hamburg,Unnastraße 48,"[9.958638,53.579777]",ATHTB,Chargepoint
+l_NgHR8lGSCYVe7kGWbZDaSEiX_7_bQen5nnZayezdM,Hamburg,22147,Hamburg,Hermann-Balk-Straße 124,"[10.14073,53.62558]",DEHHM,Hamburger Energiewerke
+l_f7h6sepQUyYsV63wWIpWdDXBHcbju9tj1n-IF59tA,Hamburg,22525,Hamburg,Jacobsenweg 4,"[9.913423,53.595609]",DEHHM,Hamburger Energiewerke
+lanwUlpYRwp--P5EIKxkKu5RT2pRbxVzYMfO4zE1ogg,Hamburg,22763,Hamburg,Jürgen-Töpfer-Straße 1,"[9.901092,53.558643]",DEEDR,E.ON Drive
+lempWDDnlYoWzy1EgIDWL5yEV9pJX8BzZT6OzPtAapY,Hamburg,22177,Hamburg,Bramfelder Chaussee 136,"[10.073808,53.603927]",DESNH,Stromnetz Hamburg GmbH
+lfcgYZIrLPNFeEjKUkBQq00mhXL42Svq0IMus_6oj8g,Hamburg,22159,Hamburg,Neusurenland 103,"[10.1139,53.61646]",DEHHM,Hamburger Energiewerke
+lj8bmF1ntZZoc300tFk4nZr2_Et2vzQ4Uc1ENSTZ7Og,Hamburg,22529,Hamburg,Beiersdorfstraße 19,"[9.957909,53.582407]",ATHTB,Chargepoint
+llMB13U3W1xE9l2wvIZulrBvAKz-jCkKW0GaTVQMouA,Hamburg,22765,Hamburg,Arnoldstraße 45,"[9.92568,53.548827]",DEHHM,Hamburger Energiewerke
+lmPERiGZLqO0zOQi58OOuMacFIx548DBdavKNVHhw4A,Hamburg,22085,Hamburg,72 Winterhuder Weg,"[10.02336,53.57398]",DETNM,Shell Recharge
+lozZ9oEkZbzVNwlb47RbGn6sK2dfrlA20NB4hGHO5Ns,Hamburg,22767,Hamburg,Schumacherstraße 109,"[9.9426,53.555109]",DEHHM,Hamburger Energiewerke
+lwizd_leHOSacZVWIRQAloSL6-Wgq5mMlbX_rZdFiyY,Hamburg,22047,Hamburg,171 Friedrich-Ebert-Damm,"[10.10034,53.58953]",DETNM,Shell Recharge
+lyjipsNFVb8U3jsQTMA8iiv8fi6p4qtmoTkn17QREtI,Hamburg,20357,Hamburg,Bei den Kirchhöfen,"[9.980114,53.559634]",DE455,Hamburg Messe und Congress GmbH
+m2xFMVPRcpDaxAvTImfDca8-sWn49xycqbMg7H1z-QU,Hamburg,22335,Hamburg,Erdkampsweg 20,"[10.024542,53.62824]",DEHHM,Hamburger Energiewerke
+m81328xqL8MHky-ZxVJ2RYYYlI3l3rxzLr8-MMiCeWw,Hamburg,22081,Hamburg,Dorothea-Bernstein-Weg 9,"[10.033551,53.570199]",DEHHM,Hamburger Energiewerke
+m9DCcaGdRmTGPEdz0HvtcN8Um7gkrWmZ6gj-Hf2Ni7s,Hamburg,20097,Hamburg,Högerdamm 29,"[10.0131,53.54638]",DEWLN,Wirelane
+mBsJIvLu_aQk6yFHp6CEasQc8rLIvloDnEV9bq6zxdQ,Hamburg,22609,Hamburg,Hemmingstedter Weg 140,"[9.857177,53.564041]",DEHHM,Hamburger Energiewerke
+mERmRMpxypbyHmNcvLkFxOdL7Ef0hF-HuXEvW7A9INA,Hamburg,22087,Hamburg,Ifflandstraße 22,"[10.022487,53.560437]",DEHHM,Hamburger Energiewerke
+mFiM8B8ArfTeU5PJjvW3k90_BfYY6qPc8nAPxP2Nmk0,Hamburg,22339,Hamburg,Barkhausenweg 1,"[10.059548,53.648473]",DEOMS,OMS E-Mobility GmbH
+mGJIa22r-aKT6ZePQhASet0pt28jj9wXHYRmGXvo0KQ,Hamburg,20459,Hamburg,Neuer Steinweg 3,"[9.979177,53.550423]",DEHHM,Hamburger Energiewerke
+mHMIOOltfaKwEkwsAtt3aM7wnZkfVxhp1pR_SVwFq7Y,Hamburg,22085,Hamburg,Herderstraße 39,"[10.01892,53.580014]",DEHHM,Hamburger Energiewerke
+mX8zXFog10sPwNsH155wS9faByl6yJbaaOZaB3aGWWk,Hamburg,20097,Hamburg,Kurt-Schumacher-Allee 10,"[10.01809,53.552208]",DEHHM,Hamburger Energiewerke
+mlLzQTDr7Glant-TR9NKMqBCrWPOQraXSD-YJK-CM1c,Hamburg,22309,Hamburg,55 Steilshooper Allee,"[10.05174,53.60902]",DETNM,Shell Recharge
+moG1LC4-nKQLb9SY0CO3T1VoMjodrMhGbfCBUYYEOHY,Hamburg,22455,Hamburg,Vielohweg  ggü 89_2,"[9.943142,53.63905]",DEUBI,ubitricity
+mwn9pWw0hSC_ZVTfybCYgu8LX0Gec4tpWNdVDY4gUm4,Hamburg,20144,Hamburg,Schlankreye 40,"[9.977193,53.577111]",DEHHM,Hamburger Energiewerke
+n2GHQMYEkMhV8vYBOdVQKzX-F6dRIft1MqRucjNjvVc,Hamburg,22559,Hamburg,Adebarweg 41,"[9.74521,53.58344]",DEEZE,eze.network GmbH
+n2in5oxLAXwudQrkJQcoSsE7FREDfKeqEfI4J-7XP_Q,Hamburg,20357,Hamburg,Karolinenstraße 27,"[9.97551,53.55953]",DEEZE,eze.network GmbH
+n8sRY73f88R00-aOBr4ft40OeZbQLKH226E8iR_EZUg,Hamburg,20095,Hamburg,Hermannstraße 13,"[9.997049,53.551916]",DEHHM,Hamburger Energiewerke
+n9RTMeDTsEWX-6BkZa_9_QtQDavOllE1OfbcUXbUKDE,Hamburg,20459,Hamburg,Heiligengeistbrücke 2,"[9.986612,53.548721]",DEHHM,Hamburger Energiewerke
+nABjlt01N89rZLwO1tvjTRVX4hfup2Yd7M8sI5IWPJg,Hamburg,20149,Hamburg,Hansastraße 2,"[9.992433,53.57435]",DEHHM,Hamburger Energiewerke
+nCNFrbabZPtMzMOgIPLVu5NigCQwdyG1m25SdTDJyi8,Hamburg,21073,Hamburg,Göhlbachtal 36,"[9.965975,53.454496]",DEHHM,Hamburger Energiewerke
+nDeUsH0DbNv-OMuJgAayGBtbIlQiJ52rs2WQCVvPsh8,Hamburg,22111,Hamburg,Rennbahnstraße 26,"[10.08467,53.55316]",DEHHM,Hamburger Energiewerke
+nFMnoQ44jntSldXhPYbwidvdb4FPaS5Wz36SpBOUX6k,Hamburg,21149,Hamburg,Neugrabener Markt 9,"[9.851481,53.46977]",DEHHM,Hamburger Energiewerke
+nMGUzzBwaaxMzehPzopk6aq9EdWMSDf44p-YB4RVVKc,Hamburg,20457,Hamburg,6a Hongkongstraße,"[10.00137,53.5424]",DETNM,Shell Recharge
+nNwaUCv7YHw9Gme_ijnU9htbfHfsxIjPugPIvexO_A8,Hamburg,21035,Hamburg,Rahel-Varnhagen-Weg 77,"[10.17106,53.48822]",DECCH,Comfortcharge
+nPBsnkc4YSYbWL7VKjgNf5hj6PdW0RoZNir5gNuX460,Hamburg,21033,Hamburg,Am Gleisdreieck 10,"[10.133159,53.494845]",DEHHM,Hamburger Energiewerke
+nPyy6PRJmvqwdVqfRjDE8iNZ2j4Oco9tdIA0ZfK0jFs,Hamburg,22399,Hamburg,Langenhorner Straße-Ost 7,"[10.07455,53.66376]",DEHHM,Hamburger Energiewerke
+nT6CnBgr56o0VlO1Yl-EEXGxrHZkl4flVZfygV1tK7w,Hamburg,22525,Hamburg,Kieler Straße 310,"[9.934494,53.585391]",DELDL,Lidl
+nXMrt5MtnRDXDLbJ9l7uide_8cj098QFR5dzTbqNopM,Hamburg,21073,Hamburg,Wilstorfer Straße 58,"[9.986262,53.45606]",DEHHM,Hamburger Energiewerke
+nYftFS4YXKgBO_vxt0tZwvZNPmrBDqDfxsI0pmGxjcQ,Hamburg,21033,Hamburg,Billwerder Billdeich 605,"[10.18272,53.496444]",DELAD,Ladegrün! eG
+nZ8sZOC5AzWfJOFTwye0CrR3jC931lk6bi3_N1bckp0,Hamburg,21073,Hamburg,Buxtehuder Straße 62,"[9.97009,53.46764]",DEPWA,Pfalzwerke AG
+n__ZkgNlSmmEKPdwTGc6DyWr0MWOWs6kIR6dSHPDiI8,Hamburg,22143,Hamburg,111 Merkurring,"[10.189114,53.606755]",DECPI,ChargePoint Germany GmbH
+nfRNKuBUOfcJ1ZQGS1ZwGOkSQN5Q-DZnwOKUAw4WQHM,Hamburg,20459,Hamburg,Englische Planke 16,"[9.978159,53.547784]",DEHHM,Hamburger Energiewerke
+ngJyudUVkjBiyh_pNLeuhCV8RGYVJ2jD-jUwWhyebq8,Hamburg,21073,Hamburg,Großer Schippsee 18,"[9.98337,53.460619]",DEHHM,Hamburger Energiewerke
+ng_4poRXk-7Lz2qR57z60o_VemXYANxIUTJSjSHt4KM,Börnsen,21039,Hamburg,Zwischen den Kreiseln 7,"[10.287948,53.485195]",DE722,e-werk Sachsenwald GmbH
+nhu3wj88GUWcFA4qLat6a9BWVAKeseRcRzHYG9LY4PM,Hamburg,22083,Hamburg,Beethovenstraße 4,"[10.022118,53.575458]",DEHHM,Hamburger Energiewerke
+nixW4DTwbsCdk9M1G3eYmJjjNaDKSThS6jXRNtVzUKc,Hamburg,22309,Hamburg,Fuhlsbüttler Straße 431,"[10.03829,53.60787]",DEISE,vaylens GmbH
+nnjEsBlGVf41RHN12CDqv57x_cgbgdL3QuKKcIvOjd0,Hamburg,22761,Hamburg,Stresemannstraße 329,"[9.925673,53.564052]",DEBPE,Aral Pulse
+npMwqqY_YMjkOPUycfZj4mj1JyGk8F0QW9HR13nKsEI,Hamburg,22453,Hamburg,150 Weg beim Jäger,"[9.995242,53.618034]",DECPI,ChargePoint Germany GmbH
+nrdT8VS2tk2d3mwO6ziYx_ge2PXKZtkI-QdoMSeQjuw,Hamburg,22089,Hamburg,Ritterstraße 11,"[10.044675,53.56812]",DEHHM,Hamburger Energiewerke
+nsQYZ9ER-AYZGXZUvmDw1xXvFtRJMmYWgYaG3-70J98,Hamburg,22587,Hamburg,Blankeneser Bahnhofstraße 4,"[9.811395,53.558728]",DEHHM,Hamburger Energiewerke
+nzwVy9WV9oxP0PgQtFU8MP88N53LmrWoYrXAKsQ1kE8,Hamburg,21149,Hamburg,Neugrabener Markt  9,"[9.851481,53.46977]",DEHHM,Hamburger Energiewerke
+o0x7OadtAGgePb7hCB7r6EAcD5F2pwhMHY_QEe8PrM4,Hamburg,21035,Hamburg,Walter-Rudolphi-Weg 16,"[10.157795,53.489639]",DEHHM,Hamburger Energiewerke
+o1ElmpXi8ZqNet79s9BzksAFIkVUEAU1o2S3HXedq2Y,Hamburg,22087,Hamburg,Lübecker Straße 2,"[10.0251,53.55764]",DE911,Porsche
+o53pMI8CydU7ct3y6xmCimJ1QPSZ260rk3ceoCMxWjM,Hamburg-Hamm,20537,Hamburg,Ausschlägerweg 49,"[10.03698,53.55023]",DENIS,E.ON Drive Germany
+o94682niqFLtyA9Xs86_IesYWvCZAAL6MsixE4VXvdQ,Hamburg,20249,Hamburg,Isekai 22,"[9.994194,53.585722]",DEWLN,Wirelane
+oBC3fUY6vf41A2h_n-ijrGJa-T7Hgzp74ZCnSoc_O4s,Hamburg,22359,Hamburg,Henseweg 29A,"[10.141936,53.672905]",DEHHM,Hamburger Energiewerke
+oDveQGsOrEmsqtd-Jp8Pmn6EFm89XWkV58CvvGR3ysk,Hamburg,20099,Hamburg,An der Alster 9,"[10.014001,53.561198]",DEBDO,Lichtblick
+oGR7ElPC6PDu7HzZAlIxqnD-ANeqxB8jGPp6Uph2e7g,Hamburg,22587,Hamburg,Schenefelder Landstraße 47,"[9.82629,53.56491]",DEEZE,eze.network GmbH
+oNsYq5qXSAFmcr0zfb6TA4NDrpLRwhPcGKuLc2x2sBU,Hamburg,22761,Hamburg,Theodorstraße 1,"[9.896783,53.565867]",DEJEG,Jolt Energy
+oSSem6sNGEbCumt20X8ZzULaqMH7-z5jFdY48tUKyj0,Hamburg,22549,Hamburg,Grandkuhlenweg 11,"[9.870533,53.584213]",DEAMP,amperio GmbH
+oT-x3kstUUHCKjcG4h45jiWYVM-iNcbqwtGeH75UDc4,Hamburg,20457,Hamburg,Großer Burstah 1-3,"[9.991214,53.548302]",DEEDR,E.ON Drive
+oT2pXx6rIvPekpOoJ9CZJgvb5e0XsaWs6OICKlYdbOM,Hamburg,22529,Hamburg,Osterfeldstraße 39,"[9.97246,53.59843]",DEEZE,eze.network GmbH
+oVd9QaUbI3pXXKScRlq4JAAK6FQah87if1Eltxhf1gY,Hamburg,22047,Hamburg,Am Stadtrand 52,"[10.0985,53.591]",DEHHM,Hamburger Energiewerke
+oWKSlMpeMU77N4_oMFwehaVMuhOk8GJraBAo5cuWA-c,Hamburg,21073,Hamburg,Neue Straße 26,"[9.97976,53.46256]",DEHHM,Hamburger Energiewerke
+oXGxvkOtdK91-rSppUFXn0V7_-glX0hpJsPdvsnnK4k,Hamburg,22397,Hamburg,Puckaffer Weg 1A,"[10.104957,53.708282]",DEHHM,Hamburger Energiewerke
+oYwUGwBh-qk4Ay1WSE4BbJ8Lfa6HCnoX4NhlIAzU9pM,Escheburg,21039,Hamburg,Am Soll 1A,"[10.311743,53.472003]",DE722,e-werk Sachsenwald GmbH
+oZXoGstqxwH_jA-kyUD4iW4MjwwljzK8-DxADwglaPM,Hamburg,22589,Hamburg,Schenefelder Landstraße 190,"[9.823446,53.575649]",DEHHM,Hamburger Energiewerke
+oaIgkV7ALsvWDNjABUIXHEunJqgSHNqsfig2Vo3Cw6o,Hamburg,22041,Hamburg,Schloßstraße 8A,"[10.065265,53.571189]",DEHHM,Hamburger Energiewerke
+odPz9N8cZSfQIFLm7hHnJtq335MStxNO3ajOky7Z8Cc,Hamburg,20357,Hamburg,Schanzenstraße 34,"[9.9653,53.56076]",DEEZE,eze.network GmbH
+of6-iGtA7GTJ0cgnFNu4_pi2SuY8P4qSfRyU0eHE5C8,Hamburg,22335,Hamburg,LH Basis G450 null,"[9.98185,53.61812]",DEVAT,Vattenfall
+of9VGjWNHCpT62e41IVhcBAyeCLQZtXtezD4lKDubno,Hamburg,20457,Hamburg,Am Sandtorkai 50,"[9.994038,53.543101]",DE199,NWG Charging GmbH
+ogSnAGHZeliIlsbXxZq23cYAoLByJeNg5AA3oBmaOnM,Hamburg,22081,Hamburg,Dehnhaide 57,"[10.046652,53.579101]",DEALL,Allego
+ohgl1H3H5CusM6q-MYkTczjqWL-77vGSn7tvx9pc5Sk,Lehfeld,21029,Hamburg,Lehfeld 2,"[10.207098,53.480238]",DE2GO,EWEGo
+okOkEgB9N0AeqQVyRFNzntSsPIWMsdOgWuKUT1eVgQM,Hamburg,20257,Hamburg,Faberstraße 23,"[9.944263,53.575334]",DEHHM,Hamburger Energiewerke
+okdQtrN5naQFkAcu_pY4neW08WAfOyrQTjUf1mwv4vw,Hamburg,21149,Hamburg,Cuxhavener Straße 382,"[9.846235,53.473507]",DE2GO,EWEGo
+onGoXWB-SeAQbBMJ6mwf6xXRxMtl3q-6SGZFuivGkog,Hamburg,20359,Hamburg,Lange Straße 6,"[9.956247,53.547277]",DESNH,Stromnetz Hamburg GmbH
+orYZGiDmz4dSvwCuHPQDeUY8eHW85mRUa1mDmd_RDx4,Hamburg,20097,Hamburg,Recha-Lübke-Damm 31,"[10.01353,53.54646]",DENMS,SWN Stadtwerke Neumünster GmbH
+orclPhIpBpkNb27GRFSLnh6RRDBL3D0bzvvQiJVmin8,Hamburg,20537,Hamburg,Beltgens Garten 1,"[10.043422,53.555107]",DEHHM,Hamburger Energiewerke
+oyIbOMwV_4skVgVbQiXiGOdNAbTJmxczhkgrqb1HUfE,Hamburg,20149,Hamburg,Oberstraße 103,"[9.989339,53.577713]",DEHHM,Hamburger Energiewerke
+p-CTD905Qrud0oZw5SOhGCw5xf-Rpz4qz_rseNmhXns,Hamburg,22049,Hamburg,Friedrich-Ebert-Damm 40,"[10.077871,53.584471]",DEHHM,Hamburger Energiewerke
+p1-sP5FxJPudQLKL6T-MEl3FJgTgUBseKQSkBKYUw84,Hamburg,20099,Hamburg,Beim Berliner Tor 2,"[10.023596,53.553113]",DEHHM,Hamburger Energiewerke
+p3S8L-s7dct1QCppR8rkWOuXmNnbLFgGC6y-WHo0l14,Hamburg,22399,Hamburg,35 Harksheider Straße,"[10.07905,53.66273]",DETNM,Shell Recharge
+p4-DmRfl7nQ78_qoOO2z7WfHpGpkkpoP-LqNJiiM_H0,Hamburg,22111,Hamburg,Am Schiffbeker Berg 6a,"[10.092252,53.542346]",DEALL,Allego
+p7S2CU2b_NmlXXDNb19U1Eb5btMUSXlqel7TbRa-jH0,Hamburg,22453,Hamburg,Kollaustraße 128,"[9.95758,53.61127]",DECCH,Comfortcharge
+pCAaT9byW12NX4hud0z2LUzoWvBfv7nuPmPRs-bHfLc,Hamburg,20149,Hamburg,Hansastraße 28,"[9.98654,53.57434]",DEHHM,Hamburger Energiewerke
+pHje9aq7UngpsAQbwP6ySCr1JatVvAnS_tIE8SJc9hI,Hamburg,22175,Hamburg,Am Stühm Süd 69,"[10.098722,53.624472]",DEWLN,Wirelane
+pHr7fjgLNFMT-Yq2p_BSdG-_q1HVcUSthNswqHBFmc4,Hamburg,21149,Hamburg,Cuxhavener Straße 361 -,"[9.84762,53.47248]",DETNM,Shell Recharge
+pIKi3mWyuXqyLEErKUTxGCIwOS0iuke3AdDorkuodLs,Hamburg,22417,Hamburg,Holitzberg 145,"[10.026788,53.675117]",DEHHM,Hamburger Energiewerke
+pO1RVLydMFYKt-0qdqRa_9VufLOF7CSbsvMF_v6ZEys,Hamburg,22043,Hamburg,Gustav-Adolf-Straße 9,"[10.085138,53.571722]",DEWLN,Wirelane
+pQ4jgccOEBiB0k_uCZc8LsOF7sFBo5Y0g6Kp89-QKds,Hamburg,22523,Hamburg,Holsteiner Chaussee 49,"[9.90586,53.61414]",DEPWA,Pfalzwerke AG
+pR9eGmb4lbrO0VUoVJzvM-EceA17SKnIm-DURBfmEUw,Hamburg,20255,Hamburg,Schwenckestraße 62,"[9.950637,53.578434]",DEHHM,Hamburger Energiewerke
+pRre2_GFwObpWjjBj2XVrT9tnCsYkEh-70dreDPHv9Y,Hamburg,20097,Hamburg,Frankenstraße 35,"[10.026124,53.549478]",DEHHM,Hamburger Energiewerke
+pSYX_KUifH98ea0rwFq9EUfALrrS3Hm5rrDoM6Xhxyo,Hamburg,22457,Hamburg,13 Burgwedelstieg,"[9.913303,53.644419]",DECPI,ChargePoint Germany GmbH
+pTOg1zVz0AYIWbGar0DLWL2yqLjIsN4TCxhVIu5GZNc,Hamburg,21031,Hamburg,Wilhelm-Bergner-Straße 13,"[10.21075,53.49276]",DEEZE,eze.network GmbH
+pa_bSnT2QVIJ8hlXItlrpBW6tlx-0h7tM59xPRiL2eU,Hamburg,22523,Hamburg,Furtweg 1,"[9.905861,53.602769]",DEHHM,Hamburger Energiewerke
+pd3bi5wEpZojKSwLastIoQdg_xpTF-3riP368J-B6EY,Hamburg,20354,Hamburg,Dammtorwall 5/7,"[9.98695,53.5574]",DEAPC,E.ON Drive
+pkoLIsK14JbAM6Od2jVF0E2txbFMgvuomlya0JGfKfc,Hamburg,21079,Hamburg,Karnapp 25,"[9.98476,53.46322]",DEHHM,Hamburger Energiewerke
+ptHnBWBZllon2tKkZgncRcTIzdBKwGiZ-cMPMDxXHp0,Hamburg,22393,Hamburg,Meiendorfer Mühlenweg 6a,"[10.122293,53.644498]",DEBPE,Aral Pulse
+ptTWWC7TPnaxNq22MUFAnIvmc1byEqWpyfxb1StyFkE,Hamburg,22335,Hamburg,LH-Basis P083,"[9.997537,53.622445]",DEVAT,Vattenfall
+puopAjpgcPg5tRUasyluwe5v3mA2k5CtOAE13h47E7g,Hamburg,21129,Hamburg,Köhlfleetdamm 5,"[9.89206,53.53369]",DEMDS,Mennekes
+pvLyNZGzEbUcVa51LWn2AEe8pJJcLs8gnHehKyJ75Bs,Hamburg,22529,Hamburg,Gert-Marcus-Straße 7,"[9.97249,53.60358]",DEEZE,eze.network GmbH
+q-Yjb-zLNsN4onxCNKLoQn4DAytXoBx7KeImM37PzWU,Hamburg,22529,Hamburg,Nedderfeld 112,"[9.983126,53.60114]",DEHHM,Hamburger Energiewerke
+q04658qNpUkjyfwwn0vmu56rVMz9nXkYwBh1Xj0bATk,Hamburg,21147,Hamburg,Striepenweg 29,"[9.880769,53.47358]",DEEBW,EnBW
+q2Vju23JYCEOTr6KiFGf0mk1oascDgQMUi0teha9Xwc,Hamburg,21129,Hamburg,Neßdeich,"[9.823784,53.544537]",DECPI,ChargePoint Germany GmbH
+q7ZuUiNybyO22SABJRL5mSWREQQf-S4KM2o0X0WHtGE,Hamburg,22085,Hamburg,Heinrich-Hertz-Straße 55,"[10.02064,53.57244]",DEEZE,eze.network GmbH
+qCah4sS7njQMq-Tjzq29i1EgKddvDzF0wXtTO4Sf_Tk,Hamburg,22763,Hamburg,Neumühlen 14,"[9.92062,53.544545]",DEMVV,MVV Energie AG
+qEDxSFFOt2Efn2fOC5gpU5JRx8blwjYPo1SI0O17Ttc,Hamburg,22761,Hamburg,Beerenweg 1a,"[9.921949,53.564635]",DEWLN,Wirelane
+qGtHiL0WBlqd5Inq-4U8zWT-XDMT6X4st3jQIOqe8U4,Hamburg,22111,Hamburg,Tribünenweg 1,"[10.08055,53.55973]",DEEZE,eze.network GmbH
+qH4UUPlabPgLbZfzwL8_qeu9leq21snHGvbyUrsk9Xc,Hamburg,20095,Hamburg,Johanniswall 2,"[10.0048,53.5497]",DEACO,APCOA Deutschland GmbH
+qHm1T6Nz01wic1eZpugPiF_vDS6NgXlhJp0TQD_vm_I,Hamburg,22529,Hamburg,Offakamp 10-20,"[9.972104,53.601072]",DEDES,Total Energies
+qKQ2pRvU3-_BVrUEAB8-LDqJeQY3goLTSGFM_pwpK8k,Hamburg,22767,Hamburg,Große Elbstraße 63,"[9.94272,53.544202]",DEWLN,Wirelane
+qOZGT4N71R5QcbK2rG0W-WeBBd6z8F0XsJep0usAiig,Hamburg,21107,Hamburg,Veringstraße 173,"[9.98539,53.50427]",DEHHM,Hamburger Energiewerke
+qX02x09hvO4X6te_Z4xzLogXfdnRTX6vdA2SnVfvGtg,Hamburg,20146,Hamburg,Gneisenaustraße 1,"[9.970213,53.577105]",DEHHM,Hamburger Energiewerke
+qX9epHtT-qKvZuHQy4RzglXfsVtb4mk2LVmRQ7wbNPw,Hamburg,22115,Hamburg,Kandinskyallee 11,"[10.149511,53.524987]",DEHHM,Hamburger Energiewerke
+qY2v__9rqR-2Iqul6xO_P-VoMXuOnHREUKuB07B43_Q,Hamburg,22459,Hamburg,Wählingsallee 15,"[9.91897,53.631518]",DEHHM,Hamburger Energiewerke
+qc083IKpz5ln2fOxpyb3PDQhTp9Px5t0hOTC5Da80V4,Hamburg,21149,Hamburg,Ringheide 58,"[9.84775,53.463722]",DEWLN,Wirelane
+qcPRbbaRUKjCKhMMQyaq1BrtpEIRNubO7NzlPvbkKMM,Hamburg,20355,Hamburg,Düsternstraße 10,"[9.98431,53.55]",DEHHM,Hamburger Energiewerke
+qdkl4ezIdGkp3DSdipP-paYRWkACssQAGzrCp2sSxxo,Hamburg,21149,Hamburg,Cuxhavener Str. 380,"[9.846502,53.472996]",DECKE,Couche-Tard Deutschland GmbH & Co. KG
+qitjgUVTzqv3WoAdjEaKrqegYxOe6uJF2h0nCMa16mk,Hamburg,20535,Hamburg,Carl-Petersen-Str. 5,"[10.04096,53.55961]",DECCH,Comfortcharge
+qpqzVosR9CWakCvoBp6icD8NZo_Obk5fgm_0XQa_83o,Hamburg,22359,Hamburg,Wiesenhöfen 2,"[10.16744,53.64878]",DEHHM,Hamburger Energiewerke
+r06ltNQByaNI8VyPVKd8WHVFchX3zlMSdfX7QsIYi5k,Hamburg,22335,Hamburg,LH Basis G223,"[9.99213,53.6206]",DEVAT,Vattenfall
+r2jNJ4CI19S4PKjz8jngSlODqFPxMC-tGBCui3WAcXs,Hamburg,22549,Hamburg,202 Osdorfer Landstraße,"[9.850662,53.572863]",DECPI,ChargePoint Germany GmbH
+r30zACOjjLEtdnCFfSv-OkyX1fUeyE6HBaDXJSbAcCY,Hamburg,21107,Hamburg,Veringstraße 173,"[9.98539,53.50427]",DESNH,Stromnetz Hamburg GmbH
+rLAdb2sUwl0yAn-CmKFVPZmhMNxnQtN5x8CDaI2ep84,Hamburg-Nord,22419,Hamburg,Oehleckerring 9,"[10.0055,53.66122]",DKMON,Monta ApS
+rOcmGDAs8pppGR2Darg21q5iV1_bkbkHBJT7Wl5vuWY,Hamburg,22393,Hamburg,Saseler Chaussee 109,"[10.09984,53.644017]",DEHHM,Hamburger Energiewerke
+rTc7WWANBUqhEaongy_MAkYImYv7-I49hzjmeAFNXJw,Hamburg,22303,Hamburg,Grasweg 66,"[10.009842,53.593392]",DEHHM,Hamburger Energiewerke
+rTzeQCf8rWbGUb5I-NNacMhKMWvTQv4P1Q21nLl9Moo,Hamburg,20097,Hamburg,"Högerdamm 30, 20097 Hamburg, Deutschland --","[10.01499,53.545399]",DEWAT,Wattif Europe GmbH
+rUKW6XdhGpoCkRk7j4tgfsO9kG8v7nMo8hjaH32IDZA,Hamburg,22047,Hamburg,Friedrich-Ebert-Damm 103 a,"[10.08936,53.58803]",49809,vaylens GmbH
+rWVQWdJ4qWlm9vaN_Cdn1ZUdAmRmpaMxizwhFuRaMEY,Hamburg,22301,Hamburg,Poßmoorweg 38,"[10.01194,53.58713]",DEWLN,Wirelane
+rXgN6wlauUzgFMkcaAQ_75fRcr78q63Tc94-k-KkiZ8,Hamburg,22455,Hamburg,Sachsenweg 78,"[9.960661,53.643278]",DELMS,LastMileSolutions
+raScSP0gIFcALYHxs7PyqBKrMR_4wwGX-AViG0z3jLU,Hamburg,21075,Hamburg,Nobleestraße 3,"[9.963175,53.466082]",DEHHM,Hamburger Energiewerke
+rcHk96DXWM3HzRDQJ7pihQ06AHEgD0andV2bGYGspRU,Hamburg,22547,Hamburg,Spreestraße 8A,"[9.887041,53.6013]",DEHVA,Hamburg Verkehrsanlagen GmbH
+rc__QRkvtZWLyfzzFyxOHdCJGkSKL0REiFLRGKqYn4A,Hamburg,20097,Hamburg,Amsinckstr. 73,"[10.026385,53.542844]",DEJET,JET Tankstellen Deutschland GmbH
+rccy2LrOqmkQ8cVbcrV3dM40xTzD3saUTiqOcDCnDGI,Hamburg,22335,Hamburg,Sportallee 81,"[10.000478,53.617425]",DEHHE,Hamburger Energiewerke GmbH
+rchxqTQsv2MFDr2hqjRt7a-sN0JQfA3uI410IQnuE38,Hamburg,22041,Hamburg,Quarree 8-10,"[10.0669,53.57284]",DEEDR,E.ON Drive
+rp-mLVd2mCCqxEh0YFeLfEXGstS_bf6QUkamSilswIo,Hamburg,22529,Hamburg,Stresemannallee 10,"[9.960268,53.591929]",DEHHM,Hamburger Energiewerke
+rqBmho9pZeGaY4nl-yzpFApS-ZxQYAofsDrURrGcH4w,Hamburg,22587,Hamburg,Mühlenberg 76,"[9.82104,53.55508]",DEEZE,eze.network GmbH
+rtRn3_TovPb66Gckp6ZpXpd6VSV1IVrRT-Mv7wq7HO4,Hamburg,22335,Hamburg,LH Basis G161,"[9.9963,53.62317]",DEVAT,Vattenfall
+rvp8eZVs9mZ0DIlK4LsckqVIPwD6yfm8Oj90ubAAVNs,Hamburg,22085,Hamburg,Winterhuder Weg 76,"[10.022634,53.574145]",DEHHM,Hamburger Energiewerke
+rwxJQZGv6x-DsHZwk9EABbGu_90xNTgvo-uiYaXgLxs,Escheburg,21039,Hamburg,Stubbenberg 17,"[10.314757,53.464432]",DE722,e-werk Sachsenwald GmbH
+rxju6N8nByKDmuR9iXpmsCikWhGRolNfFWFJIXudBp4,Hamburg,22419,Hamburg,Essener Bogen 1,"[9.996369,53.674768]",DEHHM,Hamburger Energiewerke
+rzBdvVCEJCVpgtuzVTbAuzPJE3PKMV4ar32hQu7gD80,Hamburg,22297,Hamburg,Überseering 35,"[-47.11,47.11]",DENMS,SWN Stadtwerke Neumünster GmbH
+s0KiizXc5He8-704OYe0y8PzQYDjQa13NGhx1Zx8UZM,Hamburg,20251,Hamburg,Lehmweg 16a,"[9.97806,53.58046]",DEQRM,Qwello
+s3mLiEERP2djg5HfDTunFKhjNUIgV4T9Cf6Vk8FN1Oc,Hamburg,20097,Hamburg,Hammerbrookstrasse 37,"[10.021818,53.549593]",DEEND,EMobility Netzwerk Deutschland GmbH
+s7Ua0oZtT7VNI384V_JkyvIuL8cX9mb14cL7UNX9i0Y,Hamburg,20099,Hamburg,Steindamm 94,"[10.017251,53.555594]",DEHHM,Hamburger Energiewerke
+sKurEjViYWQoywOMR7KPy_ljUH9MO-3Ik5oCnT0-xq0,Hamburg,20251,Hamburg,Lehmweg 16a,"[9.978076,53.58042]",DEQWC,Qwello GmbH
+sLNeFw8vUShu2STBzFMJB9jqamQUpHRpUtjPRhwu-z4,Hamburg,21079,Hamburg,Reeseberg 56,"[9.99376,53.44656]",DEEZE,eze.network GmbH
+sNoqNohDs6k4GVzH0a8EbltNQOFmeAj-27Nuuz_olbQ,Hamburg,21109,Hamburg,Leipeltstraße 2,"[10.008634,53.491944]",DEHHM,Hamburger Energiewerke
+sNwAXrrQhqeR29p6171sKDv766eaXqOpGL7Q2Dfl_Ys,Hamburg,22761,Hamburg,Bahrenfelder Steindamm 51,"[9.92596,53.56053]",DEEZE,eze.network GmbH
+sSl9S9LgJIWy24yzgj_h_UB4bU-IflA_ISPLqKhv6o0,Hamburg,21031,Hamburg,Johann-Meyer-Straße 56,"[10.205254,53.490442]",DEHHM,Hamburger Energiewerke
+sWPM0iNYSYZxo5OuGz4UQsppRNsYz0p1hgK-1ZNg8vQ,Hamburg,21075,Hamburg,Schwarzenbergstraße 95,"[9.9702,53.4638]",DEHHM,Hamburger Energiewerke
+sb5j8wNVJbD0-G8R_zqdHjmcabqgy73zMvW1tdNF4vE,Hamburg,22179,Hamburg,Bengelsdorfstraße 2,"[10.092538,53.598127]",DEHHM,Hamburger Energiewerke
+sh93IItk9jSjuO7pUEBnG-C5-Ua8maf1qJjJeQ0f_Vg,Hamburg,21073,Hamburg,Harburger Rathausstraße 37,"[9.98115,53.45899]",DEHHM,Hamburger Energiewerke
+smYtKIffSf3DWPDNaWHXBDGg6cq4rNIhujAvaiM2J9s,Hamburg,21073,Hamburg,Sand 13,"[9.980156,53.461402]",DEHHM,Hamburger Energiewerke
+snaGEWfAykMoEfRZ6-qopYTAw4-tNUasLIbRDGc-Qt8,Hamburg,22087,Hamburg,Uhlandstraße 4,"[10.024922,53.565156]",DEHHM,Hamburger Energiewerke
+snja2ymp-Ic2F8fHRqEPu0y4rY97I_sWwTEpLOJ9Uyk,Hamburg,22119,Hamburg,Schiffbeker Weg 83,"[10.10653,53.54704]",DEHHM,Hamburger Energiewerke
+strL-QRVDiNh64kpRn5ceC4UsAFmvQMbENRi_HWCwx4,Hamburg,20355,Hamburg,Valentinskamp 70,"[9.983466,53.556211]",DEWLN,Wirelane
+svoXSNrVdAK2L76zysudNeNXUoPCPqEtNmFaQG0-M_E,Hamburg,22177,Hamburg,Bramfelder Chaussee 230,"[10.075496,53.612488]",DEAPC,E.ON Drive
+sywO0dmYdoN-IYqQ2DiE8wtQOGXnZA8ebv6S7n6fZ2E,Hamburg,21077,Hamburg,Gotthelfweg 2,"[9.981282,53.447883]",DEHHM,Hamburger Energiewerke
+sz6EKfHHIEqyoZXTUTnSWxB31bEdNH2rJPORejZTyl8,Hamburg,20144,Hamburg,Bogenstraße 32,"[9.9742,53.57357]",DEHHM,Hamburger Energiewerke
+t1FRYqeleenCZTSDUIBrQlgJyt0W0HWmrHRjonhpRVw,Hamburg,21035,Hamburg,Margit-Zinke-Straße 32,"[10.16513,53.48641]",DEHHM,Hamburger Energiewerke
+t3d59CFOSOdOHD8kJCsXfK0rHWwo1aS4K1czUvrEzpQ,Hamburg,22335,Hamburg,LH Basis G391,"[9.98189,53.61982]",DEVAT,Vattenfall
+t5Ls8pRpPgG-W4W6475hHVSqa7pJGYv6F6MUf_xtvh0,Hamburg,21029,Hamburg,Curslacker Neuer Deich 45,"[10.20801,53.48056]",DEHHM,Hamburger Energiewerke
+t6CPAGl0quY60XW17AON4a3p9gmy3gtb_TFr-UX8mL0,Hamburg,21079,Hamburg,Veritaskai 8,"[9.988892,53.465911]",DEHHM,Hamburger Energiewerke
+tQNgiUUJbeXlxqUCaDY_LVVhWYnZ-S9HL0ckCnGiy_o,Hamburg,21149,Hamburg,Cuxhavenerstrasse 380,"[9.847023,53.473064]",FRHPC,Total Energies
+tRyk_htG0_4Qp3gg2GRbBI42og00qswchD8BRa3N8Os,Hamburg,21033,Hamburg,Brüdtweg 5,"[10.204194,53.494055]",DEWLN,Wirelane
+t_Ao1Kjntk5Aq7EV5TyNm7pnSWqByLsO42MmpxcNr7s,Hamburg,21129,Hamburg,10 Kreetslag,"[9.83977,53.542333]",DECPI,ChargePoint Germany GmbH
+taoFpzAq9qodMcRtQ2QO0kj1cfseM3RAcOcs6cJJfwM,Hamburg,20097,Hamburg,Hühnerposten 14,"[10.009688,53.549784]",DEHHM,Hamburger Energiewerke
+tbvt8hpjhDW6gE4bxiaAFwAHVJd9u5orVTAboBrYc4Q,Hamburg,22299,Hamburg,Alsterdorfer Straße 14,"[9.998083,53.595618]",DEHHM,Hamburger Energiewerke
+tcF1kt0Zpx1R4Jm43GSDO1tSCDuYHyQJ8UZY-1j8I9E,Hamburg,20251,Hamburg,Straßenbahnring 17,"[9.975659,53.580737]",DEHHM,Hamburger Energiewerke
+tcjGwVtFm7y9k0bC9FdBA_b36bdekEcOsBxyYkrNdp0,Hamburg,21035,Hamburg,Walter-Becker-Straße 19,"[10.14769,53.48745]",DEEZE,eze.network GmbH
+td6eFPExJox9odEGqb-JRbjDli8zbOel-T3K5-zTfLs,Hamburg,20095,Hamburg,Rathausstraße 3,"[9.99457,53.550046]",DEHHM,Hamburger Energiewerke
+tfm3am7gYScx6c2eK_wgI7RdMqMrak-09zYcklVwG7k,Hamburg,22117,Hamburg,Marienblick 4,"[10.128685,53.531586]",DEENC,enercity
+tknOG2zzReoKetvTQdEqzAPeRaSk6XzlEIL93nikr9M,Hamburg,20249,Hamburg,Eppendorfer Landstraße 41,"[9.985709,53.588324]",DEHHM,Hamburger Energiewerke
+tlLFMQ95uQbP56ZosAbCcl0BqIHd59eBqtoVK-MlnYE,Hamburg,21109,Hamburg,Wilhelm-Strauß-Weg 7,"[10.01001,53.49886]",DEHHM,Hamburger Energiewerke
+tsDQo1JB4iVW6Bepc1ubej3kfVF4SAMteFWXIdxRHsw,Hamburg,20095,Hamburg,Glockengießerwall 26,"[10.001099,53.555269]",DEHHM,Hamburger Energiewerke
+tt9ndqyxJ3Q7bKcMS1li0cotCzpFV4POQ39xAwrUcU8,Hamburg,20359,Hamburg,Simon-von-Utrecht-Straße  33,"[9.966122,53.551484]",DEONE,reev GmbH
+txye1xTIZK8qGfnmhgDAFluaXueON7d9SIqOIBubdy4,Hamburg,22605,Hamburg,Trenknerweg 2,"[9.90491,53.54935]",DEHHM,Hamburger Energiewerke
+ty5JkXXM90x2aC985ZRsTttbZBugIjXZzVK7iPg25ek,Hamburg,22549,Hamburg,Achtern Born 94,"[9.85086,53.58695]",DEWLN,Wirelane
+tygPuj4nOBDBoQBslF4D6PLiUKPCiA7I_E5EkpUEfYo,Hamburg,22523,Hamburg,Haseldorfer Weg 7,"[9.89575,53.60577]",DEHHM,Hamburger Energiewerke
+tzzL53UTH7ot0rmjghGJUMNm_KgU3FKLMB6TO9zyUlg,Hamburg,21107,Hamburg,Zeidlerstraße 57,"[9.99448,53.51047]",DEHHM,Hamburger Energiewerke
+u2C_0CGCBqn12230omvGCZ3ifqr-_apOvuILSY-y7SE,Hamburg,22087,Hamburg,Angerstraße 11,"[10.03203,53.559959]",DEHHM,Hamburger Energiewerke
+u3CS37kB12o7Eix1Nj5Abv7O3tbqom7qjpSKmTS9sCY,Hamburg,22081,Hamburg,Pfenningbusch 1,"[10.049551,53.579675]",DEHHM,Hamburger Energiewerke
+u3EGgY5Dbr7H7OLkLuzq5d4A45_x8nmQEysZ45PfzwA,Hamburg,22081,Hamburg,Vogelweide 37A,"[10.04,53.579]",DEHHE,Hamburger Energiewerke GmbH
+u3TzPCuHP2_O2VszL_0n-PmNnKASaob9UhfWgn-gRQ8,Hamburg,21029,Hamburg,Glindersweg 80,"[10.235506,53.486501]",DEHHM,Hamburger Energiewerke
+u3ymBwIMcibjcqeUPpS_RG6xv8q8P6WcQ7FNUDj4OfA,Hamburg,22085,Hamburg,Zimmerstraße 34,"[10.01828,53.57484]",DEHHM,Hamburger Energiewerke
+u6Mrn5ya-XiNIPkny0-aY_gRBOx0B3g0JhGqriPn3N4,Hamburg,20249,Hamburg,Robert-Koch-Straße 2,"[9.982613,53.587391]",DEHHM,Hamburger Energiewerke
+u7MUdkSiRJzyOpe2JW-inyCJrqSlV5nj7tub6NlgwXI,Hamburg,22119,Hamburg,90-92 Schiffbeker Weg,"[10.10841,53.54861]",DETNM,Shell Recharge
+u9zqZFX6zsB3_hSn7T3jJmO1k0tnusbZUXKOSEmtL60,Hamburg,20097,Hamburg,Nordkanalstraße 18,"[10.01461,53.548111]",DEJCR,JUCR GmbH
+uBCEHN6XFSJ7MQbUorcNIwsTO8hU2u8IHQMPgWI5F6Y,Hamburg,22767,Hamburg,Unzerstraße 3,"[9.950661,53.551171]",DENNX,nonoxx pro GmbH
+uBYN9gj4tnT0bnlZFE-uWBPHB4llxI2b1hON55ItLjY,Hamburg,22761,Hamburg,Bornkampsweg 29,"[9.918201,53.566657]",DEHHM,Hamburger Energiewerke
+uC69RP42mcGWBl638cPmOiBKGAxQrtYr11BB3oyp4Qo,Hamburg,22417,Hamburg,Kiwittsmoor 38,"[10.02162,53.678632]",DEHHM,Hamburger Energiewerke
+uCBE1sLIf7Egw0cdilL512kzlquF9z4ljatPCp5zF7Y,Hamburg,22763,Hamburg,Behringstraße 154,"[9.903837,53.556935]",DELDL,Lidl
+uDClW8HEBsFK0D2fZJJvkRWUL4DbWEt2UtvGjgcapwY,Hamburg,22149,Hamburg,Schönerberg Str. 60a,"[10.91095,54.29332]",DEEDR,E.ON Drive
+uHOoKYv3-nJ6ZLB2IUhiXLD4SalnFwisv6mS6dXYcxY,Hamburg,22305,Hamburg,Habichtstraße 27,"[10.059051,53.58998]",DEHHM,Hamburger Energiewerke
+uKBgaXdgpc4p3_Vzp7WN0enPXfOk0hQistxgTtZfwHY,Hamburg,20095,Hamburg,Ballindamm 25,"[9.99778,53.55358]",DEEZE,eze.network GmbH
+uKFbltPRPe5E65ds_yxkobbDhoFjzbM1HlmW7BzRVy0,Hamburg,22419,Hamburg,Langenhorner Chaussee 666,"[10.00063,53.67904]",DEEZE,eze.network GmbH
+uKN5DPAwpGc-F_WPkNI2Znx74OVPkQkLfi-zRw9AOF0,Hamburg,21107,Hamburg,Parkplatz,"[9.979552,53.479825]",DEUBI,ubitricity
+uNM_jBsqschHTWWbpAmK9Km3TJfTcBkweL5nHUa5EIo,Hamburg,21107,Hamburg,Mannesallee 28,"[9.987752,53.514226]",DEHHM,Hamburger Energiewerke
+uPc8ePpXH5WuK-6aBcO-elCR38wHV0ndghgqjZ0poG8,Hamburg,22083,Hamburg,Hamburger Straße 27,"[10.02813,53.571903]",DEHHM,Hamburger Energiewerke
+uXNnW-GygkwglBZDS-ggZ9b9wTrEQIFSP4SAO-u7kfM,Hamburg,22549,Hamburg,Rugenbarg 9,"[9.846625,53.574114]",DEHHM,Hamburger Energiewerke
+uftvu9Qzpj9HBfmVq2mSUjhJIxISwIRkpC1H-RNqyFw,Hamburg,22159,Hamburg,Spannwisch 2,"[10.114402,53.593926]",DEHHM,Hamburger Energiewerke
+ugiJBMGotsAwz9T-qY8yVjHx_xNYPIbpnF9tvA0CTVc,Hamburg,20097,Hamburg,Wendenstraße 18,"[10.02742,53.5474]",DEEZE,eze.network GmbH
+un0GOQiwds9S08z3tv7if8z_3hz5h35ASdYnvWVvAEw,Hamburg,22335,Hamburg,Sportallee 81,"[10.00038,53.6176]",DEHHM,Hamburger Energiewerke
+un5Br6pK0LdwU188rMs5VGaJDzrApOGEVRBq2f6Pdec,Hamburg,20249,Hamburg,Hegestraße 80,"[9.987855,53.58537]",DEHHM,Hamburger Energiewerke
+upcFYQpxVCF5avwJJrLufEgPkhxiUwMdpjtAB3XXgk8,Hamburg,20253,Hamburg,Mansteinstraße 22,"[9.96769,53.57771]",DEHHM,Hamburger Energiewerke
+uu8cvGQZOriurS686oleFRzEj-A2JKF-x2_HW3wZtQ8,Hamburg,22085,Hamburg,Fährhausstraße 27A,"[10.01374,53.57588]",DEHHM,Hamburger Energiewerke
+uy-FRoXEpj6nhck_kYvTtuU6OWvpcgMtcMMar9POdcQ,Hamburg,22159,Hamburg,Berner Heerweg 120,"[10.1185,53.600833]",DEWLN,Wirelane
+uz0uo54it-2AhbBzu8QO04vZjXnp8hB3fRxZCeFGJtI,Hamburg,21075,Hamburg,Heimfelder Straße 123,"[9.940331,53.460893]",DEWLN,Wirelane
+v-WoPO42OHSxtHmmLBU-rs1p7U8-HlYtW46izmk2enQ,Hamburg,22559,Hamburg,Tinsdaler Heidweg 40,"[9.750695,53.575496]",DEHHM,Hamburger Energiewerke
+v3elUA7GRFPLKTk_09H5RYKw7IZSG6i_FJIrPNuNnZI,Hamburg,22305,Hamburg,Alter Güterbahnhof 2B,"[10.03556,53.59149]",DEQRM,Qwello
+v4nU28e6DSTFxGZJ1FMBJe7iB1a1GilHM5-GQ5F5C8Y,Hamburg,20537,Hamburg,Wendenstraße 379,"[10.047188,53.550753]",DEHHM,Hamburger Energiewerke
+v92M5esqhhVEbTCo9LYEJL6-o4ZLMko1holLuKG--5w,Hamburg,22049,Hamburg,Tondernstraße 24,"[10.064361,53.587491]",DEHHM,Hamburger Energiewerke
+v9bZ-ea0muIcQjKNm59Wj17d6wWv_lg54nYwGQa5srI,Hamburg,21073,Hamburg,112 Buxtehuder Str.,"[9.96335,53.46994]",DETNM,Shell Recharge
+vE_Uc5e_DL6YTxsByjPxIDCq18OLzfTQJnDs5zCp48M,Hamburg,22041,Hamburg,Königsreihe 4,"[10.059659,53.574212]",DEHHM,Hamburger Energiewerke
+vEc0adHzZfWFC1TLsORz1D2XTLGVcSZk6cv6V2FqqWw,Hamburg,20535,Hamburg,Hammer Steindamm 74,"[10.056567,53.563376]",DEHHM,Hamburger Energiewerke
+vKRNIaMhgw3Fe3992jOGTtOCphXZ6_0w1k-40mTTkWA,Hamburg,22529,Hamburg,39 Kollaustraße,"[9.96133,53.60305]",DETNM,Shell Recharge
+vKwwSM8CyfUfmPNgObRA1pGaXx8-PKoDa552ngv0I4Q,Hamburg,20354,Hamburg,Amelungstraße 5,"[9.985851,53.552791]",DEHHM,Hamburger Energiewerke
+vNzuxn3qK8EZwMO-qkiJgdyWjlp7M9z5WTJM3P_NP1Y,Hamburg,20148,Hamburg,Heimhuder Straße 38,"[9.992543,53.566752]",DEHHM,Hamburger Energiewerke
+vSv2dDhQ860F1NrrEf-bqUr6PUYOWOR66nlzxeZuTAA,Hamburg,22525,Hamburg,Schnackenburgsallee 153,"[9.904267,53.591272]",DEHHM,Hamburger Energiewerke
+vWcGi8e_KUn3CNd9rzmHM-GbeBv-p32q4Iervc33e20,Hamburg,22297,Hamburg,Krochmannstraße 53,"[10.002819,53.601548]",DEHHM,Hamburger Energiewerke
+vXSe4LYLWmCkmibv9JRbwkjMPrp5-MtP-wwCd7JS-oQ,Hamburg,20097,Hamburg,Nagelsweg 33,"[10.019243,53.547516]",DEHHM,Hamburger Energiewerke
+vbVqzrrdivQLEWUtDE-iR2zr2-8hn5EnL_lJA0sOLAM,Hamburg,20146,Hamburg,Heinrich-Barth-Straße 16,"[9.98122,53.57139]",DEHHM,Hamburger Energiewerke
+vduQR51B0QnvhOZepGDd1JfzYHQ2CqGmjFpr_PDs70E,Hamburg,21035,Hamburg,Kampweg 1,"[10.196281,53.476324]",DEHHM,Hamburger Energiewerke
+veUz_lH-iWakd1EvI_EUFgQjfberVUc0JNe1a7YyprA,Hamburg,21107,Hamburg,König-Georg-Deich 8,"[9.995636,53.477523]",DEJEG,Jolt Energy
+vfiH1RO4x3YT4Z6OAGEyuMqXNt7V-orc3Vs8MnjYGiM,Hamburg,20357,Hamburg,Feldstraße 51,"[9.973255,53.556978]",DEHHM,Hamburger Energiewerke
+vgh6mTEo_iMugWebS4ayWf7hyaROk15JnqTJuqAI2Rk,Hamburg,22529,Hamburg,Nedderfeld 95,"[9.981571,53.601708]",DEBDO,Lichtblick
+vhW_Vkg60WY4oUAQ_6SYeTgPKkcxsnOnL_Wqj8M7Z1s,Hamburg,22453,Hamburg,Borsteler Chaussee 17,"[9.984941,53.604067]",DEHHM,Hamburger Energiewerke
+vioo4OKvU83gWJQ7IBjA4uCUGfh7qJpZf4ZyUBxVBDg,Hamburg,20354,Hamburg,Neuer Jungfernstieg 19,"[9.99233,53.55652]",DEHHM,Hamburger Energiewerke
+vkKQdcaMG_NJWc71gAb3VbwxPjJ7xjQjYH_jw4u___I,Hamburg,22529,Hamburg,Feldhoopstücken 41A,"[9.958813,53.602135]",DEHHM,Hamburger Energiewerke
+vl15UtDTODJ4JjwMXk9CwKeNq1Szk0IY3SKjNevKN30,Hamburg,20099,Hamburg,Steindamm 100,"[10.01941,53.55667]",DEEZE,eze.network GmbH
+vmOubL0POGZbY3kNWD0l5no9246XY0jM8-j4ps2cZ-c,Hamburg,22419,Hamburg,Langenhorner Chaussee 688,"[10.00075,53.68074]",DEEZE,eze.network GmbH
+vnnh4mdABnHO1LcBQaEnkZ1U85ALnqa65esK_2WJvzk,Hamburg,22083,Hamburg,Schleidenstraße 6,"[10.033683,53.58329]",DEHHM,Hamburger Energiewerke
+vp9QHR_KuJlztDCDMFYEjNki-QILM29u0KLp8Xxhc8Q,Hamburg,20355,Hamburg,Dammtorwall 19,"[9.98196,53.555946]",DEBDO,Lichtblick
+vuCkuP0XY7ctCnmCcBZIRN_F31ZKFEsbC_fPsR0wMgo,Hamburg,22529,Hamburg,Troplowitzstraße 7,"[9.964658,53.584812]",DEHHM,Hamburger Energiewerke
+vvAcNYBn5nyJXpZYTlM3BeA_SCH1_fge6xek8O4lrtI,Hamburg,22761,Hamburg,Bornkampsweg 17,"[9.918645,53.5655]",DEHHM,Hamburger Energiewerke
+vvLioutZmSPcvXG6SsZB1lQOFiSDd_plICJ2ef849mM,Hamburg,22527,Hamburg,Koppelstraße 45,"[9.942715,53.593396]",DEHHM,Hamburger Energiewerke
+vvz37306mQZ5lF0LyiMJpcGLKUwUxG0rpQcU_Tms2fg,Hamburg,20354,Hamburg,Große Theaterstraße 45,"[9.991584,53.556312]",DEHHM,Hamburger Energiewerke
+vxf-QFUJvDfqgIx1wPfj19Icy_OLi2F-W-LN6VqbFdQ,Hamburg,22415,Hamburg,Flughafenstraße 85,"[10.019406,53.640236]",DEHHM,Hamburger Energiewerke
+w0GDuNyr30of2R9Wabipg3oH1Dv1E3f6hcgCtI9wPWw,Hamburg,22769,Hamburg,Missundestraße  2,"[9.952434,53.562044]",DEONE,reev GmbH
+w27hUsJjOYxU-_vVJewvLiVq9QxLiObpDHBNGYH7n0E,Hamburg,21107,Hamburg,Pollhornweg 25,"[9.98561,53.48689]",DECNT,Spirii
+w42-_r9Oe2qHuSG-4nl0-ysxYQtO63-5Ev77o5vLn1Y,Hamburg,22769,Hamburg,Langenfelderstr 122,"[9.94498,53.56837]",DECCH,Comfortcharge
+w5sSgUdIpLSB8lzoG4gozhRE9HZdfmKRO20YiR3GTj8,Hamburg,21129,Hamburg,Kurt-Eckelmann-Straße (Gebäude 1) 1,"[9.923432,53.522685]",DEMDS,Mennekes
+w80gugUNrhdwy3BrnDrAf4PtARyvrnPr3jCtv4OU3Ak,Hamburg,21033,Hamburg,68 Bergedorfer Straße,"[9.96335,53.46994]",DETNM,Shell Recharge
+wERrsVK1wqhG-3Tem6LtTFoYwL2ZYb-pOYWT3kyVzGU,Hamburg,21077,Hamburg,Maldfeldstr. 2,"[9.935202,53.430289]",DEALL,Allego
+wLjHS2xUjN0gch3X3VqCibaVTAGUZZtfFzuX-eSz9CY,Hamburg,22607,Hamburg,Waitzstraße 6,"[9.885782,53.559679]",DEHHM,Hamburger Energiewerke
+wLjTwJX4I4KPX-l5oUiLMUsJYMsx_msUK86VBXCHb48,Hamburg,20259,Hamburg,Fruchtallee 29,"[9.958189,53.569186]",DEPOW,MOON POWER GmbH
+wLxGATVUEU9JFc2BcFBSnVKxmLnHP1G8kxsnmh014Yc,Hamburg,21079,Hamburg,Buchholzer Weg 3A,"[9.98556,53.43158]",DEHHM,Hamburger Energiewerke
+wPYTL3_AmCC30yLN-h1IFPBaPbfZhiXvFl9vWl3nX2o,Hamburg,22081,Hamburg,Martha-Muchow-Weg,"[10.0333,53.57186]",DEEZE,eze.network GmbH
+wRfcGcKlONS1rAMENg9cKuz_U3K8Yni_DrokthHLp58,Hamburg,22763,Hamburg,Daimlerstraße 3,"[9.9213,53.55654]",DEHHM,Hamburger Energiewerke
+wT89mVg8LervUTFtqI_ue_xqsxuRUfnrN2EKpkx6T74,Hamburg,20357,Hamburg,Sievekingplatz 2,"[9.976873,53.556427]",DEHHM,Hamburger Energiewerke
+wTkDHf-wyIcJZOh84NelN6_sSdaUClcOX58DkoH71GE,Hamburg,20259,Hamburg,Doormannsweg 8,"[9.957477,53.572199]",DEHHM,Hamburger Energiewerke
+wWYgkzIgkTofUJ3JWbYz-K4oynEcAZcIX5U_PycZXKY,Hamburg,21031,Hamburg,Bodestraße 2,"[10.180407,53.507891]",DEHHM,Hamburger Energiewerke
+wYXDtDZvHVFNDs5c1gZRe28UgrtYi2XadYoBbuLcVno,Hamburg,22081,Hamburg,Dehnhaide 111,"[10.051422,53.579407]",DELDL,Lidl
+wbsWLTLovWvYjzPFzKqAGh2j2L7M9YGFRRjKdBEW_aM,Hamburg,22301,Hamburg,Maria-Louisen-Straße 23,"[9.99767,53.58447]",DEQRM,Qwello
+wkGNMssp2KfIYCMWTDxCO5PaLWiYT2yReBtfLAr8G94,Hamburg,21035,Hamburg,Henriette-Herz-Ring 30,"[10.176065,53.482541]",DEHHM,Hamburger Energiewerke
+wtY21I8ndp6WnYStXTs8DzO4yqS59f4fT3CIIWsYWoI,Hamburg,20457,Hamburg,Mattentwiete 6,"[9.98933,53.54545]",DEHHM,Hamburger Energiewerke
+wwPIoeKhjznY3H7qWuqS_BiaabAaQ0YZ8tC9JyLwKvc,Hamburg,20259,Hamburg,Fruchtallee 130,"[9.94964,53.57289]",DEHHM,Hamburger Energiewerke
+x0cYMIMv_4jo1_eKtYWOJicunaJcGYAKTu83AHoD-Tg,Hamburg,22547,Hamburg,Luruper Hauptstraße 138,"[9.872562,53.591702]",DEHHM,Hamburger Energiewerke
+x2-aRE9DgpGX9OfubIDeRbAWYmxTS1NPbyEpxgOqZHA,Hamburg,22419,Hamburg,Diekmoorweg ggü. 26,"[10.015551,53.656353]",DEHHM,Hamburger Energiewerke
+x2sWBxkax9gLjTdSATZZrKVgTq-dqXxoSIdHPUcbfck,Hamburg,22559,Hamburg,Am Rissener Bahnhof 15,"[9.756495,53.582688]",DEHHM,Hamburger Energiewerke
+x4cD2dg9uN17Jnv9wFhHv5ef4D9597gQmzHyUEWcwdg,Hamburg,20144,Hamburg,Bogenstraße 13,"[9.976104,53.572207]",DEHHM,Hamburger Energiewerke
+x7W6No4K6XXYpX5MaIIV-43wp1cPx9KAb963EXYzylo,Hamburg,22459,Hamburg,Max-Zelck-Straße 10,"[9.947333,53.621226]",DEHHM,Hamburger Energiewerke
+x98zg5rfq5VZPvVkzKEcBXV-oFHNmRK5nAXIeCoSslo,Hamburg,22559,Hamburg,Rissener Busch 23,"[9.76399,53.57955]",DECCH,Comfortcharge
+xJ-hyKkrsRy_QpBj8DpuKYLQB3rOFJGoU_Vp9Fdbkns,Hamburg,22307,Hamburg,Alte Wöhr 20,"[10.03628,53.59742]",DEHHM,Hamburger Energiewerke
+xLfSDhmXcd0mQSW8BjgoEWa4oU5uUnF9hEOIkBIx8v8,Hamburg,22177,Hamburg,Bramfelder Chaussee 291,"[10.077768,53.617216]",DEHHM,Hamburger Energiewerke
+xQ-62u2Ses7NiOfRErpJ2wRCEzrZ3uxWsQl5j1nGKwM,Hamburg,22587,Hamburg,Blankeneser Landstraße 81,"[9.79888,53.56592]",DEEZE,eze.network GmbH
+xUATstZOUfMsM5_9bNFlLTwnPAd-PW67GbzQE2FutG0,Hamburg,21079,Hamburg,Zum Handwerkszentrum 1,"[9.994314,53.457804]",DEHHM,Hamburger Energiewerke
+xWtxgL0zKcL6lWb1ucjpTizVpzUR7Ix3O39LI29go74,Hamburg,22305,Hamburg,Wiesendamm 51,"[10.036097,53.58749]",DEHHM,Hamburger Energiewerke
+xXZg6bQKo_c_0J_2S396ZhwdqfEZ76sfAUnK4nt8MA0,Hamburg,22117,Hamburg,Möllner Landstraße 98,"[10.11843,53.538042]",DEHHM,Hamburger Energiewerke
+xZE_DND9W7Fa60osSuEq-ndtGPnqNl8xKk5HuLlvSJs,Hamburg,20251,Hamburg,Martinistraße 26,"[9.985397,53.592634]",DEHHM,Hamburger Energiewerke
+x_2SxBVqkzmN1W3ZcHeGZXUU4PFs0PLoyMh321u8qQU,Hamburg,20253,Hamburg,Hohe Weide 36,"[9.969562,53.573669]",DEHHM,Hamburger Energiewerke
+xbJlA92DnqMi6ZeTV4Nv5gZPEYe3T2Vc-oAZ_lIemjI,Hamburg,20097,Hamburg,Sachsenstraße 4-8,"[10.029127,54.5]",DE199,NWG Charging GmbH
+xbxv2e1gbJ-EQQDJqo1M88YKYDWYCN7NxOXtz2Ss0Fk,Hamburg,21077,Hamburg,A7,"[9.96469,53.424126]",DEUFC,E.ON Drive Infrastructures
+xcUvWFx1bISSWfo1Q2QUKxPn7NJhI1lpqZ23cYrHhg0,Hamburg,22763,Hamburg,Eulenstraße 68,"[9.923935,53.550941]",DEHHM,Hamburger Energiewerke
+xgvr9BwBQvqa8mxjrCkpPfICKAsHFaYzBuftms326Zg,Hamburg,22415,Hamburg,Puttwiese 1,"[10.003527,53.656194]",DEWLN,Wirelane
+xmXH0r-RNfI-GQkMs45a1LLi8dVD-DAUzRCUMflN2nA,Hamburg,21033,Hamburg,Ulmenliet 20,"[10.201229,53.493423]",DEHHM,Hamburger Energiewerke
+xqbgj4P70DA-EXAIn8XiOcBBX9G6qvGvJVH_VhwJCpw,Hamburg,21033,Hamburg,68 Buxtehuder Straße,"[9.96335,53.46994]",DETNM,Shell Recharge
+xrAptDe1hTUYP4qPqQkDvay62GtFtBsyq60LdXHQVfM,Hamburg,22081,Hamburg,Gluckstraße 32,"[10.04293,53.57299]",DEUBI,ubitricity
+xtgrXdSmuvDyHxpQ6CxIAQkIwxsO6kDQYP8Yq44BeKk,Hamburg,22337,Hamburg,Fuhlsbüttler Straße 541,"[10.037684,53.609651]",DEHHM,Hamburger Energiewerke
+xttzNj71usuPD4S918Pj-pidRgN1dYJBekAjA2Wqre0,Hamburg,22549,Hamburg,Osdorfer Landstraße 196,"[9.85123,53.57262]",DEEZE,eze.network GmbH
+xuP7TbuIyqvykHaA6pi1jtkGqBkg0YtpJYIp0zllMis,Hamburg,22397,Hamburg,Poppenbütteler Chaussee 45,"[10.103727,53.703727]",DEHHM,Hamburger Energiewerke
+xwCqd73N0JFlcO2Zgh47RAQnuzhZSrVQuW07v41QKbw,Hamburg,20095,Hamburg,2-8 Johanniswall,"[10.00513,53.54925]",DEACO,APCOA Deutschland GmbH
+xzLbLZxGv3MW6NecsxykG-r1Wt6ICFq5Ll21w9Ah728,Hamburg,22177,Hamburg,Reembroden 24-26,"[10.050231,53.639474]",DEHHM,Hamburger Energiewerke
+xz_ky8pjEXZpoS_UUrVnwS4wecWHNHMqWAqaydoCgKc,Hamburg,22339,Hamburg,Wesselblek 8,"[10.058322,53.639761]",DELMS,LastMileSolutions
+y2xt2Ft6fG4Hn23cYMI1TEq-31rD9UHXsX4PnkM_lS8,Hamburg,22297,Hamburg,Kapstadtring 8,"[10.027833,53.60299]",DEHHM,Hamburger Energiewerke
+y5o7PPItJ5BTccUfpSs5-lR3-xNujSDkSZ-o0SQ_PPU,Hamburg,20149,Hamburg,Hagedornstraße 51,"[9.99017,53.57874]",DEEZE,eze.network GmbH
+yB9iNyWixps63ACI_5R_yRFQflYum-8k_6O6lqCqItM,Hamburg,22083,Hamburg,Berthastraße 1,"[10.038339,53.578102]",DEHHM,Hamburger Energiewerke
+yBWr9jxlOTv6NIf2y0JGDabgNwcD24zWcJa0sZgqulU,Hamburg,22765,Hamburg,Karl-Theodor-Straße 6,"[9.9311,53.548475]",DEHHM,Hamburger Energiewerke
+yLVXR_ZrZQgWC2_ZnomdA9je4DxCDagE0BVjzI77Ue8,Hamburg,20149,Hamburg,Böhmersweg 30,"[9.9974,53.572096]",DEHHM,Hamburger Energiewerke
+yNyNHnnLjYKC6xx37g1bd0FuAcYMk1ZXBexd-Asf0hU,Hamburg,20357,Hamburg,Fontenay 1D,"[9.995001,53.564942]",DEHHM,Hamburger Energiewerke
+yOO1rfaRE7OFPY7KaTbGAcFmfg9ouB80zxQyTMCHhl8,Hamburg,22769,Hamburg,Langenfelder Straße 18,"[9.955641,53.563754]",DEHHM,Hamburger Energiewerke
+yQ0fbq8Gsd2WCj0AKqduUJOeH0q5E7KhFszi2QgRasI,Hamburg,22087,Hamburg,Mundsburger Damm 47,"[10.024193,53.568608]",DESNH,Stromnetz Hamburg GmbH
+yRphCf1D_VNkT0yYg4aTX2qjj2ENMmqU1c0A4_Tt26k,Hamburg,21129,Hamburg,Aluminiumstr. 5,"[9.890572,53.517418]",DECKE,Couche-Tard Deutschland GmbH & Co. KG
+ySx-CNpZTf2_Ym6VZsphBvVjJfMyZK6Y7yw0xgkVUOo,Hamburg,22393,Hamburg,Waldweg 4,"[10.114058,53.65329]",DEHHM,Hamburger Energiewerke
+yU1HfVp-5GZ5TyK10Efm8UbUeRHvkZEkyCM5yjdOBpc,Hamburg,20255,Hamburg,Stellinger Weg 37,"[9.948501,53.579727]",DEHHM,Hamburger Energiewerke
+yXqxfp9l9qy_fOkqh-mPOuxJeo1zCF7LDWjxT5G4ZOo,Hamburg,22309,Hamburg,Cesar-Klein-Ring 2,"[10.05801,53.60996]",DEHHM,Hamburger Energiewerke
+yYG1WBYrjI4NRWiA_6EVIlvmJ8NFKkuqCyJfRMs4HGQ,Hamburg,22081,Hamburg,Elfriede-Lohse-Wächtler-Weg 3,"[10.04984,53.57461]",DEEZE,eze.network GmbH
+yYMLqq4d9FQGspYUi4nEWRxYgcn1YOBHU5igW0iDiWE,Hamburg,22335,Hamburg,Langenhorner Chaussee 38,"[10.0152,53.63726]",DEJEG,Jolt Energy
+yYvcYzuMZfT_Ht4Krtr8Yr1a6_e6AS2QxJUtkvZBYFk,Hamburg,20537,Hamburg,74 Ausschläger Weg,"[10.0366,53.54871]",DECPI,ChargePoint Germany GmbH
+yhzgGho5l3JsqWbMGSNjc_u6fB3Be7BHrgXOyVEovVo,Hamburg,20251,Hamburg,Lokstedter Weg 3,"[9.987546,53.594455]",DEHHM,Hamburger Energiewerke
+yij-BAP-YedEtxldRHRSwSfUCGoXHhs6NNpVgLXjZq8,Hamburg,21033,Hamburg,Oberer Landweg 7,"[10.18764,53.48998]",DEEBW,EnBW
+yl3VywYea8EPEHK9eMJ26J36xljF7pGuJPs_QZfHApw,Hamburg,22399,Hamburg,Poppenbüttler Hauptstraße 13,"[10.085729,53.66283]",DEGCE,Volkswagen
+yq7SSgh3IzIByGAeUCGyEiVOom4LYyV9GFwVbuaCUig,Hamburg,22765,Hamburg,Gausstrasse 158,"[9.92854,53.55904]",NLLMS,LastMileSolutions
+ysiZsbxKNLmseLWMTAXQ-x5_SijtFgubs5AbowamFHU,Hamburg,20354,Hamburg,Neue Rabenstraße 21,"[9.992711,53.560633]",DEHHM,Hamburger Energiewerke
+yt-vH0eAx8DAq1iNxe8JXC5nJb2mRgVaQ2g1JEb7lOc,Hamburg,20097,Hamburg,Süderstraße 26,"[10.02792,53.54452]",DEHHM,Hamburger Energiewerke
+yvh79CK5Nn3Ck3PIyLJ03ZDyj6myk3kEo_xLmssW6y4,Hamburg,20537,Hamburg,Ausschläger Weg 74,"[10.036092,53.548923]",DEPOW,MOON POWER GmbH
+yylVR5ntDuQY52BjR5BHqYOn7XyxavJeTW6H43W1Phc,Hamburg,22529,Hamburg,Hamburg Heinrich-Kock-Weg Nr. 12,"[9.972202,53.594818]",DEGUE,Liikennevirta Oy (CPO)
+z-HM2hn-YIkgvHOKasR4dxeu14d0uefuadiivh_LiFE,Hamburg,20355,Hamburg,Enckeplatz 6,"[9.976159,53.552402]",DEHHM,Hamburger Energiewerke
+z3HAeyRkACghIYejSHkOS_WXFzwNfavvSeEeHnP3hDI,Hamburg,22087,Hamburg,Mühlendamm 66a,"[10.025904,53.562115]",DEEAZ,AVENCY GmbH
+zBff5HP90tHxmVm0rYKwcldJKCqSsIItZ6eFrW-hE9I,Hamburg,22765,Hamburg,Goetheallee 11,"[9.93829,53.554485]",DEWLN,Wirelane
+zESO9KWNc1_R9eYOOow_yyVqzr5jYQZeVmPAe5fqgsY,Hamburg,22605,Hamburg,Halbmondsweg 19,"[9.889938,53.549322]",DEMTS,Mentorics GmbH
+zGPLIp6dybOfo4-z0fwobSPzXjiSTs-q4P3_5VE7pfE,Hamburg,22529,Hamburg,Lohbekstieg 32,"[9.955201,53.595092]",DEHHM,Hamburger Energiewerke
+zHphQSxeFtPrwFsvDHq9HvSeP490yCET3nMD_JWbsY0,Hamburg,20099,Hamburg,Heidi-Kabel-Platz -,"[10.006748,53.55452]",DEHHM,Hamburger Energiewerke
+zN16Nwon9nH0a_Gdnm-h-wRpZAEQb6OpKlfY6-4RA-I,Hamburg,22309,Hamburg,Steilshooper Allee 9,"[10.04657,53.60842]",DEPFW,Pfalzwerke AG
+zNQHMBChT0PiQK-t-hYzGLQqtTRu76w1THwt7P1Rqmk,Hamburg,20359,Hamburg,Clemens-Schulz-Straße 96,"[9.964925,53.552243]",DEHHM,Hamburger Energiewerke
+zNlu_N48glwfscfP7xqjsOmhPHjtbauG6iYJ2RjKXQI,Hamburg,20359,Hamburg,Simon-von-Utrecht Straße 41,"[9.956964,53.551697]",DEEND,EMobility Netzwerk Deutschland GmbH
+zTKGGrt-Doxr8OBUw34Gpoy6nCiw9tgBXjRUaT4yFiU,Hamburg,22335,Hamburg,LH Basis G112-V3/4,"[9.993694,53.620787]",DEVAT,Vattenfall
+zUKxyI_7Tq_uUs6xaPTlTx2DMpcoffRYG7HPWqA5shU,Hamburg,22047,Hamburg,Friedrich-Ebert-Damm 129,"[10.098369,53.589849]",DEELC,energielenker service GmbH
+zYz_4DpfpVNWJ2qudPfu0P1lJWTiHwK62VM5_gvOYk4,Hamburg,22307,Hamburg,Tieloh 81,"[10.05142,53.59323]",DEHHM,Hamburger Energiewerke
+zZt4xhoKu1t4cnanwaJ6LZAiHc6yoYx3vu7V1Q6l2Ek,Hamburg,22111,Hamburg,Snitgerreihe 38,"[10.072832,53.556269]",DEHHM,Hamburger Energiewerke
+zaE6SifRurbgZgBgen8E-3C52HfDq3W4dhzQP1zlcw0,Hamburg,20355,Hamburg,Wexstraße 7,"[9.983344,53.551388]",DEHHM,Hamburger Energiewerke
+zg2-Yaneclq5HN3easHi2wjygiM7iV15HVBNdlvP1ow,Hamburg,22143,Hamburg,Merkurring 20,"[47.11,-47.11]",DE360,team eMobility GmbH
+zi2Iktv4CsTvWe1P6Hf_fvcpxjNpOttnSO1mvwZ3RtE,Hamburg,21109,Hamburg,Otto-Brenner-Straße 6,"[10.018841,53.489877]",DEBPE,Aral Pulse
+zq1BZuLFKrTx50k3UUaAqCJ9oYwMhls69kkkZMqvLhA,Hamburg,20251,Hamburg,Straßenbahnring 67,"[9.97617,53.58228]",DEHHM,Hamburger Energiewerke
+zqmLTfJfNbn-4U26pGDkeJW_k2dWUXFkwJevLVtFAJo,Hamburg,22337,Hamburg,Wellingsbütteler Landstraße 64,"[10.035689,53.629118]",DEHHM,Hamburger Energiewerke
+ztBbCmf3x8T6t3kEiu20MTybJjYirL2Lp_D2S6bbeaU,Hamburg,22337,Hamburg,Bodelschwinghstraße 12,"[10.02396,53.61541]",DEEZE,eze.network GmbH
+zuLNxfhtUIZHUbFp88DrA4-JMrhfQLapMi9axaZNVDY,Hamburg,21035,Hamburg,Wilhelm-Iwan-Ring 1,"[10.114941,53.489834]",DEBPE,Aral Pulse
+zvXxVcy0Rd3cb_TQV7TxP5MfN8xtSpggWHPatDEoEDk,Hamburg,20457,Hamburg,Amerigo-Vespucci-Platz 1,"[-18.54403,50.32348]",DECM1,chargecloud GmbH

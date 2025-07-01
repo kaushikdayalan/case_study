@@ -1,0 +1,8 @@
+scikit-learn>=1.6.1
+pandas>=2.3.0
+geopandas==1.0.1
+matplotlib>=3.9.4
+folium>=0.20.0
+kneed>=0.8.5
+tqdm>=4.67.1
+fastparquet>=2024.11.0
