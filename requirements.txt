@@ -6,3 +6,4 @@ folium>=0.20.0
 kneed>=0.8.5
 tqdm>=4.67.1
 fastparquet>=2024.11.0
+hdbscan>=0.8.40
